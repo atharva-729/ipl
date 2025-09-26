@@ -209,3 +209,164 @@ FROM (
 ) t
 WHERE runs > 0 AND wickets > 0 AND rnk = 1
 ORDER BY season;
+
+
+
+10. **Chasing vs Defending:** Which teams are stronger when batting first vs chasing?
+
+
+ipl=> WITH chasing AS (
+ipl(>     SELECT
+ipl(>         chasing_team AS team,
+ipl(>         COUNT(*) AS times_chased,
+ipl(>         COUNT(*) FILTER (WHERE chasing_team = winner) AS chasing_wins
+ipl(>     FROM matches
+ipl(>     GROUP BY chasing_team
+ipl(> ),
+ipl-> defending AS (
+ipl(>     SELECT
+ipl(>         defending_team AS team,
+ipl(>         COUNT(*) AS times_defended,
+ipl(>         COUNT(*) FILTER (WHERE defending_team = winner) AS defending_wins
+ipl(>     FROM matches
+ipl(>     GROUP BY defending_team
+ipl(> )
+ipl-> SELECT
+ipl->     c.team,
+ipl->     c.times_chased,
+ipl->     c.chasing_wins,
+ipl->     ROUND(100.0 * c.chasing_wins / NULLIF(c.times_chased, 0), 2) AS chasing_win_pct,
+ipl->     d.times_defended,
+ipl->     d.defending_wins,
+ipl->     ROUND(100.0 * d.defending_wins / NULLIF(d.times_defended, 0), 2) AS defending_win_pct
+ipl-> FROM chasing c
+ipl-> JOIN defending d ON c.team = d.team
+ipl-> ORDER BY chasing_win_pct DESC;
+
+
+
+
+11. **Home Advantage:** Do teams win more at their home grounds? (needs venue matching)
+
+
+ipl=> CREATE TABLE venue_mapping (
+ipl(>     raw_name TEXT,
+ipl(>     canonical_name TEXT
+ipl(> );
+CREATE TABLE
+ipl=> INSERT INTO venue_mapping (raw_name, canonical_name) VALUES
+ipl-> -- Chennai Super Kings
+ipl-> ('MA Chidambaram Stadium', 'MA Chidambaram Stadium'),
+ipl-> ('MA Chidambaram Stadium, Chepauk, Chennai', 'MA Chidambaram Stadium'),
+ipl-> ('MA Chidambaram Stadium, Chepauk', 'MA Chidambaram Stadium'),
+ipl->
+ipl-> -- Mumbai Indians
+ipl-> ('Wankhede Stadium', 'Wankhede Stadium'),
+ipl-> ('Wankhede Stadium, Mumbai', 'Wankhede Stadium'),
+ipl-> ('Brabourne Stadium', 'Wankhede Stadium'),
+ipl-> ('Brabourne Stadium, Mumbai', 'Wankhede Stadium'),
+ipl-> ('Dr DY Patil Sports Academy, Mumbai', 'Wankhede Stadium'),
+ipl->
+ipl-> -- Kolkata Knight Riders
+ipl-> ('Eden Gardens', 'Eden Gardens'),
+ipl-> ('Eden Gardens, Kolkata', 'Eden Gardens'),
+ipl->
+ipl-> -- Royal Challengers Bangalore
+ipl-> ('M Chinnaswamy Stadium', 'M Chinnaswamy Stadium'),
+ipl-> ('M Chinnaswamy Stadium, Bengaluru', 'M Chinnaswamy Stadium'),
+ipl->
+ipl-> -- Sunrisers Hyderabad
+ipl-> ('Rajiv Gandhi International Stadium', 'Rajiv Gandhi International Stadium'),
+ipl-> ('Rajiv Gandhi International Stadium, Uppal', 'Rajiv Gandhi International Stadium'),
+ipl-> ('Rajiv Gandhi International Stadium, Uppal, Hyderabad', 'Rajiv Gandhi International Stadium'),
+ipl->
+ipl-> -- Delhi Capitals
+ipl-> ('Arun Jaitley Stadium', 'Arun Jaitley Stadium'),
+ipl-> ('Arun Jaitley Stadium, Delhi', 'Arun Jaitley Stadium'),
+ipl-> ('Feroz Shah Kotla', 'Arun Jaitley Stadium'),
+ipl->
+ipl-> -- Punjab Kings (Kings XI Punjab)
+ipl-> ('Punjab Cricket Association Stadium, Mohali', 'Punjab Cricket Association IS Bindra Stadium'),
+ipl-> ('Punjab Cricket Association IS Bindra Stadium', 'Punjab Cricket Association IS Bindra Stadium'),
+ipl-> ('Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh', 'Punjab Cricket Association IS Bindra Stadium'),
+ipl-> ('Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh', 'Maharaja Yadavindra Singh International Cricket Stadium'),
+ipl-> ('Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur', 'Maharaja Yadavindra Singh International Cricket Stadium'),
+ipl->
+ipl-> -- Rajasthan Royals
+ipl-> ('Sawai Mansingh Stadium', 'Sawai Mansingh Stadium'),
+ipl-> ('Sawai Mansingh Stadium, Jaipur', 'Sawai Mansingh Stadium'),
+ipl->
+ipl-> -- Gujarat Titans
+ipl-> ('Narendra Modi Stadium', 'Narendra Modi Stadium'),
+ipl-> ('Narendra Modi Stadium, Ahmedabad', 'Narendra Modi Stadium'),
+ipl-> ('Sardar Patel Stadium, Motera', 'Narendra Modi Stadium'),
+ipl->
+ipl-> -- Lucknow Super Giants
+ipl-> ('Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow', 'BRSABV Ekana Cricket Stadium');
+
+ipl=> CREATE TABLE team_home_venues (
+ipl(>     team TEXT,
+ipl(>     venue TEXT
+ipl(> );
+CREATE TABLE
+ipl=> INSERT INTO team_home_venues (team, venue) VALUES
+ipl-> -- Chennai Super Kings
+ipl-> ('Chennai Super Kings', 'MA Chidambaram Stadium'),
+ipl->
+ipl-> -- Mumbai Indians
+ipl-> ('Mumbai Indians', 'Wankhede Stadium'),
+ipl->
+ipl-> -- Kolkata Knight Riders
+ipl-> ('Kolkata Knight Riders', 'Eden Gardens'),
+ipl->
+ipl-> -- Royal Challengers Bangalore
+ipl-> ('Royal Challengers Bangalore', 'M Chinnaswamy Stadium'),
+ipl-> ('Royal Challengers Bengaluru', 'M Chinnaswamy Stadium'), -- rename variant
+ipl->
+ipl-> -- Sunrisers Hyderabad
+ipl-> ('Sunrisers Hyderabad', 'Rajiv Gandhi International Stadium'),
+ipl->
+ipl-> -- Delhi Capitals / Daredevils
+ipl-> ('Delhi Capitals', 'Arun Jaitley Stadium'),
+ipl-> ('Delhi Daredevils', 'Arun Jaitley Stadium'),
+ipl->
+ipl-> -- Punjab Kings / Kings XI Punjab
+ipl-> ('Punjab Kings', 'Punjab Cricket Association IS Bindra Stadium'),
+ipl-> ('Kings XI Punjab', 'Punjab Cricket Association IS Bindra Stadium'),
+ipl->
+ipl-> -- Rajasthan Royals
+ipl-> ('Rajasthan Royals', 'Sawai Mansingh Stadium'),
+ipl->
+ipl-> -- Gujarat Titans
+ipl-> ('Gujarat Titans', 'Narendra Modi Stadium'),
+ipl->
+ipl-> -- Lucknow Super Giants
+ipl-> ('Lucknow Super Giants', 'BRSABV Ekana Cricket Stadium');
+INSERT 0 13
+ipl=> INSERT INTO team_home_venues (team, venue) VALUES
+ipl-> ('Punjab Kings', 'Maharaja Yadavindra Singh International Cricket Stadium');
+INSERT 0 1
+ipl=> WITH cleaned_matches AS (
+ipl(>     SELECT m.match_id, m.season,
+ipl(>            v.canonical_name AS venue,
+ipl(>            m.team1, m.team2, m.winner
+ipl(>     FROM matches m
+ipl(>     JOIN venue_mapping v
+ipl(>       ON m.venue = v.raw_name
+ipl(> ),
+ipl-> home_games AS (
+ipl(>     SELECT cm.*,
+ipl(>            th.team AS home_team
+ipl(>     FROM cleaned_matches cm
+ipl(>     JOIN team_home_venues th
+ipl(>       ON cm.venue = th.venue
+ipl(>      AND (cm.team1 = th.team OR cm.team2 = th.team)
+ipl(> )
+ipl-> SELECT
+ipl->     home_team,
+ipl->     COUNT(*) AS home_games,
+ipl->     COUNT(*) FILTER (WHERE winner = home_team) AS home_wins,
+ipl->     ROUND(100.0 * COUNT(*) FILTER (WHERE winner = home_team) / COUNT(*), 2) AS home_win_pct
+ipl-> FROM home_games
+ipl-> GROUP BY home_team
+ipl-> ORDER BY home_win_pct DESC;
