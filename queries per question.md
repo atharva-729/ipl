@@ -1,4 +1,4 @@
-1. top run scorers per season
+1. **top run scorers per season**
 
 select season, batsman, runs, rank from
 (select m.season, d.batsman, d.batting_team as team, sum(d.runs_batsman) as runs, rank() over(partition by m.season order by sum(d.runs_batsman) desc) as rank
@@ -84,12 +84,12 @@ ipl-> order by season desc;
 
 5. top wickets
 
-ipl=> select season, bowler, team, wickets from
-ipl-> (select m.season, d.bowler, case when d.batting_team = m.team1 then m.team2 else m.team1 end as team, sum(case when d.wicket_kind in ('bowled', 'caught', 'caught and bowled', 'lbw', 'stumped') then 1 else 0 end) as wickets, rank() over(partition by m.season order by sum(case when d.wicket_kind in ('bowled', 'caught', 'caught and bowled', 'lbw', 'stumped') then 1 else 0 end) desc) as rank
-ipl(> from matches m join deliveries d on d.match_id = m.match_id
-ipl(> group by m.season, d.bowler, case when d.batting_team = m.team1 then m.team2 else m.team1 end) t
-ipl-> where rank = 1
-ipl-> order by season;
+select season, bowler, team, wickets from
+(select m.season, d.bowler, case when d.batting_team = m.team1 then m.team2 else m.team1 end as team, sum(case when d.wicket_kind in ('bowled', 'caught', 'caught and bowled', 'lbw', 'stumped') then 1 else 0 end) as wickets, rank() over(partition by m.season order by sum(case when d.wicket_kind in ('bowled', 'caught', 'caught and bowled', 'lbw', 'stumped') then 1 else 0 end) desc) as rank
+from matches m join deliveries d on d.match_id = m.match_id
+group by m.season, d.bowler, case when d.batting_team = m.team1 then m.team2 else m.team1 end) t
+where rank = 1
+order by season;
 
 6. top wickets in death overs
 
