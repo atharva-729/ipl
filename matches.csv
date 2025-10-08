@@ -32,7 +32,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1031,2017,28-04-2017,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,,{'wickets': 7}
 1032,2017,28-04-2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,,{'runs': 26}
 1033,2017,29-04-2017,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,,{'runs': 61}
-1034,2017,29-04-2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,,tie,None
+1034,2017,29-04-2017,Saurashtra Cricket Association Stadium,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,,tie,
 1035,2017,30-04-2017,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,,{'wickets': 10}
 1036,2017,30-04-2017,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,,{'runs': 48}
 1037,2017,01-05-2017,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,,{'wickets': 5}
@@ -127,7 +127,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1126,2019,28-03-2019,M.Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,,{'runs': 6}
 1127,2019,29-03-2019,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,,{'wickets': 5}
 1128,2019,30-03-2019,Punjab Cricket Association IS Bindra Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,,{'wickets': 8}
-1129,2019,30-03-2019,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,,tie,None
+1129,2019,30-03-2019,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,,tie,
 1130,2019,31-03-2019,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,,{'runs': 118}
 1131,2019,31-03-2019,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,,{'runs': 8}
 1132,2019,01-04-2019,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,,{'runs': 14}
@@ -166,9 +166,9 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1165,2019,28-04-2019,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,,{'runs': 16}
 1166,2019,28-04-2019,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,,{'runs': 34}
 1167,2019,29-04-2019,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,,{'runs': 45}
-1168,2019,30-04-2019,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,None
+1168,2019,30-04-2019,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,
 1169,2019,01-05-2019,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,,{'runs': 80}
-1170,2019,02-05-2019,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,,tie,None
+1170,2019,02-05-2019,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,,tie,
 1171,2019,03-05-2019,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,{'wickets': 7}
 1172,2019,04-05-2019,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,,{'wickets': 5}
 1173,2019,04-05-2019,M.Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,{'wickets': 4}
@@ -179,7 +179,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1178,2019,10-05-2019,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,{'wickets': 6}
 1179,2019,12-05-2019,Rajiv Gandhi International Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,,{'runs': 1}
 1180,2020,19-09-2020,Sheikh Zayed Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,{'wickets': 5}
-1181,2020,20-09-2020,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,,tie,None
+1181,2020,20-09-2020,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,,tie,
 1182,2020,21-10-2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,,{'wickets': 8}
 1183,2020,03-11-2020,Sharjah Cricket Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,{'wickets': 10}
 1184,2020,22-09-2020,Sharjah Cricket Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,,{'runs': 16}
@@ -198,12 +198,12 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1197,2020,17-10-2020,Sharjah Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,,{'wickets': 5}
 1198,2020,24-09-2020,Dubai International Cricket Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,,{'runs': 97}
 1199,2020,06-10-2020,Sheikh Zayed Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,,{'runs': 57}
-1200,2020,18-10-2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,tie,None
+1200,2020,18-10-2020,Sheikh Zayed Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,tie,
 1201,2020,04-10-2020,Dubai International Cricket Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,,{'wickets': 10}
 1202,2020,03-10-2020,Sheikh Zayed Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,,{'wickets': 8}
 1203,2020,03-10-2020,Sharjah Cricket Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,,{'runs': 18}
 1204,2020,02-10-2020,Dubai International Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,,{'runs': 7}
-1205,2020,18-10-2020,Dubai International Cricket Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,,tie,None
+1205,2020,18-10-2020,Dubai International Cricket Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,,tie,
 1206,2020,22-10-2020,Dubai International Cricket Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,{'wickets': 8}
 1207,2020,05-10-2020,Dubai International Cricket Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,,{'runs': 59}
 1208,2020,26-10-2020,Sharjah Cricket Stadium,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,,{'wickets': 8}
@@ -233,7 +233,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1232,2020,25-10-2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,,{'wickets': 8}
 1233,2020,26-09-2020,Sheikh Zayed Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,,{'wickets': 7}
 1234,2020,20-10-2020,Dubai International Cricket Stadium,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,,{'wickets': 5}
-1235,2020,28-09-2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,,tie,None
+1235,2020,28-09-2020,Dubai International Cricket Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,,tie,
 1236,2020,05-11-2020,Dubai International Cricket Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,,{'runs': 57}
 1237,2020,06-11-2020,Sheikh Zayed Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,{'wickets': 6}
 1238,2020,08-11-2020,Sheikh Zayed Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,,{'runs': 17}
@@ -257,7 +257,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1256,2021,23-04-2021,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,,{'wickets': 9}
 1257,2021,24-04-2021,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,{'wickets': 6}
 1258,2021,25-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,,{'runs': 69}
-1259,2021,25-04-2021,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,,tie,None
+1259,2021,25-04-2021,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,,tie,
 1260,2021,26-04-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,{'wickets': 5}
 1261,2021,27-04-2021,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,,{'runs': 1}
 1262,2021,28-04-2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,,{'wickets': 7}
@@ -416,7 +416,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1415,2023,30-04-2023,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,,{'wickets': 6}
 1416,2023,01-05-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,{'runs': 18}
 1417,2023,02-05-2023,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,,{'runs': 5}
-1418,2023,03-05-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,,no result,None
+1418,2023,03-05-2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,,no result,
 1419,2023,03-05-2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,{'wickets': 6}
 1420,2023,04-05-2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,,{'runs': 5}
 1421,2023,05-05-2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,,{'wickets': 9}
@@ -548,7 +548,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1547,2025,13-04-2025,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,,{'runs': 12}
 1548,2025,14-04-2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,{'wickets': 5}
 1549,2025,15-04-2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,,{'runs': 16}
-1550,2025,16-04-2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,,tie,None
+1550,2025,16-04-2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,,tie,
 1551,2025,17-04-2025,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,{'wickets': 4}
 1552,2025,18-04-2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,Punjab Kings,,{'wickets': 5}
 1553,2025,19-04-2025,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,{'wickets': 7}
@@ -560,7 +560,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1559,2025,23-04-2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,{'wickets': 7}
 1560,2025,24-04-2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bengaluru,,{'runs': 11}
 1561,2025,25-04-2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,{'wickets': 5}
-1562,2025,26-04-2025,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,,no result,None
+1562,2025,26-04-2025,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,,no result,
 1563,2025,27-04-2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,field,Mumbai Indians,,{'runs': 54}
 1564,2025,27-04-2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,{'wickets': 6}
 1565,2025,28-04-2025,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,{'wickets': 8}
@@ -571,10 +571,10 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1570,2025,03-05-2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bengaluru,,{'runs': 2}
 1571,2025,04-05-2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,,{'runs': 1}
 1572,2025,04-05-2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Punjab Kings,,{'runs': 37}
-1573,2025,05-05-2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,no result,None
+1573,2025,05-05-2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,no result,
 1574,2025,06-05-2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,{'wickets': 3}
 1575,2025,07-05-2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,,{'wickets': 2}
-1576,2025,08-05-2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,Punjab Kings,bat,,no result,None
+1576,2025,08-05-2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,Punjab Kings,bat,,no result,
 1577,2025,18-05-2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,,{'runs': 10}
 1578,2025,18-05-2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,{'wickets': 10}
 1579,2025,19-05-2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,{'wickets': 6}
@@ -597,7 +597,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1596,2013,06-04-2013,Feroz Shah Kotla,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,,{'runs': 5}
 1597,2013,06-04-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,,{'runs': 9}
 1598,2013,07-04-2013,Subrata Roy Sahara Stadium,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,,{'wickets': 8}
-1599,2013,07-04-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,,tie,None
+1599,2013,07-04-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,,tie,
 1600,2013,08-04-2013,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,,{'runs': 19}
 1601,2013,09-04-2013,Wankhede Stadium,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,,{'runs': 44}
 1602,2013,10-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,{'wickets': 10}
@@ -610,7 +610,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1609,2013,14-04-2013,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,,{'wickets': 6}
 1610,2013,15-04-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,,{'runs': 24}
 1611,2013,16-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,,{'runs': 4}
-1612,2013,16-04-2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,,tie,None
+1612,2013,16-04-2013,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,,tie,
 1613,2013,17-04-2013,Maharashtra Cricket Association Stadium,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,,{'runs': 11}
 1614,2013,17-04-2013,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,,{'runs': 87}
 1615,2013,18-04-2013,Feroz Shah Kotla,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,,{'runs': 86}
@@ -685,7 +685,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1684,2014,27-04-2014,Sharjah Cricket Stadium,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,,{'wickets': 6}
 1685,2014,27-04-2014,Sharjah Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,,{'wickets': 5}
 1686,2014,28-04-2014,Dubai International Cricket Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,,{'wickets': 5}
-1687,2014,29-04-2014,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,,tie,None
+1687,2014,29-04-2014,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,,tie,
 1688,2014,30-04-2014,Dubai International Cricket Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,,{'runs': 15}
 1689,2014,02-05-2014,JSCA International Stadium Complex,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,,{'runs': 34}
 1690,2014,03-05-2014,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,,{'wickets': 5}
@@ -745,7 +745,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1744,2015,19-04-2015,"Sardar Patel Stadium, Motera",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,,{'wickets': 8}
 1745,2015,19-04-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,,{'runs': 18}
 1746,2015,20-04-2015,Feroz Shah Kotla,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,{'wickets': 6}
-1747,2015,21-04-2015,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,,tie,None
+1747,2015,21-04-2015,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,,tie,
 1748,2015,22-04-2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,,{'runs': 16}
 1749,2015,22-04-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,,{'runs': 27}
 1750,2015,23-04-2015,Feroz Shah Kotla,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,,{'runs': 37}
@@ -755,7 +755,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1754,2015,26-04-2015,Feroz Shah Kotla,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,{'wickets': 10}
 1755,2015,27-04-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,,{'runs': 20}
 1756,2015,07-05-2015,Eden Gardens,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,,{'runs': 13}
-1757,2015,29-04-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,None
+1757,2015,29-04-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,no result,
 1758,2015,28-04-2015,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,,{'runs': 2}
 1759,2015,01-05-2015,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,,{'wickets': 9}
 1760,2015,01-05-2015,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,,{'runs': 8}
@@ -780,7 +780,7 @@ match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,result,m
 1779,2015,15-05-2015,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,,{'wickets': 6}
 1780,2015,16-05-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,,{'wickets': 7}
 1781,2015,16-05-2015,Brabourne Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,,{'runs': 9}
-1782,2015,17-05-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,,no result,None
+1782,2015,17-05-2015,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,,no result,
 1783,2015,17-05-2015,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,,{'wickets': 9}
 1784,2015,19-05-2015,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,,{'runs': 25}
 1785,2015,20-05-2015,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,{'runs': 71}

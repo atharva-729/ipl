@@ -1,3 +1,12 @@
+rather pain points:
+1. names did not match - this led to missing data
+2. retained players
+3. 
+
+
+
+
+
 for batsmen with more than 200 deliveries faced, the ones with the lowest strike rates:
  season |     batsman      | runs | balls |     strike_rate      | rank
 --------+------------------+------+-------+----------------------+------

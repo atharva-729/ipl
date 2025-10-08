@@ -370,3 +370,217 @@ ipl->     ROUND(100.0 * COUNT(*) FILTER (WHERE winner = home_team) / COUNT(*), 2
 ipl-> FROM home_games
 ipl-> GROUP BY home_team
 ipl-> ORDER BY home_win_pct DESC;
+
+
+
+
+## with auction data
+
+### batsman roi adjusted for inflation
+
+\copy (
+    SELECT m.season,
+           d.batsman AS player,
+           SUM(d.runs_batsman) AS runs,
+           MAX(a.price * f.factor_to_2025) AS adj_price,
+           ROUND(MAX(a.price * f.factor_to_2025)::numeric / NULLIF(SUM(d.runs_batsman),0), 2) AS price_per_run_adj
+    FROM matches m
+    JOIN deliveries d ON m.match_id = d.match_id
+    JOIN auctions_dedup a ON a.name = d.batsman AND a.year = m.season
+    JOIN cpi f ON f.year = a.year
+    GROUP BY m.season, d.batsman
+    HAVING SUM(d.runs_batsman) >= 150
+    ORDER BY m.season, runs DESC
+) TO 'C:/Users/91821/Desktop/ipl/batsmen_roi_inflation.csv' CSV HEADER;
+
+
+### bowler roi adjusted for inflation
+
+\copy (
+    SELECT m.season,
+           d.bowler AS player,
+           SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','caught and bowled','lbw','stumped')
+                    THEN 1 ELSE 0 END) AS wickets,
+           MAX(a.price * f.inflation) AS adj_price,
+           ROUND(MAX(a.price * f.inflation)::numeric / NULLIF(SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','caught and bowled','lbw','stumped')
+                                                                           THEN 1 ELSE 0 END),0), 2) AS price_per_wicket_adj
+    FROM matches m
+    JOIN deliveries d ON m.match_id = d.match_id
+    JOIN auctions_dedup a ON a.name = d.bowler AND a.year = m.season
+    JOIN cpi f ON f.year = a.year
+    GROUP BY m.season, d.bowler
+    HAVING SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','caught and bowled','lbw','stumped') THEN 1 ELSE 0 END) >= 10
+    ORDER BY m.season, wickets DESC
+) TO 'C:/Users/91821/Desktop/ipl/bowlers_roi_inflation.csv' CSV HEADER;
+
+
+### all rounder roi adjusted for inflation
+
+\copy (
+WITH batting AS (
+    SELECT m.season, d.batsman AS player, SUM(d.runs_batsman) AS runs
+    FROM matches m
+    JOIN deliveries d ON d.match_id = m.match_id
+    GROUP BY m.season, d.batsman
+),
+bowling AS (
+    SELECT m.season, d.bowler AS player,
+           SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','caught and bowled','lbw','stumped') THEN 1 ELSE 0 END) AS wickets
+    FROM matches m
+    JOIN deliveries d ON d.match_id = m.match_id
+    GROUP BY m.season, d.bowler
+),
+combined AS (
+    SELECT b.season, b.player,
+           COALESCE(b.runs, 0) AS runs,
+           COALESCE(w.wickets, 0) AS wickets
+    FROM batting b
+    FULL JOIN bowling w ON b.player = w.player AND b.season = w.season
+),
+standardized AS (
+    SELECT season, player, runs, wickets,
+           (runs - AVG(runs) OVER (PARTITION BY season)) /
+               NULLIF(STDDEV_POP(runs) OVER (PARTITION BY season),0) AS runs_z,
+           (wickets - AVG(wickets) OVER (PARTITION BY season)) /
+               NULLIF(STDDEV_POP(wickets) OVER (PARTITION BY season),0) AS wickets_z
+    FROM combined
+),
+shifted AS (
+    SELECT season, player, runs, wickets,
+           (runs_z + wickets_z) AS raw_score
+    FROM standardized
+),
+normalized AS (
+    SELECT season, player, runs, wickets,
+           raw_score - MIN(raw_score) OVER (PARTITION BY season) AS allrounder_score
+    FROM shifted
+),
+with_price AS (
+    SELECT n.*, (a.price * f.inflation) AS adj_price
+    FROM normalized n
+    JOIN auctions_dedup a ON a.name = n.player AND a.year = n.season
+    JOIN cpi f ON f.year = a.year
+    WHERE runs > 0 AND wickets > 0
+)
+SELECT season, player, runs, wickets,
+       allrounder_score,
+       adj_price,
+       ROUND(adj_price::numeric / NULLIF(allrounder_score,0), 2) AS price_per_allrounder_score_adj
+FROM with_price
+ORDER BY season, allrounder_score DESC
+) TO 'C:/Users/91821/Desktop/ipl/allrounders_roi_inflation.csv' CSV HEADER;
+
+
+
+name change
+
+UPDATE matches
+     SET team1 = CASE
+    WHEN team1 = 'Gujarat Lions' THEN 'Gujarat Titans'
+    WHEN team1 = 'Rising Pune Supergiants' THEN 'Lucknow Super Giants'
+    WHEN team1 = 'Rising Pune Supergiant' THEN 'Lucknow Super Giants'
+    WHEN team1 = 'Pune Warriors' THEN 'Lucknow Super Giants'
+    WHEN team1 = 'Royal Challengers Bangalore' THEN 'Royal Challengers Bengaluru'
+    WHEN team1 = 'Kings XI Punjab' THEN 'Punjab Kings'
+    WHEN team1 = 'Delhi Daredevils' THEN 'Delhi Capitals'
+    ELSE team1
+END;
+
+UPDATE matches
+     SET team2 = CASE
+    WHEN team2 = 'Gujarat Lions' THEN 'Gujarat Titans'
+    WHEN team2 = 'Rising Pune Supergiants' THEN 'Lucknow Super Giants'
+    WHEN team2 = 'Rising Pune Supergiant' THEN 'Lucknow Super Giants'
+    WHEN team2 = 'Pune Warriors' THEN 'Lucknow Super Giants'
+    WHEN team2 = 'Royal Challengers Bangalore' THEN 'Royal Challengers Bengaluru'
+    WHEN team2 = 'Kings XI Punjab' THEN 'Punjab Kings'
+    WHEN team2 = 'Delhi Daredevils' THEN 'Delhi Capitals'
+    ELSE team2
+END;
+
+UPDATE matches
+     SET toss_winner = CASE
+    WHEN toss_winner = 'Gujarat Lions' THEN 'Gujarat Titans'
+    WHEN toss_winner = 'Rising Pune Supergiants' THEN 'Lucknow Super Giants'
+    WHEN toss_winner = 'Rising Pune Supergiant' THEN 'Lucknow Super Giants'
+    WHEN toss_winner = 'Pune Warriors' THEN 'Lucknow Super Giants'
+    WHEN toss_winner = 'Royal Challengers Bangalore' THEN 'Royal Challengers Bengaluru'
+    WHEN toss_winner = 'Kings XI Punjab' THEN 'Punjab Kings'
+    WHEN toss_winner = 'Delhi Daredevils' THEN 'Delhi Capitals'
+    ELSE toss_winner
+END;
+
+UPDATE matches
+     SET winner = CASE
+    WHEN winner = 'Gujarat Lions' THEN 'Gujarat Titans'
+    WHEN winner = 'Rising Pune Supergiants' THEN 'Lucknow Super Giants'
+    WHEN winner = 'Rising Pune Supergiant' THEN 'Lucknow Super Giants'
+    WHEN winner = 'Pune Warriors' THEN 'Lucknow Super Giants'
+    WHEN winner = 'Royal Challengers Bangalore' THEN 'Royal Challengers Bengaluru'
+    WHEN winner = 'Kings XI Punjab' THEN 'Punjab Kings'
+    WHEN winner = 'Delhi Daredevils' THEN 'Delhi Capitals'
+    ELSE winner
+END;
+
+UPDATE auctions
+SET team = CASE
+    WHEN team = 'punjab-kings' THEN 'Punjab Kings'
+    WHEN team = 'kolkata-knight-riders' THEN 'Kolkata Knight Riders'
+    WHEN team = 'sunrisers-hyderabad' THEN 'Sunrisers Hyderabad'
+    WHEN team = 'gujarat-titans' THEN 'Gujarat Titans'
+    WHEN team = 'rajasthan-royals' THEN 'Rajasthan Royals'
+    WHEN team = 'lucknow-super-giants' THEN 'Lucknow Super Giants'
+    WHEN team = 'mumbai-indians' THEN 'Mumbai Indians'
+    WHEN team = 'royal-challengers-bengaluru' THEN 'Royal Challengers Bengaluru'
+    WHEN team = 'delhi-capitals' THEN 'Delhi Capitals'
+    WHEN team = 'chennai-super-kings' THEN 'Chennai Super Kings'
+    ELSE team
+END;
+
+
+UPDATE deliveries
+     SET batting_team = CASE
+    WHEN batting_team = 'Gujarat Lions' THEN 'Gujarat Titans'
+    WHEN batting_team = 'Rising Pune Supergiants' THEN 'Lucknow Super Giants'
+    WHEN batting_team = 'Rising Pune Supergiant' THEN 'Lucknow Super Giants'
+    WHEN batting_team = 'Pune Warriors' THEN 'Lucknow Super Giants'
+    WHEN batting_team = 'Royal Challengers Bangalore' THEN 'Royal Challengers Bengaluru'
+    WHEN batting_team = 'Kings XI Punjab' THEN 'Punjab Kings'
+    WHEN batting_team = 'Delhi Daredevils' THEN 'Delhi Capitals'
+    ELSE batting_team
+END;
+
+\copy (
+    SELECT
+        m.season,
+        d.batsman AS player,
+        d.batting_team AS team,
+        SUM(d.runs_batsman) AS runs,
+        COUNT(*) FILTER (WHERE d.extras_type NOT IN ('wides','noballs')) AS balls,
+        ROUND((SUM(d.runs_batsman) * 100.0) /
+              NULLIF(COUNT(*) FILTER (WHERE d.extras_type NOT IN ('wides','noballs')), 0), 2) AS strike_rate,
+        SUM(CASE WHEN d.runs_batsman = 4 THEN 1 ELSE 0 END) AS fours,
+        SUM(CASE WHEN d.runs_batsman = 6 THEN 1 ELSE 0 END) AS sixes,
+        ROUND((SUM(CASE WHEN d.runs_batsman IN (4,6) THEN 1 ELSE 0 END)::float /
+               NULLIF(COUNT(*) FILTER (WHERE d.extras_type NOT IN ('wides','noballs')), 0)) * 100, 2) AS boundary_pct,
+        SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls,
+        ROUND((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float /
+               NULLIF(COUNT(*), 0)) * 100, 2) AS dot_pct,
+        COUNT(DISTINCT d.player_out) AS dismissals,
+        ROUND(SUM(d.runs_batsman)::float / NULLIF(COUNT(DISTINCT d.player_out), 0), 2) AS batting_avg
+    FROM matches m
+    JOIN deliveries d ON m.match_id = d.match_id
+    WHERE d.over BETWEEN 1 AND 6
+    GROUP BY m.season, d.batsman, d.batting_team
+) TO 'C:/Users/91821/Desktop/ipl/batting_powerplay.csv' CSV HEADER;
+
+
+
+ho wi got batting_powerplay, bowling_death and all
+
+\copy (SELECT m.season, d.batsman AS player, d.batting_team AS team, SUM(d.runs_batsman) AS runs, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_batsman) * 100.0) / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0))::numeric, 2) AS strike_rate, SUM(CASE WHEN d.runs_batsman = 4 THEN 1 ELSE 0 END) AS fours, SUM(CASE WHEN d.runs_batsman = 6 THEN 1 ELSE 0 END) AS sixes, ROUND(((SUM(CASE WHEN d.runs_batsman IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 1 AND 6 GROUP BY m.season, d.batsman, d.batting_team) TO 'C:/Users/91821/Desktop/ipl/batting_powerplay.csv' CSV HEADER;
+\copy (SELECT m.season, d.batsman AS player, d.batting_team AS team, SUM(d.runs_batsman) AS runs, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_batsman) * 100.0) / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0))::numeric, 2) AS strike_rate, SUM(CASE WHEN d.runs_batsman = 4 THEN 1 ELSE 0 END) AS fours, SUM(CASE WHEN d.runs_batsman = 6 THEN 1 ELSE 0 END) AS sixes, ROUND(((SUM(CASE WHEN d.runs_batsman IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 7 AND 15 GROUP BY m.season, d.batsman, d.batting_team) TO 'C:/Users/91821/Desktop/ipl/batting_middle.csv' CSV HEADER;
+\copy (SELECT m.season, d.batsman AS player, d.batting_team AS team, SUM(d.runs_batsman) AS runs, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_batsman) * 100.0) / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0))::numeric, 2) AS strike_rate, SUM(CASE WHEN d.runs_batsman = 4 THEN 1 ELSE 0 END) AS fours, SUM(CASE WHEN d.runs_batsman = 6 THEN 1 ELSE 0 END) AS sixes, ROUND(((SUM(CASE WHEN d.runs_batsman IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 16 AND 20 GROUP BY m.season, d.batsman, d.batting_team) TO 'C:/Users/91821/Desktop/ipl/batting_death.csv' CSV HEADER;
+\copy (SELECT m.season, d.bowler AS player, CASE WHEN d.batting_team = m.team1 THEN m.team2 ELSE m.team1 END AS team, SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','lbw','stumped','caught and bowled') THEN 1 ELSE 0 END) AS wickets, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_total)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 6)::numeric, 2) AS economy, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct, SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END) AS boundaries_conceded, ROUND(((SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct_conceded FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 1 AND 6 GROUP BY m.season, d.bowler, team) TO 'C:/Users/91821/Desktop/ipl/bowling_powerplay.csv' CSV HEADER;
+\copy (SELECT m.season, d.bowler AS player, CASE WHEN d.batting_team = m.team1 THEN m.team2 ELSE m.team1 END AS team, SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','lbw','stumped','caught and bowled') THEN 1 ELSE 0 END) AS wickets, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_total)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 6)::numeric, 2) AS economy, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct, SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END) AS boundaries_conceded, ROUND(((SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct_conceded FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 7 AND 15 GROUP BY m.season, d.bowler, team) TO 'C:/Users/91821/Desktop/ipl/bowling_middle.csv' CSV HEADER;
+\copy (SELECT m.season, d.bowler AS player, CASE WHEN d.batting_team = m.team1 THEN m.team2 ELSE m.team1 END AS team, SUM(CASE WHEN d.wicket_kind IN ('bowled','caught','lbw','stumped','caught and bowled') THEN 1 ELSE 0 END) AS wickets, SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END) AS balls, ROUND(((SUM(d.runs_total)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 6)::numeric, 2) AS economy, SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END) AS dot_balls, ROUND(((SUM(CASE WHEN d.runs_total = 0 THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS dot_pct, SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END) AS boundaries_conceded, ROUND(((SUM(CASE WHEN d.runs_total IN (4,6) THEN 1 ELSE 0 END)::float / NULLIF(SUM(CASE WHEN d.extras_type IN ('noballs','wides') THEN 0 ELSE 1 END), 0)) * 100)::numeric, 2) AS boundary_pct_conceded FROM matches m JOIN deliveries d ON m.match_id = d.match_id WHERE d.over BETWEEN 16 AND 20 GROUP BY m.season, d.bowler, team) TO 'C:/Users/91821/Desktop/ipl/bowling_death.csv' CSV HEADER;

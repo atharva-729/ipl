@@ -119,7 +119,7 @@ Abhishek Sharma,india,23.0,,bowler,left-handed-bat,left-arm-orthodox,0,0,0.0,0.0
 R Tewatia,india,21.0,,batting-allrounder,left-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,1013,25.33,134.71,1,84,47,0,0.0,0.0,0.0,32,7.91,34.72,26.34,rajasthan-royals,2014,1000000,130.0
 A Mishra,india,32.0,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,381,11.91,90.94,0,31,5,16,6.32,15.0,14.25,174,7.38,23.82,19.37,rajasthan-royals,2014,1000000,132.0
 PV Tambe,india,43.0,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,4,18,9.0,46.16,0,1,0,0,0.0,0.0,0.0,28,7.75,30.46,23.57,rajasthan-royals,2014,1000000,133.0
-Yudhvir Singh,india,33.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,royal-challengers-bengaluru,2014,140000000,134.0
+Yuvraj Singh,india,33.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,royal-challengers-bengaluru,2014,140000000,134.0
 VR Aaron,india,25.0,,bowler,right-handed-bat,right-arm-fast,0,0,0.0,0.0,0,0,0,8,50,10.0,69.45,0,2,2,0,0.0,0.0,0.0,44,8.94,33.66,22.59,royal-challengers-bengaluru,2014,20000000,136.0
 AB Dinda,india,30.0,,bowler,right-handed-bat,right-arm-fast-medium,1,22,22.0,91.67,0,1,0,7,26,2.6,54.17,0,2,0,17,8.17,14.41,10.59,69,8.2,30.04,21.97,royal-challengers-bengaluru,2014,15000000,137.0
 PA Patel,india,29.0,,wk-batsman,left-handed-bat,,0,36,18.0,112.5,0,4,1,11,2848,22.6,120.79,13,365,49,0,0.0,0.0,0.0,0,0.0,0.0,0.0,royal-challengers-bengaluru,2014,14000000,138.0
@@ -159,7 +159,7 @@ KJ Abbott,south africa,28.0,,bowler,right-handed-bat,right-arm-fast-medium,4,23,
 AJ Tye,australia,29.0,,bowler,right-handed-bat,right-arm-fast-medium,7,83,10.38,109.22,0,5,4,4,91,10.11,119.74,0,6,5,47,8.76,21.21,14.53,42,8.59,23.31,16.29,chennai-super-kings,2015,2000000,176.0
 P Simran Singh,india,21.0,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,chennai-super-kings,2015,1000000,177.0
 ER Dwivedi,india,27.0,,wk-batsman,right-handed-bat,,0,0,0.0,0.0,0,0,0,0,24,12.0,171.43,0,2,2,0,0.0,0.0,0.0,0,0.0,0.0,0.0,chennai-super-kings,2015,1000000,179.0
-Yudhvir Singh,india,34.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,delhi-capitals,2015,160000000,134.0
+Yuvraj Singh,india,34.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,delhi-capitals,2015,160000000,134.0
 AD Mathews,sri lanka,28.0,,batting-allrounder,right-handed-bat,right-arm-fast-medium,22,1416,27.76,120.52,6,92,50,11,724,23.35,125.92,1,44,29,45,7.13,30.87,25.98,27,8.18,39.96,29.3,delhi-capitals,2015,75000000,181.0
 Z Khan,india,37.0,,bowler,right-handed-bat,left-arm-fast-medium,2,13,6.5,130.0,0,0,1,18,117,8.36,82.98,0,11,2,17,7.64,26.35,20.71,102,7.59,27.27,21.57,delhi-capitals,2015,40000000,104.0
 A Mishra,india,33.0,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,381,11.91,90.94,0,31,5,16,6.32,15.0,14.25,174,7.38,23.82,19.37,delhi-capitals,2015,35000000,132.0
@@ -274,7 +274,7 @@ P Dubey,india,23.0,,bowling-allrounder,right-handed-bat,right-arm-legbreak,0,0,0
 VS Malik,india,33.0,,bowler,right-handed-bat,right-arm-medium,0,0,0.0,0.0,0,0,0,1,7,7.0,100.0,0,1,0,0,0.0,0.0,0.0,6,7.64,43.5,34.17,royal-challengers-bengaluru,2016,2000000,128.0
 Iqbal Abdulla,india,27.0,,bowler,left-handed-bat,left-arm-orthodox,0,0,0.0,0.0,0,0,0,11,88,44.0,104.77,0,9,1,0,0.0,0.0,0.0,40,7.23,27.73,23.0,royal-challengers-bengaluru,2016,1000000,125.0
 Sachin Baby,india,28.0,,batsman,left-handed-bat,right-arm-offbreak,0,0,0.0,0.0,0,0,0,2,144,16.0,122.04,0,11,5,0,0.0,0.0,0.0,2,4.8,4.0,5.0,royal-challengers-bengaluru,2016,1000000,313.0
-Yudhvir Singh,india,35.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,sunrisers-hyderabad,2016,70000000,134.0
+Yuvraj Singh,india,35.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,sunrisers-hyderabad,2016,70000000,134.0
 A Nehra,india,37.0,,bowler,right-handed-bat,left-arm-fast-medium,0,28,5.6,71.8,0,1,2,15,41,5.86,66.13,0,3,1,34,7.73,22.29,17.29,106,7.85,23.54,18.0,sunrisers-hyderabad,2016,55000000,36.0
 Mujeeb Ur Rahman,bangladesh,21.0,,bowler,left-handed-bat,left-arm-fast-medium,13,87,4.58,74.36,0,3,5,8,13,13.0,56.53,0,0,1,132,7.52,21.62,17.26,61,8.14,28.89,21.28,sunrisers-hyderabad,2016,14000000,317.0
 BCJ Cutting,australia,29.0,6.29952,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,40,10.0,148.15,0,2,3,6,238,21.64,168.8,0,15,19,3,10.24,71.67,42.0,10,9.16,42.9,28.1,sunrisers-hyderabad,2016,5000000,123.0
@@ -378,7 +378,7 @@ Mujeeb Ur Rahman,afghanistan,17.0,,bowler,right-handed-bat,right-arm-offbreak,8,
 Arshdeep Singh,india,,,bowler,right-handed-bat,right-arm-offbreak,0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,punjab-kings,2018,30000000,275.0
 DA Miller,south africa,29.0,,batsman,left-handed-bat,,36,2593,33.24,140.78,8,168,130,43,2924,36.1,139.24,13,207,134,0,0.0,0.0,0.0,0,0.0,0.0,0.0,punjab-kings,2018,30000000,425.0
 MM Sharma,india,30.0,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,14,124,7.29,93.24,0,8,4,6,8.04,30.83,23.0,132,8.67,24.67,17.07,punjab-kings,2018,24000000,37.0
-Yudhvir Singh,india,37.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,punjab-kings,2018,20000000,134.0
+Yuvraj Singh,india,37.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,punjab-kings,2018,20000000,134.0
 CH Gayle,west indies,39.0,,batsman,left-handed-bat,right-arm-offbreak,7,1899,27.93,137.51,14,158,124,16,4965,39.72,148.97,31,405,357,20,6.93,22.0,19.05,18,7.9,40.5,30.78,punjab-kings,2018,20000000,428.0
 AD Nath,india,25.0,,batting-allrounder,right-handed-bat,right-arm-fast-medium,0,0,0.0,0.0,0,0,0,0,90,9.0,91.84,0,7,2,0,0.0,0.0,0.0,0,0.0,0.0,0.0,punjab-kings,2018,10000000,262.0
 MK Tiwary,india,33.0,,batsman,right-handed-bat,right-arm-legbreak,0,15,15.0,88.24,0,0,0,26,1695,28.73,116.98,7,156,40,0,0.0,0.0,0.0,1,11.86,83.0,42.0,punjab-kings,2018,10000000,54.0
@@ -499,7 +499,7 @@ HF Gurney,england,33.0,,bowler,right-handed-bat,left-arm-fast-medium,0,0,0.0,0.0
 NS Naik,india,25.0,,batsman,right-handed-bat,right-arm-offbreak,0,0,0.0,0.0,0,0,0,0,31,7.75,62.0,0,2,0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,kolkata-knight-riders,2019,2000000,194.0
 A Nortje,south africa,26.0,,bowler,right-handed-bat,right-arm-fast,6,17,2.83,48.58,0,1,0,9,49,8.17,100.0,0,6,0,53,7.01,19.17,16.4,60,8.96,26.23,17.57,kolkata-knight-riders,2019,2000000,558.0
 SL Malinga,sri lanka,36.0,,bowler,right-handed-bat,right-arm-fast,12,136,6.48,84.48,0,9,5,9,88,5.5,88.89,0,6,5,107,7.42,20.79,16.81,170,7.14,19.79,16.63,mumbai-indians,2019,20000000,559.0
-Yudhvir Singh,india,38.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,mumbai-indians,2019,10000000,134.0
+Yuvraj Singh,india,38.0,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.39,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,mumbai-indians,2019,10000000,134.0
 Arshdeep Singh,india,21.0,,batsman,right-handed-bat,right-arm-offbreak,0,0,0.0,0.0,0,0,0,0,139,15.44,120.87,0,19,3,0,0.0,0.0,0.0,0,0.0,0.0,0.0,mumbai-indians,2019,8000000,561.0
 Rasikh Salam,india,19.0,,bowler,right-handed-bat,right-arm-fast-medium,0,0,0.0,0.0,0,0,0,1,40,8.0,100.0,0,5,0,0,0.0,0.0,0.0,9,10.43,37.67,21.67,mumbai-indians,2019,2000000,563.0
 JD Unadkat,india,28.0,,bowler,right-handed-bat,left-arm-fast-medium,0,0,0.0,0.0,0,0,0,16,197,12.31,118.68,0,16,7,14,8.68,21.5,14.86,99,8.98,32.21,21.53,rajasthan-royals,2019,84000000,23.0
