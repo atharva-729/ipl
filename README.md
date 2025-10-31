@@ -1,53 +1,198 @@
-Questions we try to answer in this project. All answers are in code right now, will polish this readme afterwards.
+# **IPL Franchise ROI Analytics Dashboard**
 
-## **Player-Centric Questions**
-
-1. **Top Run Scorers:** Who were the top 10 batsmen by runs each season?
-2. **Strike Rate Kings:** Among players with ≥200 balls faced, who has the best strike rate?
-3. **Boundary Specialists:** Which players hit the most 4s/6s per season?
-4. **Death Overs Specialist Batters:** Who scored the most runs in overs 16–20 across all seasons?
-5. **Top Wicket-Takers:** Which bowlers took the most wickets per season?
-6. **Economy in Death Overs:** Who are the most economical bowlers in overs 16–20 (min 10 overs bowled)?
-7. **All-Rounder Value:** Which players contributed the most both with bat (runs) and ball (wickets) in a season?
+**Duration:** Aug 2025 – Sept 2025
+**Tech Stack:** SQL | Python (pandas, NumPy, statsmodels) | Power BI
+**Domain:** Sports Analytics | Moneyball Analysis
 
 ---
 
-## **Team-Centric Questions**
+## **Overview**
 
-8. **Win % per Season:** Which teams had the highest win % each season?
-9. **Consistency:** Which teams maintained win % > 50% across the most seasons?
-10. **Chasing vs Defending:** Which teams are stronger when batting first vs chasing?
-11. **Home Advantage:** Do teams win more at their home grounds? (needs venue matching)
-12. **Dominance Periods:** Which teams dominated specific eras (2008–2012, 2013–2017, etc.)?
+This project analyzes **player and franchise return on investment (ROI)** in the **Indian Premier League (IPL)** across all seasons (2008–2025).
+It combines **auction data**, **match-by-match delivery data**, and **season standings** to answer the question —
 
----
+> *“Do expensive players actually perform better?”*
 
-## **Auction & ROI (Moneyball-style)**
-
-13. **Auction Price vs Performance:** Do expensive batsmen score more runs? Do expensive bowlers take more wickets? (Correlation/Regression)
-14. **Cost per Run / Cost per Wicket:** Which players gave the best ROI for their franchise?
-15. **Franchise Efficiency:** Which teams spend the most vs least per win?
-16. **Mega Auction Effect:** Did mega-auction seasons disrupt dominant teams (compare win % pre vs post auction)?
-17. **Undervalued Gems:** Which low-price players overperformed expectations?
+The study models ROI for both **players** and **franchises** by integrating **financial (auction)** and **performance (match)** data, accounting for **inflation** and **phase-wise performance metrics** such as powerplay, middle, and death overs.
 
 ---
 
-## **Game Dynamics**
+## **Key Objectives**
 
-18. **Impact of Toss:** Does winning the toss significantly increase win %?
-19. **Batting First vs Chasing Trend:** Has chasing become more advantageous over time?
-20. **Run Rate Trends:** How has average run rate evolved from 2008 to 2025?
-21. **Powerplay vs Death Overs:** Compare average runs scored in overs 1–6 vs 16–20.
-22. **Match Duration:** Are matches getting longer or shorter (by total balls faced)?
-23. **Close Games:** How often do matches end with <10 run margin or last-over chases?
+1. Quantify the **ROI of players and franchises** across IPL seasons.
+2. Compare **batting vs bowling efficiency** and identify top performers.
+3. Analyze whether **auction spending translates to success** in standings.
+4. Build an **interactive Power BI dashboard** visualizing franchise performance trends.
 
 ---
 
-## **Hardcore Stats & A/B Tests**
+## **Data Engineering**
 
-24. **Toss A/B Test:** H0: Toss outcome doesn’t affect result. Run chi-square test.
-25. **Home Advantage Test:** H0: Home teams don’t win more often. Run chi-square.
-26. **Auction ROI Regression:** Regression of `auction_price ~ runs/wickets` → low R² = moneyball argument.
-27. **Batting Order Impact:** Compare strike rates of openers vs middle-order vs finishers.
-28. **Consistency Metric:** Define a “consistency score” (std dev of runs across matches) → who are most reliable batsmen?
-29. **Bowler Pressure Index:** Probability of taking a wicket in death overs vs powerplay.
+### **Sources**
+
+* `matches.csv` and `deliveries.csv` from IPL dataset.
+* `auction_data.csv` — manually cleaned and augmented.
+* `ipl_standings.csv` — created from Wikipedia (2008–2025 standings).
+
+### **Schema Highlights**
+
+* **Matches Table:** season, venue, teams, winner, toss_decision.
+* **Deliveries Table:** ball-level details — runs, wickets, extras, over number, bowler, batsman.
+* **Auctions Table:** player, price, team, year, and career stats.
+
+---
+
+## **Methodology**
+
+### **Phase-Based Performance Segmentation**
+
+Each innings was divided into **three phases:**
+
+* **Powerplay (1–6 overs)**
+* **Middle overs (7–15)**
+* **Death overs (16–20)**
+
+This was done for both batting and bowling, resulting in six detailed datasets:
+
+* `bat_pp`, `bat_mid`, `bat_death`
+* `bowl_pp`, `bowl_mid`, `bowl_death`
+
+---
+
+### **Metrics Defined**
+
+**For Batsmen**
+
+* Runs
+* Strike Rate
+* Boundary %
+* Dot Ball %
+* Average (later dropped due to skew from dismissals)
+
+**For Bowlers**
+
+* Wickets
+* Economy
+* Dot Ball %
+* Boundary % Conceded
+
+Each stat was **Z-score standardized** within the same season and phase to ensure fair comparison across years and match conditions.
+
+---
+
+### **Phase-Wise Weighting**
+
+Cricketing intuition guided **different weights** for each metric across phases.
+Example (simplified):
+
+| Metric      | Powerplay | Middle | Death |
+| ----------- | --------- | ------ | ----- |
+| Runs        | 0.8       | 0.8    | 0.8   |
+| Strike Rate | 0.5       | 0.4    | 0.6   |
+| Dot Ball %  | -0.3      | -0.2   | -0.4  |
+| Boundary %  | 0.3       | 0.3    | 0.4   |
+| Wickets     | 1.5       | 1.5    | 1.5   |
+| Economy     | 0.8       | 0.8    | 0.8   |
+
+---
+
+### **Inflation Adjustment**
+
+Auction prices were **adjusted for inflation** to 2025 Rupees using India’s CPI data (2012–2024).
+Example:
+
+> ₹1 crore in 2012 ≈ ₹2.12 crore in 2025
+
+This ensured **ROI comparability** across seasons.
+
+---
+
+### **ROI Calculation**
+
+**ROI (Return on Investment)** was defined as:
+[
+ROI = \frac{Z_{performance}}{Adjusted_Price}
+]
+
+where ( Z_{performance} ) is the weighted sum of standardized metrics.
+ROI was computed for:
+
+* **Each player per phase**
+* **Each team per season** (aggregated mean ROI)
+* **Overall franchise ROI** (across all years)
+
+---
+
+## **Key Insights**
+
+### **1. Top ROI Players (Phase-Wise)**
+
+| Phase            | Player                                        | Season | Franchise              |
+| ---------------- | --------------------------------------------- | ------ | ---------------------- |
+| Bat – Death      | Hardik Pandya                                 | 2015   | Mumbai Indians         |
+| Bat – Middle     | Suryakumar Yadav                              | 2023   | Mumbai Indians         |
+| Bat – Powerplay  | Rahul Tripathi (2017), Abhishek Sharma (2024) | SRH    |                        |
+| Bowl – Death     | Jaydev Unadkat                                | 2017   | Rising Pune Supergiant |
+| Bowl – Middle    | Amit Mishra                                   | 2016   | Delhi Daredevils       |
+| Bowl – Powerplay | Sandeep Sharma                                | 2014   | Punjab Kings           |
+
+These players delivered **exceptional ROI** relative to their auction price — perfect examples of *Moneyball efficiency*.
+
+---
+
+### **2. Franchise ROI Insights**
+
+* **Average ROI across teams:** ~**12%**, meaning every ₹100 crore invested yielded ₹112 crore in on-field performance value (in normalized units).
+* **CSK, MI, and KKR** consistently achieved high ROI due to **strategic retention and low churn.**
+* **RCB** and **Punjab** showed **negative ROI volatility**, suggesting overpayment for marquee players without proportional on-field impact.
+* Teams with **younger domestic cores** (e.g., GT 2022, LSG 2023) showed **higher ROI efficiency.**
+
+---
+
+### **3. ROI vs League Standing**
+
+* **Weak but visible trend**: teams with higher ROI tended to finish higher in the standings.
+* However, the **correlation was statistically insignificant (p > 0.05)** — mainly due to missing retention salary data.
+* Notably, **Mumbai Indians (2015–2020)** and **CSK (2018–2021)** achieved *positive ROI–success alignment*, validating their auction efficiency.
+* **Outliers:** RCB’s spending rarely converted into consistent high standings — the *“Moneyball gap.”*
+
+---
+
+## **Visualization (Power BI)**
+
+**Dashboard Components:**
+
+1. **Franchise ROI Over Time** — ROI trend line (2008–2025)
+2. **Phase-wise Player ROI Heatmap** — showing player efficiency by overs and seasons.
+3. **ROI vs Standing Scatter Plot** — highlighting whether smarter spending translated into success.
+
+---
+
+## **Limitations**
+
+* Lack of **retention salary data** limits ROI completeness.
+* Does not account for **injuries**, **bench players**, or **non-performance impacts** (leadership, fielding).
+* Z-score scaling assumes **normal distribution** of performance stats — not always the case.
+
+---
+
+## **Conclusion**
+
+This project showcases how **data-driven analysis can quantify cricketing efficiency**, much like the *Moneyball* philosophy in baseball.
+Even with imperfect data, the model reveals consistent patterns —
+
+> **Smarter spending and phase-aware player utilization drive ROI more than raw spending.**
+
+---
+
+## **Next Steps**
+
+* Integrate retention and replacement costs from BCCI auction PDFs.
+* Introduce **Win Contribution Models** using regression of match outcomes.
+* Automate Power BI updates using a live SQL pipeline.
+
+---
+
+**Author:** *Atharva Sharma*
+**Project:** *IPL Franchise ROI Analytics (Moneyball for Cricket)*
+**Goal:** *Quantifying on-field performance efficiency from auction investments.*
