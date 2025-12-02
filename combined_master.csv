@@ -1,0 +1,1974 @@
+season,player,team,phase,adj_price,ROI_z,impact_score_pos
+2014,Sandeep Sharma,Punjab Kings,bowl_pp,1937018.384,1,1.967290488
+2016,A Mishra,Delhi Capitals,bowl_mid,1636386.4,1,1.645843278
+2017,RA Tripathi,Lucknow Super Giants,bat_pp,1559800.21,1,1.185514284
+2015,HH Pandya,Mumbai Indians,bat_death,1745533.373,1,0.910498952
+2023,SA Yadav,Mumbai Indians,bat_mid,2366172.265,1,0.965152728
+2017,JD Unadkat,Lucknow Super Giants,bowl_death,4679400.629,1,1.760638539
+2014,PV Tambe,Rajasthan Royals,bowl_mid,1937018.384,0.983543952,1.916152769
+2014,YS Chahal,Royal Challengers Bengaluru,bowl_mid,1937018.384,0.879115253,1.712703457
+2016,Sachin Baby,Royal Challengers Bengaluru,bat_death,1636386.4,0.852833597,0.72828923
+2024,Abhishek Sharma,Sunrisers Hyderabad,bat_pp,2217593.5,0.802809967,1.353730838
+2015,J Suchith,Mumbai Indians,bowl_mid,1745533.373,0.799548931,1.403704913
+2022,Kuldeep Yadav,Delhi Capitals,bowl_mid,2487556.902,0.785799106,1.966016557
+2023,MM Sharma,Gujarat Titans,bowl_death,5915430.661,0.732288552,1.630235955
+2024,Naman Dhir,Mumbai Indians,bat_death,2217593.5,0.70691572,0.818628904
+2023,SA Yadav,Mumbai Indians,bat_death,2366172.265,0.7037061,0.869526321
+2014,P Suyal,Mumbai Indians,bowl_mid,1937018.384,0.684696158,1.333933716
+2023,Tilak Varma,Mumbai Indians,bat_pp,2366172.265,0.67363519,1.212559251
+2014,S Gopal,Mumbai Indians,bowl_mid,1937018.384,0.613848662,1.195907729
+2022,AR Patel,Delhi Capitals,bat_death,2487556.902,0.613641611,0.797585524
+2016,Sachin Baby,Royal Challengers Bengaluru,bowl_mid,1636386.4,0.61268609,1.008385283
+2022,Tilak Varma,Mumbai Indians,bat_mid,2487556.902,0.607460849,0.616369301
+2022,RK Singh,Kolkata Knight Riders,bat_death,2487556.902,0.606390334,0.788202046
+2021,Arshdeep Singh,Punjab Kings,bowl_pp,2652233.169,0.602499003,1.622941195
+2016,Iqbal Abdulla,Royal Challengers Bengaluru,bowl_mid,1636386.4,0.602272449,0.991246061
+2016,P Sahu,Punjab Kings,bowl_mid,1636386.4,0.600646886,0.988570639
+2023,Yash Thakur,Lucknow Super Giants,bowl_death,5323887.595,0.59005656,1.182486218
+2017,RD Chahar,Lucknow Super Giants,bowl_mid,1559800.21,0.584893702,0.917589713
+2016,Iqbal Abdulla,Royal Challengers Bengaluru,bowl_pp,1636386.4,0.577432367,0.959669594
+2016,A Mishra,Delhi Capitals,bowl_pp,1636386.4,0.574957654,0.95555672
+2015,J Suchith,Mumbai Indians,bat_death,1745533.373,0.573788501,0.523482296
+2016,MM Sharma,Punjab Kings,bowl_pp,1636386.4,0.573740225,0.9535334
+2016,MM Sharma,Punjab Kings,bowl_pp,1636386.4,0.573740225,0.9535334
+2023,Tilak Varma,Mumbai Indians,bat_death,2366172.265,0.567463022,0.701824745
+2015,MJ McClenaghan,Mumbai Indians,bowl_death,5236600.118,0.563943009,1.111680677
+2022,JM Sharma,Punjab Kings,bat_death,2487556.902,0.555864709,0.722819616
+2024,Arshdeep Singh,Punjab Kings,bowl_pp,2217593.5,0.555622926,1.251402007
+2018,Mandeep Singh,Royal Challengers Bengaluru,bat_death,2984692.326,0.551596977,0.860647966
+2016,A Zampa,Lucknow Super Giants,bowl_death,4909159.2,0.548461047,1.013589905
+2018,S Gopal,Rajasthan Royals,bowl_mid,2984692.326,0.537751593,1.614298678
+2020,SA Yadav,Mumbai Indians,bat_mid,2778744.691,0.535598882,0.607068909
+2014,A Mishra,Sunrisers Hyderabad,bowl_mid,1937018.384,0.533390175,1.039157487
+2014,A Mishra,Sunrisers Hyderabad,bowl_mid,1937018.384,0.533390175,1.039157487
+2020,SA Yadav,Mumbai Indians,bat_death,2778744.691,0.532645791,0.773867769
+2024,T Stubbs,Delhi Capitals,bat_death,5543983.75,0.526550108,1.526394208
+2017,SS Agarwal,Gujarat Titans,bowl_mid,1559800.21,0.513871521,0.806169087
+2024,Rasikh Salam,Delhi Capitals,bowl_mid,2217593.5,0.513291466,1.144850031
+2017,SA Yadav,Kolkata Knight Riders,bat_death,1559800.21,0.51266566,0.418185007
+2024,RK Singh,Kolkata Knight Riders,bat_death,2217593.5,0.512134443,0.593927656
+2016,DL Chahar,Lucknow Super Giants,bowl_mid,1636386.4,0.511916787,0.842534803
+2018,M Markande,Mumbai Indians,bowl_mid,2984692.326,0.504609345,1.514807597
+2014,R Tewatia,Rajasthan Royals,bowl_mid,1937018.384,0.502778819,0.979520055
+2023,Arshdeep Singh,Punjab Kings,bowl_pp,2366172.265,0.497595488,1.195797228
+2024,Simarjeet Singh,Chennai Super Kings,bowl_mid,2217593.5,0.48984995,1.092565857
+2024,Simarjeet Singh,Chennai Super Kings,bowl_mid,2217593.5,0.48984995,1.092565857
+2018,Abhishek Sharma,Delhi Capitals,bat_death,2984692.326,0.482171735,0.752854284
+2024,Sandeep Sharma,Rajasthan Royals,bowl_pp,2217593.5,0.478784182,1.078341908
+2018,HV Patel,Delhi Capitals,bat_death,2984692.326,0.476150799,0.743505828
+2024,Abhishek Sharma,Sunrisers Hyderabad,bowl_mid,2217593.5,0.474272265,1.057821244
+2020,SA Yadav,Mumbai Indians,bat_pp,2778744.691,0.472537158,1.000068431
+2022,A Badoni,Lucknow Super Giants,bat_death,2487556.902,0.466476809,0.607147656
+2022,J Suchith,Sunrisers Hyderabad,bowl_mid,2487556.902,0.466264219,1.166561742
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bowl_mid,2984692.326,0.464876153,1.395530889
+2025,Abhishek Sharma,Sunrisers Hyderabad,bat_pp,3148500,0.464385206,1.11367211
+2016,MM Sharma,Punjab Kings,bowl_mid,1636386.4,0.460333851,0.757637374
+2016,MM Sharma,Punjab Kings,bowl_mid,1636386.4,0.460333851,0.757637374
+2024,Sandeep Sharma,Rajasthan Royals,bowl_mid,2217593.5,0.456351996,1.01785171
+2015,HH Pandya,Mumbai Indians,bowl_mid,1745533.373,0.451356029,0.792410134
+2023,Arshdeep Singh,Punjab Kings,bowl_mid,2366172.265,0.449039166,1.068644361
+2022,Mukesh Choudhary,Chennai Super Kings,bowl_pp,2487556.902,0.448612396,1.133389129
+2019,R Parag,Rajasthan Royals,bat_death,2888505.106,0.441858723,0.668016984
+2021,M Jansen,Mumbai Indians,bowl_mid,2652233.169,0.439782815,1.173147374
+2022,Simarjeet Singh,Chennai Super Kings,bowl_mid,2487556.902,0.433429269,1.084410903
+2022,Simarjeet Singh,Chennai Super Kings,bowl_mid,2487556.902,0.433429269,1.084410903
+2015,J Suchith,Mumbai Indians,bowl_pp,1745533.373,0.425709792,0.754703816
+2024,S Gopal,Mumbai Indians,bowl_mid,2217593.5,0.422690271,0.942772288
+2024,Abhishek Sharma,Sunrisers Hyderabad,bat_mid,2217593.5,0.420668148,0.380514537
+2024,Arshdeep Singh,Punjab Kings,bowl_mid,2217593.5,0.420606685,0.938125039
+2022,A Badoni,Lucknow Super Giants,bowl_mid,2487556.902,0.418527788,1.0471284
+2022,Arshdeep Singh,Punjab Kings,bowl_mid,2487556.902,0.417555247,1.044695168
+2022,Arshdeep Singh,Punjab Kings,bowl_mid,2487556.902,0.417555247,1.044695168
+2022,PJ Sangwan,Gujarat Titans,bowl_mid,2487556.902,0.417219988,1.043856371
+2021,KS Bharat,Royal Challengers Bengaluru,bat_death,2652233.169,0.413232115,0.573878556
+2023,Tilak Varma,Mumbai Indians,bat_mid,2366172.265,0.412988377,0.398596859
+2022,AR Patel,Delhi Capitals,bowl_mid,2487556.902,0.409065405,1.023454152
+2023,Arshdeep Singh,Punjab Kings,bowl_death,7098516.794,0.407379404,1.089060265
+2024,Arshad Khan,Lucknow Super Giants,bat_death,2217593.5,0.405030249,0.470371397
+2014,A Mishra,Sunrisers Hyderabad,bowl_pp,1937018.384,0.399112428,0.785170084
+2014,A Mishra,Sunrisers Hyderabad,bowl_pp,1937018.384,0.399112428,0.785170084
+2023,Tilak Varma,Mumbai Indians,bowl_mid,2366172.265,0.394260455,0.938279429
+2014,R Tewatia,Rajasthan Royals,bowl_pp,1937018.384,0.3914718,0.770138748
+2016,S Ladda,Gujarat Titans,bowl_pp,1636386.4,0.390159369,0.64842933
+2022,Mukesh Choudhary,Chennai Super Kings,bowl_mid,2487556.902,0.38721233,0.968779228
+2021,VR Iyer,Kolkata Knight Riders,bat_pp,2652233.169,0.385991984,0.780405273
+2016,DL Chahar,Lucknow Super Giants,bowl_pp,1636386.4,0.384921758,0.639724629
+2022,JM Sharma,Punjab Kings,bat_mid,2487556.902,0.383065372,0.388683049
+2025,Abhishek Sharma,Sunrisers Hyderabad,bat_mid,3148500,0.382617254,0.491380515
+2025,V Puthur,Mumbai Indians,bowl_mid,3148500,0.37972741,1.202481106
+2022,Tilak Varma,Mumbai Indians,bat_death,2487556.902,0.378416534,0.493193703
+2014,YV Takawale,Royal Challengers Bengaluru,bat_pp,1937018.384,0.378313901,0.558674569
+2024,A Kamboj,Mumbai Indians,bowl_mid,2217593.5,0.376476019,0.839695592
+2022,AR Patel,Delhi Capitals,bowl_pp,2487556.902,0.37645008,0.951075879
+2014,S Gopal,Mumbai Indians,bowl_pp,1937018.384,0.376285889,0.74026365
+2022,Akash Deep,Royal Challengers Bengaluru,bowl_mid,2487556.902,0.371427188,0.929285863
+2020,Abdul Samad,Sunrisers Hyderabad,bat_death,2778744.691,0.371236576,0.54054705
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bowl_pp,2984692.326,0.370859752,1.124201142
+2022,OC McCoy,Rajasthan Royals,bowl_death,9328338.381,0.367426592,1.291024321
+2025,Arshdeep Singh,Punjab Kings,bowl_pp,3148500,0.366856467,1.173098897
+2025,Arshdeep Singh,Punjab Kings,bowl_pp,3148500,0.366856467,1.173098897
+2025,Ashwani Kumar,Mumbai Indians,bowl_mid,3148500,0.364175471,1.153232849
+2017,RA Tripathi,Lucknow Super Giants,bat_mid,1559800.21,0.363186152,0.231072327
+2017,RD Chahar,Lucknow Super Giants,bowl_pp,1559800.21,0.362232073,0.573839745
+2013,B Laughlin,Chennai Super Kings,bowl_mid,2462647.692,0.36132873,0.894967774
+2023,Sandeep Sharma,Rajasthan Royals,bowl_pp,2366172.265,0.360049643,0.865253758
+2023,Sandeep Sharma,Rajasthan Royals,bowl_mid,2366172.265,0.358323817,0.852755741
+2014,PV Tambe,Rajasthan Royals,bowl_pp,1937018.384,0.354521994,0.697447746
+2022,Simarjeet Singh,Chennai Super Kings,bowl_pp,2487556.902,0.354346239,0.895232006
+2022,Simarjeet Singh,Chennai Super Kings,bowl_pp,2487556.902,0.354346239,0.895232006
+2025,M Shahrukh Khan,Gujarat Titans,bat_death,3148500,0.354045762,0.584318905
+2022,AS Roy,Kolkata Knight Riders,bowl_mid,2487556.902,0.352901195,0.882935073
+2014,Sandeep Sharma,Punjab Kings,bowl_mid,1937018.384,0.352487994,0.686721569
+2021,VR Iyer,Kolkata Knight Riders,bowl_mid,2652233.169,0.351705316,0.938195296
+2018,S Lamichhane,Delhi Capitals,bowl_mid,2984692.326,0.351644626,1.055616502
+2024,Naman Dhir,Mumbai Indians,bat_mid,2217593.5,0.350951556,0.317452532
+2024,A Raghuvanshi,Kolkata Knight Riders,bat_pp,2217593.5,0.350607819,0.592987861
+2024,Simarjeet Singh,Chennai Super Kings,bowl_pp,2217593.5,0.349321741,0.786760062
+2024,Simarjeet Singh,Chennai Super Kings,bowl_pp,2217593.5,0.349321741,0.786760062
+2022,Arshdeep Singh,Punjab Kings,bowl_pp,2487556.902,0.34808028,0.879401482
+2022,Arshdeep Singh,Punjab Kings,bowl_pp,2487556.902,0.34808028,0.879401482
+2019,M Ashwin,Punjab Kings,bowl_pp,2888505.106,0.346731456,1.017187777
+2014,YS Chahal,Royal Challengers Bengaluru,bowl_pp,1937018.384,0.346415796,0.681500499
+2015,HH Pandya,Mumbai Indians,bowl_pp,1745533.373,0.344509793,0.61075141
+2017,RA Tripathi,Lucknow Super Giants,bowl_mid,1559800.21,0.341047416,0.535040127
+2023,R Goyal,Mumbai Indians,bowl_mid,2366172.265,0.340674543,0.810753174
+2022,HR Shokeen,Mumbai Indians,bowl_mid,2487556.902,0.33951636,0.849447118
+2021,VR Iyer,Kolkata Knight Riders,bat_mid,2652233.169,0.339194708,0.366953008
+2016,P Sahu,Punjab Kings,bowl_pp,1636386.4,0.338961975,0.5633413
+2023,AM Rahane,Chennai Super Kings,bat_death,5915430.661,0.338853249,1.051072561
+2021,Arshdeep Singh,Punjab Kings,bowl_mid,2652233.169,0.336496326,0.897624391
+2022,DG Nalkande,Gujarat Titans,bowl_mid,2487556.902,0.336315497,0.841438772
+2024,A Raghuvanshi,Kolkata Knight Riders,bat_mid,2217593.5,0.336271646,0.304173849
+2018,M Markande,Mumbai Indians,bowl_pp,2984692.326,0.335622232,1.017384319
+2020,Arshdeep Singh,Punjab Kings,bowl_pp,2778744.691,0.332538932,0.938481884
+2022,SN Khan,Delhi Capitals,bat_pp,2487556.902,0.331357524,0.628849125
+2013,JO Holder,Chennai Super Kings,bowl_mid,2462647.692,0.329364804,0.815796975
+2015,RG Sharma,Mumbai Indians,bat_mid,5236600.118,0.325920841,0.696163463
+2025,MA Starc,Delhi Capitals,bowl_pp,3148500,0.322961155,1.032734622
+2020,Shahbaz Ahmed,Royal Challengers Bengaluru,bowl_mid,2778744.691,0.321877446,0.899584178
+2016,PV Tambe,Gujarat Titans,bowl_mid,3272772.8,0.321775536,1.059184207
+2024,Naman Dhir,Mumbai Indians,bowl_pp,2217593.5,0.321313173,0.723677751
+2025,Prince Yadav,Lucknow Super Giants,bowl_mid,3148500,0.317745889,1.006204497
+2022,Rasikh Salam,Kolkata Knight Riders,bowl_mid,2487556.902,0.315530173,0.78943529
+2025,Aniket Verma,Sunrisers Hyderabad,bat_death,3148500,0.31245875,0.51620469
+2025,JD Unadkat,Sunrisers Hyderabad,bowl_death,10495000,0.310752892,1.228839989
+2025,Arshdeep Singh,Punjab Kings,bowl_mid,3148500,0.310118728,0.982051601
+2025,Arshdeep Singh,Punjab Kings,bowl_mid,3148500,0.310118728,0.982051601
+2018,L Ngidi,Chennai Super Kings,bowl_death,7461730.815,0.309863345,0.871184354
+2025,MA Starc,Delhi Capitals,bowl_mid,3148500,0.309295295,0.979444038
+2022,HR Shokeen,Mumbai Indians,bowl_pp,2487556.902,0.307040516,0.77571727
+2022,Kuldeep Yadav,Delhi Capitals,bowl_pp,2487556.902,0.306602592,0.774610884
+2021,RV Patel,Delhi Capitals,bowl_mid,2652233.169,0.306196899,0.816798829
+2014,P Negi,Chennai Super Kings,bowl_mid,1937018.384,0.30434267,0.59292424
+2018,HV Patel,Delhi Capitals,bowl_mid,2984692.326,0.304047058,0.912731398
+2022,M Theekshana,Chennai Super Kings,bowl_death,8706449.156,0.303111401,0.994405762
+2025,M Shahrukh Khan,Gujarat Titans,bat_mid,3148500,0.301746233,0.387520996
+2013,JO Holder,Chennai Super Kings,bowl_pp,2462647.692,0.301374993,0.753779372
+2019,M Ashwin,Punjab Kings,bowl_mid,2888505.106,0.301288497,0.87530278
+2016,AB Dinda,Lucknow Super Giants,bowl_death,8181932,0.299224768,0.922540882
+2023,I Sharma,Delhi Capitals,bowl_death,5915430.661,0.294377456,0.656203355
+2016,A Zampa,Lucknow Super Giants,bowl_mid,4909159.2,0.294037379,1.451818329
+2017,R Tewatia,Punjab Kings,bowl_mid,3899500.524,0.293591118,1.151474996
+2017,SA Yadav,Kolkata Knight Riders,bat_mid,1559800.21,0.2923958,0.186032914
+2018,KV Sharma,Chennai Super Kings,bowl_mid,2984692.326,0.291404129,0.87477807
+2016,Sachin Baby,Royal Challengers Bengaluru,bat_mid,1636386.4,0.290751534,0.194069621
+2024,A Kamboj,Mumbai Indians,bowl_pp,2217593.5,0.290134234,0.65345497
+2022,Akash Deep,Royal Challengers Bengaluru,bowl_pp,2487556.902,0.289971733,0.732594135
+2024,S Gopal,Mumbai Indians,bowl_pp,2217593.5,0.289270542,0.651509719
+2014,P Negi,Chennai Super Kings,bowl_pp,1937018.384,0.287543265,0.56568113
+2022,TU Deshpande,Chennai Super Kings,bowl_mid,2487556.902,0.285024024,0.713110954
+2019,R Parag,Rajasthan Royals,bowl_mid,2888505.106,0.283682511,0.824153901
+2018,S Lamichhane,Delhi Capitals,bowl_pp,2984692.326,0.282756015,0.857128965
+2023,KM Asif,Rajasthan Royals,bowl_mid,3549258.397,0.281013514,1.003153612
+2015,RG Sharma,Mumbai Indians,bat_death,5236600.118,0.280509675,0.771521072
+2025,V Puthur,Mumbai Indians,bowl_pp,3148500,0.279438995,0.893563578
+2022,M Shahrukh Khan,Punjab Kings,bat_death,2487556.902,0.278465871,0.363853053
+2025,Mukesh Choudhary,Chennai Super Kings,bowl_mid,3148500,0.277673911,0.879308743
+2023,Nithish Kumar Reddy,Sunrisers Hyderabad,bowl_mid,2366172.265,0.27698411,0.659179711
+2016,S Ladda,Gujarat Titans,bowl_mid,1636386.4,0.275807091,0.453935246
+2014,KK Cooper,Rajasthan Royals,bowl_death,5811055.151,0.274803044,0.601854343
+2023,MM Sharma,Gujarat Titans,bowl_mid,5915430.661,0.273276897,1.625892779
+2022,PJ Sangwan,Gujarat Titans,bowl_pp,2487556.902,0.272434632,0.688287825
+2023,M Markande,Sunrisers Hyderabad,bowl_mid,5915430.661,0.270927569,1.61191518
+2025,Aniket Verma,Sunrisers Hyderabad,bat_mid,3148500,0.270472667,0.347357567
+2023,VG Arora,Kolkata Knight Riders,bowl_death,7098516.794,0.269920589,0.722165609
+2021,KS Bharat,Royal Challengers Bengaluru,bat_mid,2652233.169,0.268149955,0.290094245
+2022,J Suchith,Sunrisers Hyderabad,bowl_pp,2487556.902,0.265893811,0.67176288
+2022,Tilak Varma,Mumbai Indians,bowl_pp,2487556.902,0.26586367,0.671686731
+2025,Zeeshan Ansari,Sunrisers Hyderabad,bowl_mid,4198000,0.264378198,1.116273692
+2023,D Jansen,Mumbai Indians,bowl_mid,2366172.265,0.261632729,0.622645778
+2017,MK Tiwary,Lucknow Super Giants,bat_death,7799001.048,0.260603705,1.068285416
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_death,2984692.326,0.260458275,0.408609027
+2025,Ashwani Kumar,Mumbai Indians,bowl_pp,3148500,0.259884577,0.831034311
+2023,M Markande,Sunrisers Hyderabad,bowl_death,5915430.661,0.259492138,0.578608983
+2020,I Udana,Royal Challengers Bengaluru,bowl_death,6946861.727,0.259296627,0.678986171
+2023,Nithish Kumar Reddy,Sunrisers Hyderabad,bowl_pp,2366172.265,0.2585198,0.621262186
+2022,Basil Thampi,Mumbai Indians,bowl_mid,3731335.352,0.257777386,0.967412546
+2025,P Dubey,Punjab Kings,bowl_mid,3148500,0.257500138,0.815424547
+2022,B Sai Sudharsan,Gujarat Titans,bat_mid,2487556.902,0.257035176,0.260804613
+2023,SA Yadav,Mumbai Indians,bat_pp,2366172.265,0.256945446,0.464592037
+2019,KMA Paul,Delhi Capitals,bowl_death,7221262.765,0.253931538,0.691238416
+2019,SN Khan,Punjab Kings,bat_death,3610631.383,0.253699781,0.48160674
+2014,SB Jakati,Royal Challengers Bengaluru,bowl_mid,3874036.767,0.253615304,0.988193085
+2023,H Sharma,Royal Challengers Bengaluru,bowl_mid,2366172.265,0.253240412,0.602673349
+2024,Arshad Khan,Lucknow Super Giants,bowl_pp,2217593.5,0.252976819,0.569767163
+2023,Mohit Rathee,Punjab Kings,bowl_mid,2366172.265,0.252380124,0.600625995
+2015,J Theron,Rajasthan Royals,bowl_death,5236600.118,0.25230302,0.498054659
+2024,Naman Dhir,Mumbai Indians,bowl_mid,2217593.5,0.251481394,0.560906427
+2015,GB Hogg,Kolkata Knight Riders,bowl_death,8727666.863,0.251345105,0.826947504
+2023,M Ashwin,Rajasthan Royals,bowl_mid,2366172.265,0.250988132,0.59731327
+2025,PVD Chameera,Delhi Capitals,bowl_death,7871250,0.250932075,0.744579464
+2016,SB Jakati,Gujarat Titans,bowl_mid,3272772.8,0.250532569,0.82467469
+2014,VS Malik,Rajasthan Royals,bowl_mid,3874036.767,0.250350113,0.975470513
+2022,B Sai Sudharsan,Gujarat Titans,bat_pp,2487556.902,0.246129353,0.468014488
+2022,Rasikh Salam,Kolkata Knight Riders,bowl_pp,2487556.902,0.245526307,0.620305748
+2020,Arshdeep Singh,Punjab Kings,bowl_mid,2778744.691,0.245466725,0.686031237
+2022,VR Aaron,Gujarat Titans,bowl_death,6218892.254,0.245165167,0.574789788
+2016,MP Stoinis,Punjab Kings,bowl_death,9000125.199,0.245133125,0.831740686
+2023,H Sharma,Royal Challengers Bengaluru,bowl_pp,2366172.265,0.243096411,0.58419745
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_mid,2984692.326,0.242584991,0.295333818
+2025,E Malinga,Sunrisers Hyderabad,bowl_death,12594000,0.242007596,1.149065367
+2020,TU Deshpande,Delhi Capitals,bowl_mid,2778744.691,0.238696418,0.667109559
+2020,TU Deshpande,Delhi Capitals,bowl_mid,2778744.691,0.238696418,0.667109559
+2013,R McLaren,Kolkata Knight Riders,bowl_death,6156619.231,0.237744933,0.551856574
+2017,JD Unadkat,Lucknow Super Giants,bowl_pp,4679400.629,0.23743295,1.128407508
+2022,Kuldeep Yadav,Delhi Capitals,bat_death,2487556.902,0.237205696,0.310460532
+2013,JDP Oram,Mumbai Indians,bowl_death,6156619.231,0.236464539,0.548892513
+2021,RM Patidar,Royal Challengers Bengaluru,bat_mid,2652233.169,0.236130838,0.255454816
+2019,R Parag,Rajasthan Royals,bowl_pp,2888505.106,0.235964996,0.692238057
+2024,MJ Suthar,Gujarat Titans,bowl_pp,2217593.5,0.235191468,0.529710098
+2022,SA Yadav,Mumbai Indians,bat_death,6218892.254,0.23518462,0.769612921
+2023,KM Asif,Rajasthan Royals,bowl_death,3549258.397,0.23434207,0.313601061
+2020,Abdul Samad,Sunrisers Hyderabad,bowl_mid,2778744.691,0.234187368,0.654507651
+2016,R Sathish,Kolkata Knight Riders,bowl_mid,3272772.8,0.234091175,0.770554773
+2025,K Khejroliya,Gujarat Titans,bowl_pp,3148500,0.232726636,0.744191214
+2025,KV Sharma,Mumbai Indians,bowl_mid,5247500,0.232575457,1.227492779
+2025,K Khejroliya,Gujarat Titans,bowl_mid,3148500,0.230668753,0.730457718
+2018,MK Lomror,Rajasthan Royals,bowl_mid,2984692.326,0.228183614,0.684993798
+2014,S Rana,Royal Challengers Bengaluru,bat_death,3874036.767,0.22802977,0.465008446
+2022,AS Roy,Kolkata Knight Riders,bowl_pp,2487556.902,0.227727791,0.57533899
+2024,RK Singh,Kolkata Knight Riders,bat_mid,2217593.5,0.227338998,0.205639039
+2025,M Shahrukh Khan,Gujarat Titans,bowl_mid,3148500,0.226106974,0.716011954
+2020,Abdul Samad,Sunrisers Hyderabad,bowl_death,2778744.691,0.22582188,0.236618712
+2017,JD Unadkat,Lucknow Super Giants,bowl_mid,4679400.629,0.225027105,1.059077347
+2024,Naman Dhir,Mumbai Indians,bat_pp,2217593.5,0.224958278,0.381606719
+2025,Abhishek Sharma,Sunrisers Hyderabad,bowl_mid,3148500,0.22439375,0.710586694
+2025,V Nigam,Delhi Capitals,bowl_pp,5247500,0.224342231,1.195633929
+2018,B Laughlin,Rajasthan Royals,bowl_death,7461730.815,0.222094475,0.624931506
+2019,Rasikh Salam,Mumbai Indians,bowl_pp,2888505.106,0.222071003,0.651477983
+2017,Mohammad Nabi,Sunrisers Hyderabad,bowl_mid,4679400.629,0.221497039,1.042463289
+2025,Prince Yadav,Lucknow Super Giants,bowl_pp,3148500,0.220262394,0.704334241
+2015,MJ McClenaghan,Mumbai Indians,bowl_mid,5236600.118,0.219583699,1.156517276
+2025,I Sharma,Gujarat Titans,bowl_death,7871250,0.218997025,0.650061908
+2022,RK Singh,Kolkata Knight Riders,bat_death,6840781.479,0.218781602,0.788202046
+2022,D Pretorius,Chennai Super Kings,bowl_death,6218892.254,0.218390748,0.51218115
+2018,HV Patel,Delhi Capitals,bowl_pp,2984692.326,0.213500458,0.647191985
+2021,KS Bharat,Royal Challengers Bengaluru,bat_pp,2652233.169,0.21322825,0.432798943
+2023,I Sharma,Delhi Capitals,bowl_pp,5915430.661,0.21277643,1.27833487
+2016,PV Tambe,Gujarat Titans,bowl_pp,3272772.8,0.212671414,0.706902839
+2017,P Negi,Royal Challengers Bengaluru,bowl_death,15598002.1,0.212571164,1.250502328
+2024,Arshad Khan,Lucknow Super Giants,bowl_mid,2217593.5,0.211567742,0.471882648
+2016,SM Boland,Lucknow Super Giants,bowl_death,8181932,0.211014162,0.651160878
+2022,TU Deshpande,Chennai Super Kings,bowl_pp,2487556.902,0.210956904,0.532968468
+2025,AS Roy,Kolkata Knight Riders,bowl_mid,4198000,0.208255433,0.879308743
+2020,CJ Green,Kolkata Knight Riders,bowl_pp,2778744.691,0.206926897,0.583983183
+2023,AM Rahane,Chennai Super Kings,bat_pp,5915430.661,0.205064164,0.928659999
+2024,T Stubbs,Delhi Capitals,bowl_mid,5543983.75,0.204989799,1.143027856
+2018,S Gopal,Rajasthan Royals,bowl_pp,2984692.326,0.202267809,0.613142032
+2015,DJ Muthuswami,Delhi Capitals,bowl_death,13091500.3,0.202044242,0.997735038
+2022,Lalit Yadav,Delhi Capitals,bowl_death,8084559.93,0.201859481,0.615582297
+2014,S Rana,Royal Challengers Bengaluru,bowl_mid,3874036.767,0.200569027,0.78150223
+2023,PN Mankad,Lucknow Super Giants,bat_pp,2366172.265,0.199279592,0.361080567
+2025,V Nigam,Delhi Capitals,bowl_mid,5247500,0.199266766,1.051695305
+2014,HV Patel,Royal Challengers Bengaluru,bowl_death,7748073.535,0.197526384,0.577337336
+2017,R Tewatia,Punjab Kings,bowl_pp,3899500.524,0.196385197,0.777772316
+2018,MA Agarwal,Punjab Kings,bat_pp,2984692.326,0.196043433,0.44813998
+2020,JR Philippe,Royal Challengers Bengaluru,bat_pp,2778744.691,0.195696583,0.416486579
+2024,Rasikh Salam,Delhi Capitals,bowl_pp,2217593.5,0.195631787,0.440611787
+2015,MJ McClenaghan,Mumbai Indians,bowl_pp,5236600.118,0.193485345,1.029039956
+2017,MJ Henry,Punjab Kings,bowl_death,7799001.048,0.192850759,0.567420792
+2025,PVSN Raju,Mumbai Indians,bowl_mid,3148500,0.192026229,0.608088607
+2017,Basil Thampi,Gujarat Titans,bowl_death,13258301.78,0.19167742,0.958765932
+2025,Suryansh Shedge,Punjab Kings,bowl_mid,3148500,0.191301533,0.605793716
+2022,Abhishek Sharma,Sunrisers Hyderabad,bat_pp,6840781.479,0.190288351,0.997250567
+2022,R Dhawan,Punjab Kings,bowl_death,6840781.479,0.190000599,0.49037376
+2023,KM Asif,Rajasthan Royals,bowl_pp,3549258.397,0.189911592,0.684579424
+2023,Yash Thakur,Lucknow Super Giants,bowl_mid,5323887.595,0.189081348,1.012465385
+2016,JO Holder,Kolkata Knight Riders,bowl_death,11454704.8,0.188748606,0.815725227
+2025,Abhishek Sharma,Sunrisers Hyderabad,bowl_pp,3148500,0.188662875,0.60328829
+2014,CM Gautam,Mumbai Indians,bat_pp,3874036.767,0.187972744,0.557952524
+2021,Jalaj S Saxena,Punjab Kings,bowl_mid,3978349.753,0.187749246,0.75124878
+2025,Zeeshan Ansari,Sunrisers Hyderabad,bowl_death,4198000,0.186994369,0.296183606
+2023,A Mishra,Lucknow Super Giants,bowl_mid,5915430.661,0.18689935,1.111979485
+2023,JD Unadkat,Lucknow Super Giants,bowl_death,5915430.661,0.186313195,0.415839241
+2021,M Jansen,Mumbai Indians,bowl_pp,2652233.169,0.185594979,0.499934
+2014,AR Patel,Punjab Kings,bowl_death,14527637.88,0.185517541,1.016908482
+2023,K Khejroliya,Kolkata Knight Riders,bowl_pp,2366172.265,0.185389366,0.44551869
+2022,RP Meredith,Mumbai Indians,bowl_death,12437784.51,0.184944582,0.867942927
+2024,Azmatullah Omarzai,Gujarat Titans,bowl_mid,5543983.75,0.184570616,1.029170021
+2023,D Jansen,Mumbai Indians,bowl_pp,2366172.265,0.184565543,0.443538918
+2025,Mukesh Choudhary,Chennai Super Kings,bowl_pp,3148500,0.184500672,0.589978792
+2015,J Theron,Rajasthan Royals,bowl_mid,5236600.118,0.18438502,0.971130655
+2022,D Pretorius,Chennai Super Kings,bowl_mid,6218892.254,0.184144485,1.151792818
+2019,Arshdeep Singh,Punjab Kings,bowl_mid,2888505.106,0.18241493,0.529951512
+2024,N Burger,Rajasthan Royals,bowl_pp,5543983.75,0.182148666,1.025611056
+2019,Arshdeep Singh,Punjab Kings,bowl_pp,2888505.106,0.18211229,0.534253216
+2014,M Manhas,Chennai Super Kings,bat_death,5811055.151,0.181516879,0.556906404
+2025,Aniket Verma,Sunrisers Hyderabad,bat_pp,3148500,0.181413705,0.437791813
+2016,BCJ Cutting,Sunrisers Hyderabad,bowl_death,8181932,0.180756203,0.558072242
+2018,KV Sharma,Chennai Super Kings,bowl_pp,2984692.326,0.180218257,0.546302393
+2025,L Ngidi,Royal Challengers Bengaluru,bowl_death,10495000,0.179531148,0.711007344
+2014,S Kaul,Delhi Capitals,bowl_death,8716582.727,0.178575807,0.587393308
+2015,RG Sharma,Mumbai Indians,bat_pp,5236600.118,0.177059032,0.710838124
+2022,AR Patel,Delhi Capitals,bat_mid,2487556.902,0.176721414,0.179313045
+2025,Zeeshan Ansari,Sunrisers Hyderabad,bowl_pp,4198000,0.176566819,0.752811554
+2019,KMA Paul,Delhi Capitals,bowl_mid,7221262.765,0.175884159,1.277445825
+2024,N Burger,Rajasthan Royals,bowl_mid,5543983.75,0.173800458,0.969115371
+2022,PBB Rajapaksa,Punjab Kings,bat_pp,6218892.254,0.173670713,0.828193293
+2017,Mohammad Nabi,Sunrisers Hyderabad,bowl_pp,4679400.629,0.173647539,0.82526535
+2017,MM Patel,Gujarat Titans,bowl_mid,4679400.629,0.171137213,0.805447616
+2018,MA Agarwal,Punjab Kings,bat_mid,2984692.326,0.171105642,0.208311661
+2025,SK Rasheed,Chennai Super Kings,bat_pp,3148500,0.169773471,0.409988995
+2018,S Gopal,Rajasthan Royals,bat_death,2984692.326,0.169308069,0.267083899
+2025,KK Nair,Delhi Capitals,bat_pp,5247500,0.168922244,0.679926385
+2023,I Sharma,Delhi Capitals,bowl_mid,5915430.661,0.168200148,1.000726401
+2025,V Nigam,Delhi Capitals,bat_death,5247500,0.167677442,0.465118999
+2022,Arshdeep Singh,Punjab Kings,bowl_mid,6218892.254,0.167022099,1.044695168
+2014,K Santokie,Mumbai Indians,bowl_mid,5811055.151,0.167016387,0.976150313
+2014,M de Lange,Mumbai Indians,bowl_mid,5811055.151,0.166957664,0.975807101
+2021,J Suchith,Sunrisers Hyderabad,bowl_mid,3978349.753,0.166622029,0.666711576
+2016,NLTC Perera,Lucknow Super Giants,bowl_death,16363864,0.165990132,1.025288823
+2023,Arshdeep Singh,Punjab Kings,bowl_pp,7098516.794,0.165865163,1.195797228
+2022,Tilak Varma,Mumbai Indians,bat_pp,2487556.902,0.165013296,0.31493985
+2022,NT Ellis,Punjab Kings,bowl_death,9328338.381,0.164788655,0.580259012
+2020,Abdul Samad,Sunrisers Hyderabad,bowl_pp,2778744.691,0.164491044,0.464221929
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_pp,2984692.326,0.164181115,0.37599596
+2023,Sikandar Raza,Punjab Kings,bowl_mid,5915430.661,0.164098074,0.976320637
+2025,AS Roy,Kolkata Knight Riders,bowl_pp,4198000,0.163871477,0.698683604
+2016,SB Jakati,Gujarat Titans,bowl_pp,3272772.8,0.163403903,0.543141555
+2025,KK Nair,Delhi Capitals,bat_mid,5247500,0.16323736,0.349399028
+2022,TG Southee,Kolkata Knight Riders,bowl_death,18656676.76,0.161422413,1.136903417
+2022,A Badoni,Lucknow Super Giants,bat_mid,2487556.902,0.161258645,0.163623513
+2023,AM Rahane,Chennai Super Kings,bat_mid,5915430.661,0.161049637,0.388593741
+2016,PJ Sangwan,Gujarat Titans,bowl_mid,3272772.8,0.161030447,0.530061758
+2019,SN Khan,Punjab Kings,bat_mid,3610631.383,0.158548796,0.233504785
+2017,LH Ferguson,Lucknow Super Giants,bowl_death,7799001.048,0.158023627,0.465289728
+2016,BCJ Cutting,Sunrisers Hyderabad,bowl_mid,8181932,0.157547783,1.296494794
+2016,PJ Sangwan,Gujarat Titans,bowl_pp,3272772.8,0.157153506,0.522365734
+2017,LH Ferguson,Lucknow Super Giants,bowl_mid,7799001.048,0.157069537,1.232064828
+2014,K Santokie,Mumbai Indians,bowl_death,5811055.151,0.156951986,0.344346975
+2018,KM Asif,Chennai Super Kings,bowl_pp,5969384.652,0.156146716,0.946666849
+2023,Yash Thakur,Lucknow Super Giants,bowl_pp,5323887.595,0.155590568,0.841292259
+2016,SW Billings,Delhi Capitals,bat_mid,4909159.2,0.155532668,0.311442891
+2018,JPR Scantlebury-Searles,Kolkata Knight Riders,bowl_mid,4477038.489,0.155201342,0.698857959
+2014,CM Gautam,Mumbai Indians,bat_death,3874036.767,0.153865079,0.315544216
+2018,L Ngidi,Chennai Super Kings,bowl_mid,7461730.815,0.153494474,1.151953478
+2016,BCJ Cutting,Sunrisers Hyderabad,bat_death,8181932,0.153342712,0.664203295
+2019,Rasikh Salam,Mumbai Indians,bowl_death,2888505.106,0.153169456,0.167056535
+2018,Mandeep Singh,Royal Challengers Bengaluru,bat_mid,2984692.326,0.152384434,0.185519625
+2022,Sandeep Sharma,Punjab Kings,bowl_death,6218892.254,0.152163174,0.357316229
+2014,V Shankar,Chennai Super Kings,bowl_mid,1937018.384,0.152100602,0.296324316
+2021,JDS Neesham,Mumbai Indians,bowl_mid,6630582.922,0.151908996,1.013066191
+2025,SB Dubey,Rajasthan Royals,bat_death,8396000,0.150077579,0.66732019
+2023,Arshdeep Singh,Punjab Kings,bowl_mid,7098516.794,0.149679722,1.068644361
+2020,I Udana,Royal Challengers Bengaluru,bowl_mid,6946861.727,0.149170171,1.042253254
+2014,KK Cooper,Rajasthan Royals,bowl_pp,5811055.151,0.148073795,0.873912504
+2018,L Ngidi,Chennai Super Kings,bowl_pp,7461730.815,0.146904114,1.113289942
+2019,R Parag,Rajasthan Royals,bat_mid,2888505.106,0.146771611,0.172927827
+2021,J Suchith,Sunrisers Hyderabad,bowl_pp,3978349.753,0.146564168,0.592196064
+2022,Abhishek Sharma,Sunrisers Hyderabad,bat_mid,6840781.479,0.146443188,0.408624663
+2025,VG Arora,Kolkata Knight Riders,bowl_death,18891000,0.145855424,1.040606676
+2022,R Dhawan,Punjab Kings,bowl_pp,6840781.479,0.145687304,1.012190309
+2014,NV Ojha,Sunrisers Hyderabad,bat_death,9685091.919,0.145544852,0.746941123
+2022,RK Singh,Kolkata Knight Riders,bat_mid,2487556.902,0.145460153,0.147593335
+2021,C Sakariya,Rajasthan Royals,bowl_death,15913399.01,0.145086995,0.871988178
+2015,SN Khan,Royal Challengers Bengaluru,bat_death,8727666.863,0.144626584,0.668932734
+2025,Sameer Rizvi,Delhi Capitals,bat_death,9970250,0.144033018,0.76109203
+2016,AB Dinda,Lucknow Super Giants,bowl_pp,8181932,0.144014592,1.196732581
+2014,VS Malik,Rajasthan Royals,bowl_pp,3874036.767,0.143647379,0.565192243
+2022,PBB Rajapaksa,Punjab Kings,bat_mid,6218892.254,0.143620283,0.364316208
+2020,TU Deshpande,Delhi Capitals,bowl_pp,2778744.691,0.143579376,0.405205618
+2020,TU Deshpande,Delhi Capitals,bowl_pp,2778744.691,0.143579376,0.405205618
+2019,HF Gurney,Kolkata Knight Riders,bowl_death,10831894.15,0.143469207,0.586953696
+2023,MM Sharma,Gujarat Titans,bowl_pp,5915430.661,0.143140726,0.859972044
+2022,SA Yadav,Mumbai Indians,bat_mid,6218892.254,0.142016583,0.360248162
+2025,Akash Madhwal,Rajasthan Royals,bowl_death,12594000,0.141778131,0.674429807
+2021,JDS Neesham,Mumbai Indians,bowl_pp,6630582.922,0.14176618,0.954682801
+2022,SA Yadav,Mumbai Indians,bat_pp,6218892.254,0.141412523,0.67600669
+2016,A Zampa,Lucknow Super Giants,bowl_pp,4909159.2,0.140936024,0.702690172
+2024,Azmatullah Omarzai,Gujarat Titans,bowl_pp,5543983.75,0.140404246,0.790563828
+2022,Arshdeep Singh,Punjab Kings,bowl_pp,6218892.254,0.139232112,0.879401482
+2019,Arshdeep Singh,Punjab Kings,bowl_death,11554020.42,0.139150721,0.607322516
+2022,Fazalhaq Farooqi,Sunrisers Hyderabad,bowl_mid,6218892.254,0.139077551,0.869906715
+2016,R Bhatia,Lucknow Super Giants,bowl_death,9818318.399,0.138778454,0.514713195
+2022,Fazalhaq Farooqi,Sunrisers Hyderabad,bowl_death,6218892.254,0.137596177,0.323253124
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_mid,5247500,0.137174691,0.723984144
+2024,T Stubbs,Delhi Capitals,bat_mid,5543983.75,0.13656157,0.308816242
+2014,S Badree,Chennai Super Kings,bowl_mid,5811055.151,0.135738413,0.793341881
+2013,JDP Oram,Mumbai Indians,bowl_mid,6156619.231,0.13534062,0.838056065
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_death,13261165.84,0.134757241,0.67514903
+2018,B Laughlin,Rajasthan Royals,bowl_mid,7461730.815,0.134590061,1.010078632
+2016,MP Stoinis,Punjab Kings,bat_death,9000125.199,0.134023827,0.64017396
+2014,KK Cooper,Rajasthan Royals,bowl_mid,5811055.151,0.133741606,0.781671267
+2019,SN Khan,Punjab Kings,bat_pp,3610631.383,0.133718149,0.371407644
+2013,JDP Oram,Mumbai Indians,bowl_pp,6156619.231,0.133587842,0.835302876
+2022,Basil Thampi,Mumbai Indians,bowl_pp,3731335.352,0.133041455,0.50418047
+2022,Sandeep Sharma,Punjab Kings,bowl_pp,6218892.254,0.132679789,0.838016467
+2017,MM Patel,Gujarat Titans,bowl_pp,4679400.629,0.131817843,0.626468415
+2025,M Tiwari,Delhi Capitals,bowl_mid,4198000,0.131456894,0.555045287
+2018,Basil Thampi,Sunrisers Hyderabad,bowl_death,14177288.55,0.131307586,0.703400924
+2022,M Theekshana,Chennai Super Kings,bowl_pp,8706449.156,0.12967243,1.146630438
+2020,MM Sharma,Delhi Capitals,bowl_death,6946861.727,0.128443215,0.337183952
+2017,DT Christian,Lucknow Super Giants,bowl_death,15598002.1,0.126334753,0.744723297
+2014,S Badree,Chennai Super Kings,bowl_pp,5811055.151,0.126239873,0.745051504
+2015,GB Hogg,Kolkata Knight Riders,bowl_pp,8727666.863,0.126048399,1.117301147
+2016,R Bhatia,Lucknow Super Giants,bowl_mid,9818318.399,0.12560904,1.240396764
+2023,VG Arora,Kolkata Knight Riders,bowl_pp,7098516.794,0.125390692,0.903998404
+2014,MC Henriques,Sunrisers Hyderabad,bowl_death,19370183.84,0.125083689,0.915713297
+2025,V Nigam,Delhi Capitals,bat_mid,5247500,0.124402835,0.266276235
+2014,JW Hastings,Chennai Super Kings,bowl_mid,9685091.919,0.124320515,1.211014001
+2020,RA Tripathi,Kolkata Knight Riders,bat_death,8336234.072,0.123748765,0.548393239
+2019,LS Livingstone,Rajasthan Royals,bat_pp,7221262.765,0.12291657,0.683642264
+2021,Jalaj S Saxena,Punjab Kings,bowl_pp,3978349.753,0.121881758,0.492466192
+2018,TG Southee,Royal Challengers Bengaluru,bowl_death,14923461.63,0.120676177,0.680765006
+2016,MP Stoinis,Punjab Kings,bowl_mid,9000125.199,0.119875276,1.085127546
+2022,D Pretorius,Chennai Super Kings,bat_death,6218892.254,0.119846177,0.396480101
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_pp,5247500,0.119495863,0.63685427
+2014,WD Parnell,Delhi Capitals,bowl_death,19370183.84,0.119069433,0.871908984
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_death,5247500,0.119021967,0.236111763
+2022,SS Prabhudessai,Royal Challengers Bengaluru,bat_mid,3731335.352,0.118870995,0.180921368
+2019,SL Malinga,Mumbai Indians,bowl_death,28885051.06,0.1186477,1.295620677
+2022,R Dhawan,Punjab Kings,bowl_mid,6840781.479,0.118516822,0.815433093
+2018,DL Chahar,Chennai Super Kings,bowl_pp,11938769.3,0.118370513,1.43528399
+2014,Sandeep Sharma,Punjab Kings,bowl_pp,16464656.26,0.117647059,1.967290488
+2022,PH Solanki,Chennai Super Kings,bowl_death,14925341.41,0.117434631,0.662658871
+2016,TM Head,Royal Challengers Bengaluru,bat_death,8181932,0.117304847,0.510815338
+2022,Fazalhaq Farooqi,Sunrisers Hyderabad,bowl_pp,6218892.254,0.116709334,0.737145762
+2025,R Shepherd,Royal Challengers Bengaluru,bat_death,15742500,0.116540832,0.976580809
+2019,I Sharma,Delhi Capitals,bowl_death,15886778.08,0.115751237,0.695289026
+2014,AR Patel,Punjab Kings,bowl_mid,14527637.88,0.115573532,1.688713632
+2022,Sandeep Sharma,Punjab Kings,bowl_mid,6218892.254,0.114163282,0.714072146
+2020,MM Sharma,Delhi Capitals,bowl_pp,6946861.727,0.114049389,0.804667327
+2023,Sikandar Raza,Punjab Kings,bat_mid,5915430.661,0.113720084,0.274393124
+2025,RD Rickelton,Mumbai Indians,bat_pp,10495000,0.112826743,0.913237192
+2015,GB Hogg,Kolkata Knight Riders,bowl_mid,8727666.863,0.112441625,0.987024408
+2014,MM Sharma,Chennai Super Kings,bowl_death,38740367.67,0.112074596,1.641925408
+2025,PVSN Raju,Mumbai Indians,bowl_pp,3148500,0.112000818,0.358145619
+2020,JDS Neesham,Punjab Kings,bowl_mid,6946861.727,0.111764258,0.780897823
+2014,Sandeep Sharma,Punjab Kings,bowl_death,16464656.26,0.11170972,0.695559383
+2022,M Theekshana,Chennai Super Kings,bowl_mid,8706449.156,0.111388773,0.975405289
+2022,Lalit Yadav,Delhi Capitals,bowl_mid,8084559.93,0.111309253,0.905086884
+2025,M Siddharth,Lucknow Super Giants,bowl_mid,7871250,0.110894567,0.877923336
+2014,K Santokie,Mumbai Indians,bowl_pp,5811055.151,0.110213115,0.65046364
+2015,CH Morris,Rajasthan Royals,bowl_death,24437467.22,0.109734073,1.014221856
+2018,B Laughlin,Rajasthan Royals,bowl_pp,7461730.815,0.108676645,0.823589023
+2025,V Suryavanshi,Rajasthan Royals,bat_mid,11544500,0.108390338,0.510405544
+2025,R Shepherd,Royal Challengers Bengaluru,bowl_death,15742500,0.107697202,0.641299913
+2022,JD Unadkat,Mumbai Indians,bowl_death,16169119.86,0.107370669,0.656693815
+2017,NB Singh,Gujarat Titans,bowl_pp,7799001.048,0.107108077,0.848390797
+2025,Sandeep Sharma,Rajasthan Royals,bowl_death,27287000,0.106448481,1.098774351
+2022,K Gowtham,Lucknow Super Giants,bowl_mid,11194006.06,0.105653266,1.189518171
+2022,Abhishek Sharma,Sunrisers Hyderabad,bowl_mid,6840781.479,0.104294857,0.717581491
+2022,NT Ellis,Punjab Kings,bowl_mid,9328338.381,0.104165656,0.977308018
+2020,TK Curran,Rajasthan Royals,bowl_death,13893723.45,0.10372757,0.545248419
+2025,PVD Chameera,Delhi Capitals,bowl_mid,7871250,0.103611611,0.82026607
+2025,XC Bartlett,Punjab Kings,bowl_pp,8396000,0.103547477,0.882971534
+2014,R Shukla,Delhi Capitals,bowl_pp,7748073.535,0.103205257,0.812138885
+2019,GC Viljoen,Punjab Kings,bowl_mid,10831894.15,0.102456752,1.11621437
+2022,R Dhawan,Punjab Kings,bat_death,6840781.479,0.101981382,0.372554026
+2017,CJ Anderson,Delhi Capitals,bat_death,15598002.1,0.101908231,0.848885187
+2025,Arshad Khan,Gujarat Titans,bowl_death,13643500,0.101869385,0.525895894
+2020,I Udana,Royal Challengers Bengaluru,bowl_pp,6946861.727,0.101399104,0.715414142
+2024,Azmatullah Omarzai,Gujarat Titans,bowl_death,5543983.75,0.101283512,0.212474462
+2025,R Sai Kishore,Gujarat Titans,bowl_death,20990000,0.100923485,0.801605111
+2014,KW Richardson,Rajasthan Royals,bowl_death,19370183.84,0.099784652,0.73144997
+2017,MK Tiwary,Lucknow Super Giants,bat_mid,7799001.048,0.099412392,0.316249018
+2016,R Bhatia,Lucknow Super Giants,bat_death,9818318.399,0.099377044,0.521411085
+2017,P Negi,Royal Challengers Bengaluru,bowl_mid,15598002.1,0.099364988,1.558852329
+2022,S Gopal,Sunrisers Hyderabad,bowl_pp,9328338.381,0.09915151,0.939373646
+2025,JD Unadkat,Sunrisers Hyderabad,bowl_mid,10495000,0.098998723,1.044996062
+2014,HV Patel,Royal Challengers Bengaluru,bowl_mid,7748073.535,0.098967345,0.771237732
+2020,JDS Neesham,Punjab Kings,bowl_pp,6946861.727,0.097907147,0.690776886
+2023,JD Unadkat,Lucknow Super Giants,bowl_pp,5915430.661,0.097332805,0.584763637
+2022,VR Aaron,Gujarat Titans,bowl_pp,6218892.254,0.097104507,0.61332006
+2017,DT Christian,Lucknow Super Giants,bowl_mid,15598002.1,0.096933597,1.520708317
+2020,RA Tripathi,Kolkata Knight Riders,bat_pp,8336234.072,0.096806434,0.624076371
+2018,JPR Scantlebury-Searles,Kolkata Knight Riders,bowl_pp,4477038.489,0.096766699,0.439998811
+2022,S Kaul,Royal Challengers Bengaluru,bowl_mid,9328338.381,0.096466569,0.905073276
+2019,LS Livingstone,Rajasthan Royals,bowl_mid,7221262.765,0.094931064,0.689483878
+2016,JW Hastings,Kolkata Knight Riders,bowl_death,21273023.2,0.094764595,0.763149363
+2016,SM Boland,Lucknow Super Giants,bowl_pp,8181932,0.094443971,0.784810592
+2025,I Sharma,Gujarat Titans,bowl_mid,7871250,0.094435212,0.747618922
+2014,HV Patel,Royal Challengers Bengaluru,bowl_pp,7748073.535,0.094414683,0.742964429
+2014,PJ Cummins,Kolkata Knight Riders,bowl_death,19370183.84,0.09408151,0.689911629
+2022,M Markande,Mumbai Indians,bowl_mid,8084559.93,0.094077615,0.764971581
+2020,Kartik Tyagi,Rajasthan Royals,bowl_death,18061840.49,0.094021808,0.642906645
+2018,Imran Tahir,Chennai Super Kings,bowl_death,14923461.63,0.093615104,0.52891467
+2022,HR Shokeen,Mumbai Indians,bat_mid,2487556.902,0.093409543,0.0947794
+2022,OC McCoy,Rajasthan Royals,bowl_mid,9328338.381,0.093215506,0.874570994
+2019,GC Viljoen,Punjab Kings,bowl_death,10831894.15,0.093072097,0.381690438
+2023,A Mishra,Lucknow Super Giants,bowl_pp,5915430.661,0.093002919,0.558750209
+2022,DJ Mitchell,Rajasthan Royals,bowl_mid,9328338.381,0.092208759,0.865125444
+2022,VR Aaron,Gujarat Titans,bowl_mid,6218892.254,0.091139647,0.570063178
+2025,R Sai Kishore,Gujarat Titans,bowl_mid,20990000,0.091010287,1.921345815
+2014,SA Yadav,Kolkata Knight Riders,bat_death,13559128.69,0.090831241,0.659792049
+2025,N Thushara,Royal Challengers Bengaluru,bowl_death,16792000,0.09030862,0.574261979
+2024,Kartik Tyagi,Gujarat Titans,bowl_pp,6652780.5,0.090245541,0.609766692
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_death,19891748.76,0.089624105,0.67514903
+2025,E Malinga,Sunrisers Hyderabad,bowl_mid,12594000,0.089453893,1.13309298
+2023,JD Unadkat,Lucknow Super Giants,bowl_mid,5915430.661,0.089430138,0.53207504
+2022,Lalit Yadav,Delhi Capitals,bowl_pp,8084559.93,0.089350028,0.733644769
+2017,LH Ferguson,Lucknow Super Giants,bowl_pp,7799001.048,0.08933874,0.707641916
+2025,JD Unadkat,Sunrisers Hyderabad,bowl_pp,10495000,0.089237323,0.951182227
+2025,Yash Thakur,Punjab Kings,bowl_death,16792000,0.088984437,0.565901105
+2024,SD Hope,Delhi Capitals,bat_mid,8315975.625,0.088771697,0.301118484
+2025,V Suryavanshi,Rajasthan Royals,bat_pp,11544500,0.088190548,0.788800305
+2016,NLTC Perera,Lucknow Super Giants,bat_death,16363864,0.088136695,0.773333882
+2014,R Shukla,Delhi Capitals,bowl_mid,7748073.535,0.088121998,0.686721569
+2022,DP Conway,Chennai Super Kings,bat_mid,12437784.51,0.087243124,0.442612747
+2024,JD Unadkat,Sunrisers Hyderabad,bowl_death,17740748,0.087126756,0.58548244
+2019,HF Gurney,Kolkata Knight Riders,bowl_mid,10831894.15,0.087005879,0.947884937
+2016,MP Stoinis,Punjab Kings,bat_pp,9000125.199,0.086950988,0.606487682
+2015,RS Bopara,Sunrisers Hyderabad,bowl_death,17455333.73,0.086878074,0.574430958
+2017,CJ Jordan,Sunrisers Hyderabad,bowl_pp,7799001.048,0.086050687,0.681597626
+2021,FA Allen,Punjab Kings,bowl_mid,9945874.382,0.086045583,0.860744325
+2025,MJ Santner,Mumbai Indians,bowl_death,20990000,0.085553991,0.680301652
+2019,I Sharma,Delhi Capitals,bowl_pp,15886778.08,0.085240804,1.375365461
+2024,Kartik Tyagi,Gujarat Titans,bowl_mid,6652780.5,0.085209468,0.570155954
+2022,M Markande,Mumbai Indians,bowl_pp,8084559.93,0.084892458,0.697044083
+2020,TK Curran,Rajasthan Royals,bat_death,13893723.45,0.08436239,0.629319193
+2014,SB Jakati,Royal Challengers Bengaluru,bowl_pp,3874036.767,0.083899296,0.330108572
+2025,XC Bartlett,Punjab Kings,bowl_mid,8396000,0.083776645,0.707453681
+2018,A Dananjaya,Mumbai Indians,bowl_mid,7461730.815,0.083478431,0.626493358
+2014,JJ Bumrah,Mumbai Indians,bowl_death,23244220.6,0.083324961,0.733880699
+2023,M Markande,Sunrisers Hyderabad,bowl_pp,5915430.661,0.083015016,0.498744104
+2025,Arshad Khan,Gujarat Titans,bowl_pp,13643500,0.082280548,1.140138791
+2022,RP Meredith,Mumbai Indians,bowl_mid,12437784.51,0.082128461,1.027399457
+2022,M Shahrukh Khan,Punjab Kings,bat_mid,2487556.902,0.081976658,0.083178851
+2025,M Siddharth,Lucknow Super Giants,bowl_pp,7871250,0.081580368,0.652174955
+2022,Lalit Yadav,Delhi Capitals,bat_mid,8084559.93,0.081438183,0.268555557
+2013,JP Faulkner,Rajasthan Royals,bowl_death,49252953.85,0.081207212,1.515824242
+2025,I Sharma,Gujarat Titans,bowl_pp,7871250,0.08069494,0.645096606
+2020,JDS Neesham,Punjab Kings,bowl_death,6946861.727,0.080406213,0.211706489
+2019,HF Gurney,Kolkata Knight Riders,bowl_pp,10831894.15,0.080009117,0.880194467
+2018,Imran Tahir,Chennai Super Kings,bowl_mid,14923461.63,0.0791427,1.187908666
+2023,Sikandar Raza,Punjab Kings,bat_death,5915430.661,0.078918198,0.251187568
+2016,KC Cariappa,Punjab Kings,bowl_mid,13091091.2,0.078675309,1.035897823
+2014,Y Venugopal Rao,Sunrisers Hyderabad,bowl_mid,10653601.11,0.078669972,0.842962088
+2022,Kuldeep Yadav,Delhi Capitals,bowl_mid,24875569.02,0.078579911,1.966016557
+2024,SD Hope,Delhi Capitals,bat_pp,8315975.625,0.078413304,0.506523896
+2018,DL Chahar,Chennai Super Kings,bowl_mid,11938769.3,0.07837452,0.941102806
+2025,AM Rahane,Kolkata Knight Riders,bat_pp,15742500,0.078112153,0.955275042
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_mid,13261165.84,0.077767819,1.037251912
+2022,TS Mills,Mumbai Indians,bowl_death,18656676.76,0.077718795,0.549712004
+2017,MG Johnson,Mumbai Indians,bowl_death,31196004.19,0.077695613,0.918906676
+2025,L Ngidi,Royal Challengers Bengaluru,bowl_pp,10495000,0.077426597,0.825291485
+2015,J Theron,Rajasthan Royals,bowl_pp,5236600.118,0.077106669,0.410087095
+2016,AJ Finch,Gujarat Titans,bat_mid,16363864,0.076989608,0.513887026
+2023,Sikandar Raza,Punjab Kings,bowl_pp,5915430.661,0.076893828,0.461968754
+2018,Mandeep Singh,Royal Challengers Bengaluru,bat_death,20892846.28,0.07647748,0.860647966
+2016,R Bhatia,Lucknow Super Giants,bowl_pp,9818318.399,0.076173603,0.759584965
+2025,Azmatullah Omarzai,Punjab Kings,bowl_death,25188000,0.076066219,0.726503493
+2022,MK Lomror,Royal Challengers Bengaluru,bat_death,11815895.28,0.076027757,0.483972918
+2014,KK Nair,Rajasthan Royals,bat_pp,14527637.88,0.07600062,0.858284583
+2023,A Zampa,Rajasthan Royals,bowl_death,17746291.98,0.075794503,0.510047421
+2014,S Kaul,Delhi Capitals,bowl_pp,8716582.727,0.075735375,0.670470673
+2014,BW Hilfenhaus,Chennai Super Kings,bowl_death,19370183.84,0.074990899,0.550866832
+2017,CJ Anderson,Delhi Capitals,bowl_death,15598002.1,0.073923583,0.437330271
+2014,AD Russell,Kolkata Knight Riders,bowl_death,11622110.3,0.073881557,0.325672221
+2018,SN Thakur,Chennai Super Kings,bowl_death,38801000.24,0.07359199,1.08304843
+2014,S Kaul,Delhi Capitals,bowl_mid,8716582.727,0.073088672,0.640765242
+2018,F du Plessis,Chennai Super Kings,bat_death,23877538.61,0.072906158,0.939237328
+2024,LH Ferguson,Royal Challengers Bengaluru,bowl_death,22175935,0.072856646,0.612863057
+2018,DL Chahar,Chennai Super Kings,bat_mid,11938769.3,0.072105137,0.351136073
+2014,S Nadeem,Delhi Capitals,bowl_death,16464656.26,0.072002225,0.449734223
+2014,S Nadeem,Delhi Capitals,bowl_mid,16464656.26,0.071677436,1.186964545
+2013,DT Christian,Royal Challengers Bengaluru,bowl_mid,12313238.46,0.071632739,0.887128368
+2015,RS Bopara,Sunrisers Hyderabad,bowl_mid,17455333.73,0.071575063,1.256586851
+2016,MP Stoinis,Punjab Kings,bowl_pp,9000125.199,0.071406474,0.652710932
+2016,SM Boland,Lucknow Super Giants,bowl_mid,8181932,0.071361426,0.587248616
+2025,Vijaykumar Vyshak,Punjab Kings,bowl_death,18891000,0.071233113,0.510546936
+2018,CR Brathwaite,Sunrisers Hyderabad,bowl_death,29846923.26,0.071153974,0.805752846
+2018,SW Billings,Chennai Super Kings,bat_death,14923461.63,0.070780341,0.570519991
+2019,GC Viljoen,Punjab Kings,bowl_pp,10831894.15,0.070761681,0.778461789
+2017,Basil Thampi,Gujarat Titans,bowl_mid,13258301.78,0.070687752,0.942615743
+2018,PP Shaw,Delhi Capitals,bat_pp,17908153.96,0.070672064,0.985612701
+2025,NT Ellis,Chennai Super Kings,bowl_death,20990000,0.070402875,0.560721739
+2018,K Khejroliya,Royal Challengers Bengaluru,bowl_mid,12684942.39,0.070301251,0.896920949
+2025,RJW Topley,Mumbai Indians,bowl_pp,7871250,0.070131078,0.560646317
+2017,DT Christian,Lucknow Super Giants,bat_death,15598002.1,0.070111527,0.590880609
+2021,C Sakariya,Rajasthan Royals,bowl_mid,15913399.01,0.069974976,1.119974994
+2014,KK Nair,Rajasthan Royals,bat_mid,14527637.88,0.069869603,0.414031099
+2014,A Nehra,Chennai Super Kings,bowl_death,38740367.67,0.069811699,1.026289161
+2017,P Negi,Royal Challengers Bengaluru,bat_death,15598002.1,0.069756184,0.587997293
+2015,DJ Muthuswami,Delhi Capitals,bowl_pp,13091500.3,0.069257326,0.920852108
+2018,DS Kulkarni,Rajasthan Royals,bowl_mid,11192596.22,0.069114792,0.778044538
+2025,Akash Madhwal,Rajasthan Royals,bowl_mid,12594000,0.068984333,0.873809528
+2022,B Kumar,Sunrisers Hyderabad,bowl_death,52238694.93,0.068566639,1.359423757
+2022,FA Allen,Mumbai Indians,bowl_mid,9328338.381,0.068217523,0.640033716
+2016,DS Kulkarni,Gujarat Titans,bowl_death,32727728,0.068062052,0.845474362
+2025,Shahbaz Ahmed,Lucknow Super Giants,bowl_death,25188000,0.067952985,0.649663228
+2013,R McLaren,Kolkata Knight Riders,bowl_pp,6156619.231,0.067944849,0.424848006
+2020,AJ Tye,Rajasthan Royals,bowl_death,13893723.45,0.067692798,0.356995549
+2022,OC McCoy,Rajasthan Royals,bowl_pp,9328338.381,0.067570495,0.640171212
+2022,AS Joseph,Gujarat Titans,bowl_death,29850682.82,0.067437659,0.764141668
+2014,NV Ojha,Sunrisers Hyderabad,bat_mid,9685091.919,0.067295682,0.265852427
+2023,AJ Hosein,Sunrisers Hyderabad,bowl_mid,11830861.32,0.067070724,0.798090193
+2024,JD Unadkat,Sunrisers Hyderabad,bowl_mid,17740748,0.066873717,1.193246061
+2025,L Ngidi,Royal Challengers Bengaluru,bowl_mid,10495000,0.066789866,0.705010573
+2022,PH Solanki,Chennai Super Kings,bowl_mid,14925341.41,0.066674048,1.00088392
+2025,R Shepherd,Royal Challengers Bengaluru,bowl_mid,15742500,0.066641197,1.055161915
+2018,CJ Jordan,Sunrisers Hyderabad,bowl_mid,14923461.63,0.066335527,0.99567677
+2025,RJW Topley,Mumbai Indians,bowl_mid,7871250,0.065965409,0.522230921
+2015,DJ Muthuswami,Delhi Capitals,bowl_mid,13091500.3,0.065873125,0.867361819
+2014,AD Russell,Kolkata Knight Riders,bowl_mid,11622110.3,0.06579674,0.769116246
+2018,A Dananjaya,Mumbai Indians,bowl_pp,7461730.815,0.0656296,0.497363701
+2022,S Kaul,Royal Challengers Bengaluru,bowl_death,9328338.381,0.065530691,0.232105463
+2022,NT Ellis,Punjab Kings,bowl_pp,9328338.381,0.065331398,0.618957735
+2022,FA Allen,Mumbai Indians,bowl_pp,9328338.381,0.06444249,0.610536105
+2016,DS Kulkarni,Gujarat Titans,bowl_pp,32727728,0.06437771,2.139863799
+2023,A Zampa,Rajasthan Royals,bowl_mid,17746291.98,0.064317073,1.147985779
+2016,KW Richardson,Royal Challengers Bengaluru,bowl_death,32727728,0.063986019,0.795314686
+2018,CJ Jordan,Sunrisers Hyderabad,bowl_death,14923461.63,0.063961036,0.362514012
+2014,VR Aaron,Royal Challengers Bengaluru,bowl_death,38740367.67,0.063727191,0.937657207
+2022,M Ashwin,Mumbai Indians,bowl_mid,19900455.21,0.063611176,1.273207094
+2025,E Malinga,Sunrisers Hyderabad,bowl_pp,12594000,0.063401436,0.810956454
+2020,MM Sharma,Delhi Capitals,bowl_mid,6946861.727,0.063334061,0.442515621
+2025,MJ Santner,Mumbai Indians,bowl_mid,20990000,0.063217913,1.334612567
+2014,BCJ Cutting,Rajasthan Royals,bowl_mid,15496147.07,0.062985209,0.981668652
+2016,MP Stoinis,Punjab Kings,bat_mid,9000125.199,0.062961793,0.231140114
+2021,C Sakariya,Rajasthan Royals,bowl_pp,15913399.01,0.062955229,1.017488501
+2022,Kuldeep Yadav,Delhi Capitals,bowl_death,24875569.02,0.062560925,0.591170189
+2022,JD Unadkat,Mumbai Indians,bowl_mid,16169119.86,0.06251004,1.016573478
+2015,PP Ojha,Mumbai Indians,bowl_mid,8727666.863,0.06246968,0.548365416
+2020,Kartik Tyagi,Rajasthan Royals,bowl_mid,18061840.49,0.062176225,1.12950712
+2018,K Khejroliya,Royal Challengers Bengaluru,bowl_death,12684942.39,0.062031423,0.298933268
+2016,JO Holder,Kolkata Knight Riders,bowl_mid,11454704.8,0.061610649,0.709810302
+2014,BE Hendricks,Punjab Kings,bowl_death,34866330.91,0.061393507,0.81329655
+2025,Sameer Rizvi,Delhi Capitals,bat_mid,9970250,0.061352518,0.249510094
+2016,BCJ Cutting,Sunrisers Hyderabad,bowl_pp,8181932,0.06114478,0.508100948
+2017,Basil Thampi,Gujarat Titans,bowl_pp,13258301.78,0.061064409,0.822263116
+2014,RN ten Doeschate,Kolkata Knight Riders,bat_death,19370183.84,0.060889617,0.640853046
+2016,JO Holder,Kolkata Knight Riders,bowl_pp,11454704.8,0.06048489,0.703664349
+2017,MJ Henry,Punjab Kings,bowl_pp,7799001.048,0.060302488,0.477649093
+2014,M de Lange,Mumbai Indians,bowl_pp,5811055.151,0.060249227,0.355583192
+2014,TG Southee,Rajasthan Royals,bowl_death,23244220.6,0.060039016,0.53035932
+2022,RP Meredith,Mumbai Indians,bowl_pp,12437784.51,0.059983511,0.757721582
+2021,FA Allen,Punjab Kings,bowl_pp,9945874.382,0.059566773,0.601702467
+2024,Azmatullah Omarzai,Gujarat Titans,bat_mid,5543983.75,0.05941023,0.134348514
+2024,Sumit Kumar,Delhi Capitals,bowl_pp,11087967.5,0.059366006,0.668535585
+2019,WP Saha,Sunrisers Hyderabad,bat_pp,17331030.64,0.059148024,0.802335586
+2022,JD Unadkat,Mumbai Indians,bat_death,16169119.86,0.058949318,0.518626987
+2025,Washington Sundar,Gujarat Titans,bowl_death,33584000,0.058804694,0.75069328
+2018,MG Johnson,Kolkata Knight Riders,bowl_death,29846923.26,0.058180762,0.66015724
+2025,PVD Chameera,Delhi Capitals,bowl_pp,7871250,0.057741082,0.46159742
+2024,Sumit Kumar,Delhi Capitals,bowl_mid,11087967.5,0.057501311,0.641257281
+2022,TG Southee,Kolkata Knight Riders,bowl_mid,18656676.76,0.057180689,1.072966817
+2014,BW Hilfenhaus,Chennai Super Kings,bowl_pp,19370183.84,0.057124858,1.123811898
+2017,MS Gony,Gujarat Titans,bowl_mid,9358801.258,0.057057489,0.53707569
+2014,KW Richardson,Rajasthan Royals,bowl_pp,19370183.84,0.056908476,1.119555029
+2014,Iqbal Abdulla,Rajasthan Royals,bowl_mid,12590619.49,0.056860194,0.720042373
+2017,CJ Anderson,Delhi Capitals,bowl_mid,15598002.1,0.056611413,0.888128055
+2018,TG Southee,Royal Challengers Bengaluru,bowl_mid,14923461.63,0.056579088,0.849235481
+2020,TK Curran,Rajasthan Royals,bowl_mid,13893723.45,0.056550165,0.790232959
+2025,AK Markram,Lucknow Super Giants,bat_pp,20990000,0.056287734,0.926181084
+2015,SN Khan,Royal Challengers Bengaluru,bat_mid,8727666.863,0.056110329,0.199751782
+2015,D Wiese,Royal Challengers Bengaluru,bowl_death,48874934.44,0.056064979,1.042137823
+2014,AR Patel,Punjab Kings,bowl_pp,14527637.88,0.05602032,0.826561822
+2025,VG Arora,Kolkata Knight Riders,bowl_mid,18891000,0.055610166,1.056602789
+2022,PVD Chameera,Lucknow Super Giants,bowl_death,24875569.02,0.055493063,0.525060937
+2014,R Shukla,Delhi Capitals,bowl_death,7748073.535,0.055260463,0.162864771
+2016,AJ Finch,Gujarat Titans,bat_pp,16363864,0.055175974,0.708252116
+2014,NV Ojha,Sunrisers Hyderabad,bat_pp,9685091.919,0.055102518,0.418645324
+2025,LH Ferguson,Punjab Kings,bowl_death,20990000,0.054894537,0.43832245
+2014,DS Kulkarni,Rajasthan Royals,bowl_death,21307202.22,0.054850619,0.44459455
+2015,CH Morris,Rajasthan Royals,bat_death,24437467.22,0.054741286,0.730340689
+2019,I Sharma,Delhi Capitals,bowl_mid,15886778.08,0.054613425,0.872645508
+2018,Sandeep Sharma,Sunrisers Hyderabad,bowl_death,44770384.89,0.054541522,0.928972244
+2018,Basil Thampi,Sunrisers Hyderabad,bowl_mid,14177288.55,0.054397131,0.775660704
+2020,CJ Jordan,Punjab Kings,bowl_death,41681170.36,0.054162949,0.858938734
+2015,PP Ojha,Mumbai Indians,bowl_pp,8727666.863,0.05401067,0.478754063
+2022,S Gopal,Sunrisers Hyderabad,bowl_mid,9328338.381,0.053892614,0.505633873
+2022,Yash Dayal,Gujarat Titans,bowl_death,39800910.43,0.05326574,0.806764263
+2014,R Rampaul,Royal Challengers Bengaluru,bowl_mid,17433165.45,0.053188055,0.932594779
+2025,LH Ferguson,Punjab Kings,bowl_mid,20990000,0.052900022,1.116788435
+2022,RK Singh,Kolkata Knight Riders,bat_mid,6840781.479,0.052894601,0.147593335
+2014,L Balaji,Punjab Kings,bowl_death,34866330.91,0.052892804,0.701851116
+2019,LH Ferguson,Kolkata Knight Riders,bowl_death,23108040.85,0.052707437,0.463548848
+2013,DT Christian,Royal Challengers Bengaluru,bowl_pp,12313238.46,0.052553322,0.657214611
+2014,JP Duminy,Delhi Capitals,bat_death,42614404.44,0.052403914,1.221762926
+2018,R Tewatia,Delhi Capitals,bowl_death,44770384.89,0.051968738,0.885661527
+2018,SP Goswami,Sunrisers Hyderabad,bat_pp,14923461.63,0.051851796,0.608275646
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_mid,19891748.76,0.051845213,1.037251912
+2025,N Thushara,Royal Challengers Bengaluru,bowl_pp,16792000,0.051751924,0.882599491
+2022,UT Yadav,Kolkata Knight Riders,bowl_mid,24875569.02,0.051740613,1.294515367
+2024,R Ravindra,Chennai Super Kings,bowl_mid,19958341.5,0.051463891,1.033069847
+2019,KMA Paul,Delhi Capitals,bowl_pp,7221262.765,0.051444703,0.377301524
+2025,MM Ali,Kolkata Knight Riders,bowl_pp,20990000,0.05138009,1.095322597
+2024,SN Thakur,Chennai Super Kings,bowl_death,44351870,0.051251797,0.865426046
+2024,G Coetzee,Mumbai Indians,bowl_death,55439837.5,0.051135767,1.079363792
+2024,LH Ferguson,Royal Challengers Bengaluru,bowl_mid,22175935,0.051071312,1.139099275
+2017,MK Tiwary,Lucknow Super Giants,bat_pp,7799001.048,0.050896987,0.312235761
+2020,RA Tripathi,Kolkata Knight Riders,bat_mid,8336234.072,0.050859967,0.17294008
+2022,UT Yadav,Kolkata Knight Riders,bowl_death,24875569.02,0.050811162,0.481268766
+2023,N Jagadeesan,Kolkata Knight Riders,bat_pp,10647775.19,0.050703985,0.424728444
+2025,KT Maphaka,Rajasthan Royals,bowl_mid,15742500,0.050509671,0.799743763
+2018,S Kaul,Sunrisers Hyderabad,bowl_death,56709154.19,0.050464279,1.089757915
+2024,Mohammad Nabi,Mumbai Indians,bowl_mid,16631951.25,0.050457125,0.844050292
+2022,DP Conway,Chennai Super Kings,bat_pp,12437784.51,0.050342464,0.492718868
+2016,IK Pathan,Lucknow Super Giants,bowl_pp,16363864,0.050336804,0.836577633
+2016,IK Pathan,Lucknow Super Giants,bowl_mid,16363864,0.050242347,0.826910287
+2022,WP Saha,Gujarat Titans,bat_pp,23631790.57,0.05020016,0.933614702
+2015,CH Morris,Rajasthan Royals,bowl_mid,24437467.22,0.049985477,1.228577768
+2024,R Ravindra,Chennai Super Kings,bat_pp,19958341.5,0.049931256,0.784417331
+2014,M Muralitharan,Royal Challengers Bengaluru,bowl_mid,19370183.84,0.049870441,0.971582248
+2016,AJ Finch,Gujarat Titans,bat_death,16363864,0.04986825,0.44756994
+2014,R Bhatia,Rajasthan Royals,bowl_mid,32929312.52,0.049864362,1.651488476
+2025,KT Maphaka,Rajasthan Royals,bowl_death,15742500,0.049556186,0.297142209
+2025,RD Rickelton,Mumbai Indians,bat_mid,10495000,0.049538678,0.212068683
+2018,JP Duminy,Mumbai Indians,bowl_mid,14923461.63,0.049519381,0.743271358
+2014,RN ten Doeschate,Kolkata Knight Riders,bowl_mid,19370183.84,0.049413949,0.962688812
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_death,32831615.59,0.049184394,0.615112209
+2014,JO Holder,Sunrisers Hyderabad,bowl_pp,14527637.88,0.049108597,0.724581563
+2017,JJ Roy,Gujarat Titans,bat_pp,15598002.1,0.04876664,0.599263273
+2014,KW Richardson,Rajasthan Royals,bowl_mid,19370183.84,0.048723323,0.949233937
+2019,Mohammed Shami,Punjab Kings,bowl_death,69324122.54,0.048671216,1.285435694
+2017,A Choudhary,Royal Challengers Bengaluru,bowl_death,31196004.19,0.048662199,0.578343063
+2014,S Nadeem,Delhi Capitals,bowl_pp,16464656.26,0.048661239,0.813711733
+2014,AD Russell,Kolkata Knight Riders,bowl_pp,11622110.3,0.048627366,0.57398493
+2025,AK Markram,Lucknow Super Giants,bowl_mid,20990000,0.048403762,1.021866522
+2025,Vijaykumar Vyshak,Punjab Kings,bowl_mid,18891000,0.048144364,0.914751273
+2018,DT Christian,Delhi Capitals,bowl_mid,22385192.45,0.048095277,1.08284397
+2019,JM Bairstow,Sunrisers Hyderabad,bat_mid,31773556.17,0.048015093,0.622290665
+2024,T Kohler-Cadmore,Rajasthan Royals,bat_pp,4435187,0.047900213,0.167481288
+2023,A Zampa,Rajasthan Royals,bowl_pp,17746291.98,0.04780511,0.861621837
+2018,DS Kulkarni,Rajasthan Royals,bowl_pp,11192596.22,0.047727,0.542537447
+2022,TG Southee,Kolkata Knight Riders,bowl_pp,18656676.76,0.047632924,0.90256041
+2022,MJ Santner,Chennai Super Kings,bowl_mid,23631790.57,0.047525971,1.129614473
+2024,Yash Dayal,Royal Challengers Bengaluru,bowl_death,55439837.5,0.047412466,1.001747778
+2014,Y Venugopal Rao,Sunrisers Hyderabad,bowl_pp,10653601.11,0.047391967,0.512785712
+2018,Mohammad Nabi,Sunrisers Hyderabad,bowl_pp,14923461.63,0.047353238,0.717718277
+2014,IK Pathan,Sunrisers Hyderabad,bowl_death,46488441.21,0.047308221,0.838181926
+2025,Arshad Khan,Gujarat Titans,bowl_mid,13643500,0.047209385,0.647823579
+2013,DT Christian,Royal Challengers Bengaluru,bowl_death,12313238.46,0.04718361,0.221429513
+2025,SH Johnson,Kolkata Knight Riders,bowl_death,29386000,0.047147858,0.528054697
+2016,JW Hastings,Kolkata Knight Riders,bowl_mid,21273023.2,0.047129699,1.008385283
+2022,DR Sams,Mumbai Indians,bowl_death,32338239.72,0.047047004,0.579878928
+2014,WD Parnell,Delhi Capitals,bowl_mid,19370183.84,0.046721195,0.910228236
+2025,MM Sharma,Delhi Capitals,bowl_death,23089000,0.046633809,0.410437287
+2025,KK Ahmed,Chennai Super Kings,bowl_death,50376000,0.046611335,0.895073819
+2022,MK Lomror,Royal Challengers Bengaluru,bat_mid,11815895.28,0.04653595,0.22428741
+2014,DS Kulkarni,Rajasthan Royals,bowl_pp,21307202.22,0.046519263,1.006685941
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bowl_mid,29846923.26,0.046487615,1.395530889
+2018,PP Shaw,Delhi Capitals,bat_mid,17908153.96,0.046347447,0.338552732
+2014,IC Pandey,Chennai Super Kings,bowl_death,29055275.76,0.046239188,0.512184386
+2018,TG Southee,Royal Challengers Bengaluru,bowl_pp,14923461.63,0.046178725,0.699916549
+2016,NLTC Perera,Lucknow Super Giants,bowl_pp,16363864,0.045922353,0.763211219
+2020,Kartik Tyagi,Rajasthan Royals,bowl_pp,18061840.49,0.045780822,0.839808639
+2017,P Negi,Royal Challengers Bengaluru,bowl_pp,15598002.1,0.04575934,0.724908971
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_mid,15742500,0.045724897,0.723984144
+2019,Arshdeep Singh,Punjab Kings,bowl_mid,11554020.42,0.045603732,0.529951512
+2019,Arshdeep Singh,Punjab Kings,bowl_pp,11554020.42,0.045528073,0.534253216
+2022,AK Markram,Sunrisers Hyderabad,bat_death,32338239.72,0.045467381,0.810452949
+2025,Rahmanullah Gurbaz,Kolkata Knight Riders,bat_pp,20990000,0.04536874,0.752313567
+2015,GS Sandhu,Delhi Capitals,bowl_death,29674067.34,0.045306838,0.512689429
+2022,R Powell,Delhi Capitals,bat_death,34825796.62,0.04518363,0.867654874
+2022,DA Miller,Gujarat Titans,bat_death,37313353.52,0.045101521,0.928036435
+2025,Vijaykumar Vyshak,Punjab Kings,bowl_pp,18891000,0.045073803,0.864796453
+2025,VG Arora,Kolkata Knight Riders,bowl_pp,18891000,0.0449396,0.86222161
+2025,TH David,Royal Challengers Bengaluru,bat_death,31485000,0.044923673,0.78016403
+2025,Azmatullah Omarzai,Punjab Kings,bowl_mid,25188000,0.044880708,1.136988322
+2022,TS Mills,Mumbai Indians,bowl_pp,18656676.76,0.044675548,0.846523316
+2014,JW Hastings,Chennai Super Kings,bowl_pp,9685091.919,0.044613267,0.438836274
+2014,DS Kulkarni,Rajasthan Royals,bat_death,21307202.22,0.044598919,0.524369657
+2016,P Kumar,Gujarat Titans,bowl_death,57273524,0.044564372,0.973545703
+2014,Parvez Rasool,Sunrisers Hyderabad,bowl_mid,18401674.65,0.044272333,0.819393228
+2023,AJ Hosein,Sunrisers Hyderabad,bowl_pp,11830861.32,0.044152515,0.530525861
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bowl_death,29846923.26,0.044101343,0.502146913
+2023,Mayank Dagar,Sunrisers Hyderabad,bowl_mid,21295550.38,0.043955229,0.941460352
+2016,IK Pathan,Lucknow Super Giants,bowl_death,16363864,0.043892294,0.274020614
+2014,MC Henriques,Sunrisers Hyderabad,bowl_mid,19370183.84,0.04384179,0.854131307
+2024,R Ravindra,Chennai Super Kings,bat_mid,19958341.5,0.043694787,0.355716296
+2018,YK Pathan,Sunrisers Hyderabad,bat_death,28354577.1,0.043670834,0.68411586
+2025,M Theekshana,Rajasthan Royals,bowl_death,46178000,0.043663327,0.769296713
+2014,I Sharma,Sunrisers Hyderabad,bowl_death,50362477.98,0.043623733,0.838257737
+2022,AM Rahane,Kolkata Knight Riders,bat_pp,12437784.51,0.043577257,0.428885542
+2023,D Wiese,Kolkata Knight Riders,bowl_pp,11830861.32,0.043562369,0.523434816
+2022,MK Lomror,Royal Challengers Bengaluru,bowl_pp,11815895.28,0.043491025,0.5219165
+2014,R Rampaul,Royal Challengers Bengaluru,bowl_pp,17433165.45,0.043472901,0.769714416
+2025,KT Maphaka,Rajasthan Royals,bowl_pp,15742500,0.043452752,0.6947455
+2025,J Overton,Chennai Super Kings,bowl_mid,15742500,0.043421844,0.687518804
+2016,KH Pandya,Mumbai Indians,bat_mid,32727728,0.043349975,0.578701211
+2020,AJ Tye,Rajasthan Royals,bowl_mid,13893723.45,0.04332966,0.60548941
+2022,KL Nagarkoti,Delhi Capitals,bowl_mid,13681562.96,0.043309092,0.595960409
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_mid,32831615.59,0.043111585,1.423602883
+2017,CR Woakes,Kolkata Knight Riders,bowl_death,65511608.8,0.043048399,1.076235001
+2018,MK Tiwary,Punjab Kings,bowl_mid,14923461.63,0.043048164,0.646140288
+2014,JJ Bumrah,Mumbai Indians,bowl_mid,23244220.6,0.042638954,0.996837003
+2023,D Wiese,Kolkata Knight Riders,bowl_mid,11830861.32,0.04258615,0.506742532
+2020,JD Unadkat,Rajasthan Royals,bowl_death,41681170.36,0.042467951,0.675647681
+2023,AU Rashid,Sunrisers Hyderabad,bowl_mid,23661722.65,0.042442241,1.010060246
+2020,DW Steyn,Royal Challengers Bengaluru,bowl_death,27787446.91,0.042411418,0.449841114
+2025,MM Ali,Kolkata Knight Riders,bowl_mid,20990000,0.04240149,0.89515074
+2020,AJ Tye,Rajasthan Royals,bowl_pp,13893723.45,0.042249605,0.596178151
+2022,AK Markram,Sunrisers Hyderabad,bat_mid,32338239.72,0.042032709,0.554438572
+2015,EJG Morgan,Sunrisers Hyderabad,bat_death,26183000.59,0.041989626,0.608822814
+2014,WD Parnell,Delhi Capitals,bowl_pp,19370183.84,0.041901429,0.824322829
+2014,JDS Neesham,Delhi Capitals,bowl_mid,19370183.84,0.041880988,0.815930709
+2018,PA Patel,Royal Challengers Bengaluru,bat_pp,25369884.77,0.041856289,0.841694448
+2022,Mohammed Shami,Gujarat Titans,bowl_death,77736153.18,0.041772028,1.239753818
+2020,MP Stoinis,Delhi Capitals,bowl_death,66689872.57,0.041733333,1.062614893
+2025,MR Marsh,Lucknow Super Giants,bat_mid,35683000,0.041615212,0.605707777
+2016,NLTC Perera,Lucknow Super Giants,bowl_mid,16363864,0.041577547,0.684301266
+2018,CJ Jordan,Sunrisers Hyderabad,bowl_pp,14923461.63,0.041547973,0.629729679
+2018,CH Gayle,Punjab Kings,bat_pp,29846923.26,0.041528941,0.982816806
+2014,Sandeep Sharma,Punjab Kings,bowl_mid,16464656.26,0.041469176,0.686721569
+2015,SA Abbott,Royal Challengers Bengaluru,bowl_mid,17455333.73,0.041256131,0.724301315
+2016,KC Cariappa,Punjab Kings,bowl_pp,13091091.2,0.041205715,0.547858059
+2022,JDS Neesham,Rajasthan Royals,bowl_mid,18656676.76,0.041192789,0.772961924
+2018,MM Ali,Royal Challengers Bengaluru,bat_mid,25369884.77,0.041012357,0.424407357
+2015,P Kumar,Sunrisers Hyderabad,bowl_death,38401734.2,0.040940667,0.600435146
+2023,PD Salt,Delhi Capitals,bat_pp,23661722.65,0.040928998,0.768377826
+2025,V Shankar,Chennai Super Kings,bat_pp,12594000,0.040903128,0.408723499
+2022,K Gowtham,Lucknow Super Giants,bowl_pp,11194006.06,0.040687197,0.462570637
+2020,SM Curran,Chennai Super Kings,bowl_death,76415478.99,0.040644665,1.186298761
+2014,AB Dinda,Royal Challengers Bengaluru,bowl_death,29055275.76,0.040494443,0.449422359
+2025,MM Sharma,Delhi Capitals,bowl_mid,23089000,0.040382182,0.937772558
+2018,K Khejroliya,Royal Challengers Bengaluru,bowl_pp,12684942.39,0.040378825,0.520207876
+2018,DT Christian,Delhi Capitals,bowl_death,22385192.44,0.040374512,0.345241107
+2017,VR Aaron,Punjab Kings,bowl_death,43674405.87,0.040351571,0.673202476
+2016,JW Hastings,Kolkata Knight Riders,bowl_pp,21273023.2,0.040287015,0.87042039
+2014,SA Yadav,Kolkata Knight Riders,bat_mid,13559128.69,0.040221331,0.222452814
+2018,MM Ali,Royal Challengers Bengaluru,bowl_mid,25369884.77,0.040119985,1.023721618
+2014,Iqbal Abdulla,Rajasthan Royals,bowl_pp,12590619.49,0.040100895,0.512785712
+2025,NT Ellis,Chennai Super Kings,bowl_mid,20990000,0.040062492,0.84577144
+2014,RG Sharma,Mumbai Indians,bat_death,36803349.29,0.040019374,0.81805234
+2025,SE Rutherford,Gujarat Titans,bat_mid,27287000,0.039854918,0.443595763
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_pp,15742500,0.039831954,0.63685427
+2022,DA Miller,Gujarat Titans,bat_mid,37313353.52,0.039797623,0.605718868
+2025,Yash Thakur,Punjab Kings,bowl_mid,16792000,0.03971734,0.670787869
+2014,PJ Cummins,Kolkata Knight Riders,bowl_pp,19370183.84,0.039645155,0.77993537
+2025,M Prasidh Krishna,Gujarat Titans,bowl_death,99702500,0.039642693,1.510250843
+2022,UT Yadav,Kolkata Knight Riders,bowl_pp,24875569.02,0.039621138,1.001001474
+2018,C de Grandhomme,Royal Challengers Bengaluru,bowl_death,32831615.59,0.039582969,0.496581982
+2025,Naman Dhir,Mumbai Indians,bowl_death,55098750,0.039529521,0.832267639
+2017,NM Coulter-Nile,Kolkata Knight Riders,bowl_death,54593007.34,0.039483373,0.82368107
+2025,AK Markram,Lucknow Super Giants,bat_mid,20990000,0.039439342,0.33766946
+2025,A Kamboj,Chennai Super Kings,bowl_pp,35683000,0.039351356,1.42611915
+2014,BW Hilfenhaus,Chennai Super Kings,bowl_mid,19370183.84,0.039290016,0.765453055
+2025,Simarjeet Singh,Sunrisers Hyderabad,bowl_death,15742500,0.039245877,0.236111763
+2022,M Ashwin,Mumbai Indians,bowl_pp,19900455.21,0.039201432,0.792318312
+2020,PK Garg,Sunrisers Hyderabad,bat_death,26398074.56,0.039143405,0.574738203
+2022,PVD Chameera,Lucknow Super Giants,bowl_pp,24875569.02,0.039086334,0.987490008
+2025,G Coetzee,Gujarat Titans,bowl_mid,25188000,0.039045584,0.989163833
+2017,PJ Cummins,Delhi Capitals,bowl_death,70191009.43,0.038943889,1.044780115
+2020,TK Curran,Rajasthan Royals,bowl_pp,13893723.45,0.038907282,0.549015109
+2025,LH Ferguson,Punjab Kings,bowl_pp,20990000,0.03861451,0.823185498
+2022,JD Unadkat,Mumbai Indians,bowl_pp,16169119.86,0.038574901,0.63346985
+2024,Mohammad Nabi,Mumbai Indians,bowl_pp,16631951.25,0.038523409,0.650732745
+2022,PVD Chameera,Lucknow Super Giants,bowl_mid,24875569.02,0.038519343,0.963728072
+2018,P Negi,Royal Challengers Bengaluru,bowl_mid,14923461.63,0.038415409,0.576604006
+2016,KH Pandya,Mumbai Indians,bowl_mid,32727728,0.038411051,1.264371413
+2014,Shakib Al Hasan,Kolkata Knight Riders,bowl_death,54236514.74,0.038299323,0.794155445
+2022,TS Mills,Mumbai Indians,bowl_mid,18656676.76,0.038257471,0.717882159
+2017,MS Gony,Gujarat Titans,bowl_pp,9358801.258,0.038249272,0.363561721
+2017,DT Christian,Lucknow Super Giants,bowl_pp,15598002.1,0.038220882,0.605486443
+2014,UT Yadav,Kolkata Knight Riders,bowl_death,50362477.98,0.038193532,0.735426696
+2014,DS Kulkarni,Rajasthan Royals,bowl_mid,21307202.22,0.038148516,0.81753563
+2025,D Padikkal,Royal Challengers Bengaluru,bat_mid,20990000,0.03806216,0.32587838
+2014,B Kumar,Sunrisers Hyderabad,bowl_death,82323281.31,0.037940873,1.194318876
+2020,JR Hazlewood,Chennai Super Kings,bowl_death,27787446.91,0.037926331,0.402979126
+2022,KK Ahmed,Delhi Capitals,bowl_death,65298368.67,0.037730941,0.942172639
+2018,MA Agarwal,Punjab Kings,bat_pp,14923461.63,0.037707051,0.44813998
+2018,MM Sharma,Punjab Kings,bowl_death,35816307.91,0.037696005,0.516313394
+2018,KM Asif,Chennai Super Kings,bowl_mid,5969384.652,0.03754789,0.225433118
+2025,A Zampa,Sunrisers Hyderabad,bowl_mid,25188000,0.0374805,0.949514676
+2018,Mohammad Nabi,Sunrisers Hyderabad,bowl_mid,14923461.63,0.037473399,0.562464705
+2019,Yuvraj Singh,Mumbai Indians,bat_mid,14442525.53,0.037415386,0.220415968
+2022,YS Chahal,Rajasthan Royals,bowl_death,80845599.3,0.037344557,1.154753818
+2025,AM Rahane,Kolkata Knight Riders,bat_mid,15742500,0.037307081,0.239560191
+2025,SE Rutherford,Gujarat Titans,bat_death,27287000,0.037252237,0.567246939
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bowl_pp,29846923.26,0.037085975,1.124201142
+2014,PJ Cummins,Kolkata Knight Riders,bowl_mid,19370183.84,0.036959126,0.720042373
+2015,RS Bopara,Sunrisers Hyderabad,bat_death,17455333.73,0.036930945,0.359947087
+2025,Priyansh Arya,Punjab Kings,bat_pp,39881000,0.03679762,1.170081163
+2025,HV Patel,Sunrisers Hyderabad,bowl_death,83960000,0.036645098,1.177156334
+2025,M Jansen,Punjab Kings,bowl_death,73465000,0.036627282,1.029519624
+2022,PH Solanki,Chennai Super Kings,bowl_pp,14925341.41,0.036584661,0.554572158
+2024,A Mishra,Lucknow Super Giants,bowl_mid,24393528.5,0.036371085,0.892346437
+2025,SM Curran,Chennai Super Kings,bowl_death,25188000,0.036257187,0.349472997
+2018,Mohammed Shami,Delhi Capitals,bowl_death,44770384.89,0.036151094,0.619384438
+2022,VG Arora,Punjab Kings,bowl_pp,24875569.02,0.036090602,0.911804847
+2016,DR Smith,Gujarat Titans,bowl_pp,37636887.2,0.035922257,1.373131297
+2019,SE Rutherford,Delhi Capitals,bat_death,28885051.06,0.035907053,0.580254489
+2025,D Padikkal,Royal Challengers Bengaluru,bat_pp,20990000,0.035880416,0.601227185
+2023,RJW Topley,Royal Challengers Bengaluru,bowl_pp,22478636.51,0.035842451,0.818280899
+2018,C Munro,Delhi Capitals,bat_pp,28354577.1,0.035593712,0.806007399
+2018,TG Southee,Royal Challengers Bengaluru,bat_death,14923461.63,0.035580549,0.29725374
+2025,KH Pandya,Royal Challengers Bengaluru,bowl_death,60346250,0.035435964,0.818644771
+2022,RD Chahar,Punjab Kings,bowl_death,65298368.67,0.035381709,0.884492091
+2016,TG Southee,Mumbai Indians,bowl_death,40909660,0.035356785,0.55375404
+2022,AS Joseph,Gujarat Titans,bowl_mid,29850682.82,0.035275981,1.059097594
+2018,C de Grandhomme,Royal Challengers Bengaluru,bat_death,32831615.59,0.035199042,0.647442372
+2016,KD Karthik,Gujarat Titans,bat_mid,37636887.2,0.035103929,0.53891355
+2025,Abhishek Sharma,Sunrisers Hyderabad,bat_pp,39881000,0.034933133,1.11367211
+2025,G Coetzee,Gujarat Titans,bowl_death,25188000,0.034897843,0.336598677
+2015,CH Morris,Rajasthan Royals,bowl_pp,24437467.22,0.034880407,0.865710111
+2016,MM Sharma,Punjab Kings,bowl_death,106365116,0.034801725,1.41756116
+2018,Shubman Gill,Kolkata Knight Riders,bat_death,26862230.93,0.034742852,0.523350813
+2018,AJ Tye,Punjab Kings,bowl_death,107448923.7,0.03470574,1.42812741
+2025,TU Deshpande,Rajasthan Royals,bowl_death,68217500,0.034414771,0.899230351
+2013,NLTC Perera,Sunrisers Hyderabad,bowl_death,83114359.62,0.034378128,1.094452805
+2013,CH Morris,Chennai Super Kings,bowl_death,76957740.39,0.034332123,1.012050999
+2018,MA Agarwal,Punjab Kings,bat_mid,14923461.63,0.034221128,0.208311661
+2020,CV Varun,Kolkata Knight Riders,bowl_mid,55574893.81,0.034215885,1.912533448
+2022,Kartik Tyagi,Sunrisers Hyderabad,bowl_death,49751138.03,0.034189079,0.65158819
+2014,AB Dinda,Royal Challengers Bengaluru,bowl_mid,29055275.76,0.034166714,0.998460361
+2021,NM Coulter-Nile,Mumbai Indians,bowl_death,66305829.22,0.033992882,0.863512644
+2025,MR Marsh,Lucknow Super Giants,bat_pp,35683000,0.033909607,0.968736844
+2014,IC Pandey,Chennai Super Kings,bowl_mid,29055275.76,0.033788765,0.987415499
+2025,F du Plessis,Delhi Capitals,bat_pp,20990000,0.03349499,0.563243089
+2018,M Vohra,Royal Challengers Bengaluru,bat_pp,16415807.79,0.033420938,0.439577572
+2018,CR Brathwaite,Sunrisers Hyderabad,bat_death,29846923.26,0.033404523,0.56072123
+2014,WP Saha,Punjab Kings,bat_death,42614404.44,0.033400801,0.800495843
+2015,RS Bopara,Sunrisers Hyderabad,bowl_pp,17455333.73,0.033349374,0.591222008
+2024,HV Patel,Punjab Kings,bowl_death,130283618.1,0.033204509,1.658085855
+2014,BCJ Cutting,Rajasthan Royals,bowl_pp,15496147.07,0.033126647,0.5213579
+2025,Akash Madhwal,Rajasthan Royals,bowl_pp,12594000,0.033013713,0.422272506
+2019,JM Bairstow,Sunrisers Hyderabad,bat_pp,31773556.17,0.032901729,0.838307743
+2018,M Ashwin,Royal Challengers Bengaluru,bowl_mid,32831615.59,0.032850643,1.08477269
+2022,VG Arora,Punjab Kings,bowl_death,24875569.02,0.03277463,0.312564046
+2014,KL Rahul,Sunrisers Hyderabad,bat_pp,19370183.84,0.032720709,0.508399398
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_pp,32831615.59,0.032718271,1.090981404
+2022,KD Karthik,Royal Challengers Bengaluru,bat_death,68407814.79,0.03268037,1.259378127
+2014,L Balaji,Punjab Kings,bowl_mid,34866330.91,0.032654917,1.145137013
+2022,JR Hazlewood,Royal Challengers Bengaluru,bowl_death,96392829.94,0.032509275,1.201567941
+2022,DR Sams,Mumbai Indians,bowl_pp,32338239.72,0.03249193,1.067152877
+2023,PD Salt,Delhi Capitals,bat_mid,23661722.65,0.032451407,0.313205642
+2025,Naman Dhir,Mumbai Indians,bat_death,55098750,0.032298435,1.003412814
+2016,KW Richardson,Royal Challengers Bengaluru,bowl_pp,32727728,0.032217232,1.070875136
+2022,V Shankar,Gujarat Titans,bowl_mid,17412898.31,0.032147356,0.563013677
+2014,IC Pandey,Chennai Super Kings,bowl_pp,29055275.76,0.032145634,0.948596997
+2018,BCJ Cutting,Mumbai Indians,bat_death,32831615.59,0.032052901,0.593708662
+2015,SA Abbott,Royal Challengers Bengaluru,bowl_pp,17455333.73,0.031981858,0.566978513
+2022,SW Billings,Kolkata Knight Riders,bat_mid,24875569.02,0.031958028,0.324266943
+2025,SM Curran,Chennai Super Kings,bat_mid,25188000,0.031877541,0.327512724
+2025,Sandeep Sharma,Rajasthan Royals,bowl_pp,27287000,0.031798165,0.88123675
+2025,V Shankar,Chennai Super Kings,bat_mid,12594000,0.031783743,0.163274519
+2014,MM Sharma,Chennai Super Kings,bowl_mid,38740367.67,0.031716126,1.235795176
+2016,KD Karthik,Gujarat Titans,bat_death,37636887.2,0.03155031,0.670764303
+2025,JP Inglis,Punjab Kings,bat_mid,27287000,0.031496422,0.3505635
+2013,MC Henriques,Royal Challengers Bengaluru,bat_death,36939715.39,0.031408021,0.655605051
+2022,AF Milne,Chennai Super Kings,bowl_pp,23631790.57,0.031365374,0.752803882
+2018,Basil Thampi,Sunrisers Hyderabad,bowl_pp,14177288.55,0.031357764,0.451515867
+2018,Shubman Gill,Kolkata Knight Riders,bat_mid,26862230.93,0.031307676,0.343038287
+2022,R Sai Kishore,Gujarat Titans,bowl_mid,37313353.52,0.031235986,1.172255058
+2013,JD Unadkat,Royal Challengers Bengaluru,bowl_death,64644501.92,0.031179578,0.773493677
+2016,DS Kulkarni,Gujarat Titans,bat_death,32727728,0.03117623,0.576904524
+2014,VR Aaron,Royal Challengers Bengaluru,bowl_pp,38740367.67,0.030989419,1.219303771
+2024,M Siddharth,Lucknow Super Giants,bowl_mid,26611122,0.030974744,0.82903627
+2017,A Choudhary,Royal Challengers Bengaluru,bowl_pp,31196004.19,0.030964881,0.981077093
+2017,AD Mathews,Delhi Capitals,bowl_death,31196004.19,0.03095793,0.370670961
+2014,JO Holder,Sunrisers Hyderabad,bowl_mid,14527637.88,0.030926469,0.451885036
+2014,AB Dinda,Royal Challengers Bengaluru,bowl_pp,29055275.76,0.030900925,0.911866443
+2022,K Rabada,Punjab Kings,bowl_death,115049506.7,0.030899414,1.364486971
+2017,Basil Thampi,Gujarat Titans,bat_death,13258301.78,0.030837517,0.231373167
+2014,VR Aaron,Royal Challengers Bengaluru,bowl_mid,38740367.67,0.030830876,1.201302059
+2017,MG Johnson,Mumbai Indians,bowl_mid,31196004.19,0.030827441,0.967250712
+2025,SM Curran,Chennai Super Kings,bowl_mid,25188000,0.030799493,0.780260942
+2014,R Dhawan,Punjab Kings,bowl_death,58110551.51,0.030681907,0.684438474
+2022,Kuldeep Yadav,Delhi Capitals,bowl_pp,24875569.02,0.030660259,0.774610884
+2018,SN Thakur,Chennai Super Kings,bowl_mid,38801000.24,0.030658899,1.196470785
+2014,RG Sharma,Mumbai Indians,bat_mid,36803349.29,0.0304736,0.45746807
+2018,YK Pathan,Sunrisers Hyderabad,bowl_mid,28354577.1,0.030468198,0.868905539
+2016,KH Pandya,Mumbai Indians,bat_death,32727728,0.030448817,0.564520176
+2025,Washington Sundar,Gujarat Titans,bat_pp,33584000,0.030386904,0.822002861
+2022,Shahbaz Ahmed,Royal Challengers Bengaluru,bowl_mid,29850682.82,0.030351927,0.911261771
+2022,Shahbaz Ahmed,Royal Challengers Bengaluru,bat_mid,29850682.82,0.030309802,0.369051569
+2014,L Balaji,Punjab Kings,bowl_pp,34866330.91,0.030277842,1.072175584
+2014,LR Shukla,Delhi Capitals,bowl_mid,29055275.76,0.030241474,0.883752342
+2024,N Thushara,Mumbai Indians,bowl_death,53222244,0.030228005,0.617779392
+2025,Abhishek Sharma,Sunrisers Hyderabad,bat_mid,39881000,0.030206625,0.491380515
+2020,JR Hazlewood,Chennai Super Kings,bowl_mid,27787446.91,0.030201731,0.844078997
+2016,NLTC Perera,Lucknow Super Giants,bat_mid,16363864,0.030161909,0.201323454
+2022,R Sai Kishore,Gujarat Titans,bowl_death,37313353.52,0.030135073,0.431812422
+2020,JR Hazlewood,Chennai Super Kings,bowl_pp,27787446.91,0.030102379,0.849540751
+2024,JD Unadkat,Sunrisers Hyderabad,bowl_pp,17740748,0.030023965,0.540971914
+2025,AK Markram,Lucknow Super Giants,bowl_pp,20990000,0.029938402,0.638227936
+2014,M Muralitharan,Royal Challengers Bengaluru,bowl_pp,19370183.84,0.02990933,0.588403404
+2022,C Sakariya,Delhi Capitals,bowl_death,52238694.93,0.029864933,0.599231202
+2017,Rashid Khan,Sunrisers Hyderabad,bowl_mid,62392008.38,0.029852191,1.873301961
+2019,LH Ferguson,Kolkata Knight Riders,bowl_mid,23108040.85,0.029737808,0.691153788
+2014,MM Sharma,Chennai Super Kings,bowl_pp,38740367.67,0.029732268,1.169840154
+2024,LH Ferguson,Royal Challengers Bengaluru,bowl_pp,22175935,0.029700622,0.668932397
+2025,JG Bethell,Royal Challengers Bengaluru,bat_pp,27287000,0.029667764,0.652990814
+2014,GJ Bailey,Punjab Kings,bat_death,62953097.47,0.029658738,1.060003164
+2022,DR Sams,Mumbai Indians,bowl_mid,32338239.72,0.029569015,0.961735953
+2014,Z Khan,Mumbai Indians,bowl_death,50362477.98,0.029352724,0.568009448
+2017,KV Sharma,Mumbai Indians,bowl_mid,49913606.71,0.02924072,1.467944473
+2016,CH Morris,Delhi Capitals,bowl_death,114547048,0.029203274,1.285473349
+2022,RV Uthappa,Chennai Super Kings,bat_pp,24875569.02,0.029180733,0.586093336
+2015,RS Bopara,Sunrisers Hyderabad,bat_mid,17455333.73,0.029116273,0.207306832
+2016,TG Southee,Mumbai Indians,bowl_mid,40909660,0.029115695,1.197996758
+2013,MC Henriques,Royal Challengers Bengaluru,bowl_pp,36939715.39,0.029028905,1.08907791
+2019,LH Ferguson,Kolkata Knight Riders,bowl_pp,23108040.85,0.028962817,0.679733505
+2016,KJ Abbott,Punjab Kings,bowl_death,34364114.4,0.028919064,0.38196965
+2022,PVD Chameera,Lucknow Super Giants,bat_death,24875569.02,0.028863918,0.408569069
+2014,JD Unadkat,Delhi Capitals,bowl_death,54236514.74,0.028839839,0.60124293
+2017,Rashid Khan,Sunrisers Hyderabad,bowl_death,62392008.38,0.028771447,0.690046781
+2014,Parvez Rasool,Sunrisers Hyderabad,bowl_pp,18401674.65,0.02870669,0.536506776
+2018,UT Yadav,Royal Challengers Bengaluru,bowl_pp,62678538.85,0.028699903,1.826981024
+2025,Priyansh Arya,Punjab Kings,bat_mid,39881000,0.028552067,0.4644653
+2022,Yash Dayal,Gujarat Titans,bowl_pp,39800910.43,0.028546759,1.153943548
+2019,SL Malinga,Mumbai Indians,bowl_mid,28885051.06,0.028462413,0.82688948
+2023,Vivrant Sharma,Sunrisers Hyderabad,bat_mid,30760239.44,0.02831342,0.355248074
+2019,P Ray Barman,Royal Challengers Bengaluru,bowl_pp,21663788.3,0.028207012,0.620620667
+2020,CV Varun,Kolkata Knight Riders,bowl_death,55574893.81,0.02818475,0.602390374
+2025,Yash Thakur,Punjab Kings,bowl_pp,16792000,0.028101603,0.479256778
+2025,Fazalhaq Farooqi,Rajasthan Royals,bowl_death,20990000,0.028090455,0.226771714
+2022,DJ Willey,Royal Challengers Bengaluru,bowl_pp,24875569.02,0.027944062,0.705987976
+2023,H Klaasen,Sunrisers Hyderabad,bat_mid,62112021.95,0.02792505,0.707488373
+2014,R Dhawan,Punjab Kings,bowl_mid,58110551.51,0.027867016,1.628726212
+2014,TG Southee,Rajasthan Royals,bowl_pp,23244220.6,0.027834228,0.657096149
+2018,BCJ Cutting,Mumbai Indians,bowl_mid,32831615.59,0.027671652,0.913755398
+2025,Fazalhaq Farooqi,Rajasthan Royals,bowl_mid,20990000,0.027556448,0.581752553
+2023,Mukesh Kumar,Delhi Capitals,bowl_death,65069737.28,0.027443157,0.687162854
+2014,MG Johnson,Punjab Kings,bowl_death,125906194.9,0.027429364,1.32896754
+2022,CJ Jordan,Chennai Super Kings,bowl_death,44776024.23,0.027426511,0.472572734
+2025,M Theekshana,Rajasthan Royals,bowl_mid,46178000,0.027420277,1.273531146
+2025,Sandeep Sharma,Rajasthan Royals,bowl_mid,27287000,0.027387832,0.751650698
+2018,V Shankar,Delhi Capitals,bat_death,47755077.22,0.027344,0.746595219
+2023,Mayank Dagar,Sunrisers Hyderabad,bowl_pp,21295550.38,0.027337709,0.591269859
+2016,M Ashwin,Lucknow Super Giants,bowl_death,73637388,0.027289741,0.773392858
+2013,JP Faulkner,Rajasthan Royals,bowl_pp,49252953.85,0.027269713,1.364104385
+2025,MJ Santner,Mumbai Indians,bowl_pp,20990000,0.027235922,0.580616362
+2025,J Overton,Chennai Super Kings,bowl_pp,15742500,0.027229795,0.435364303
+2014,JJ Bumrah,Mumbai Indians,bowl_pp,23244220.6,0.027227233,0.642766511
+2018,C de Grandhomme,Royal Challengers Bengaluru,bowl_mid,32831615.59,0.027169457,0.897172233
+2019,SE Rutherford,Delhi Capitals,bowl_mid,28885051.06,0.027152747,0.788841109
+2025,JP Inglis,Punjab Kings,bat_pp,27287000,0.027087804,0.599584555
+2025,MM Sharma,Delhi Capitals,bowl_pp,23089000,0.027080513,0.635033681
+2018,SR Watson,Chennai Super Kings,bat_mid,59693846.52,0.027036335,0.658304858
+2022,Shahbaz Ahmed,Royal Challengers Bengaluru,bat_death,29850682.82,0.027026759,0.461754495
+2022,R Ashwin,Rajasthan Royals,bowl_death,62188922.54,0.026990193,0.646148272
+2018,Sandeep Sharma,Sunrisers Hyderabad,bowl_mid,44770384.89,0.026953387,1.213687245
+2022,UT Yadav,Kolkata Knight Riders,bat_death,24875569.02,0.026889293,0.383016537
+2022,SA Abbott,Sunrisers Hyderabad,bowl_death,29850682.82,0.026879066,0.308903866
+2017,KV Sharma,Mumbai Indians,bowl_pp,49913606.71,0.026831372,1.360180599
+2016,DR Smith,Gujarat Titans,bat_pp,37636887.2,0.026804634,0.818920333
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_death,59693846.52,0.026762441,0.615112209
+2013,JP Faulkner,Rajasthan Royals,bowl_mid,49252953.85,0.026699753,1.322641512
+2017,VR Aaron,Punjab Kings,bowl_mid,43674405.87,0.026586261,1.167849522
+2018,MM Ali,Royal Challengers Bengaluru,bowl_pp,25369884.77,0.02658389,0.684970365
+2013,DJG Sammy,Sunrisers Hyderabad,bowl_death,52331263.46,0.026491902,0.533921393
+2015,EJG Morgan,Sunrisers Hyderabad,bat_mid,26183000.59,0.026484008,0.2828478
+2013,DJG Sammy,Sunrisers Hyderabad,bowl_mid,52331263.46,0.026469456,1.393185226
+2025,A Raghuvanshi,Kolkata Knight Riders,bat_mid,31485000,0.026456734,0.339773581
+2018,Imran Tahir,Chennai Super Kings,bowl_pp,14923461.63,0.026454268,0.40095909
+2020,CJ Jordan,Punjab Kings,bowl_mid,41681170.36,0.026412022,1.107246134
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_pp,13261165.84,0.026400609,0.355574328
+2025,Fazalhaq Farooqi,Rajasthan Royals,bowl_pp,20990000,0.026355024,0.561837354
+2024,M Siddharth,Lucknow Super Giants,bowl_pp,26611122,0.02623441,0.709037564
+2025,JP Inglis,Punjab Kings,bat_death,27287000,0.026206295,0.410450974
+2019,SM Curran,Punjab Kings,bowl_death,103986183.8,0.02615042,1.047590302
+2018,CR Brathwaite,Sunrisers Hyderabad,bowl_pp,29846923.26,0.026102096,0.79124266
+2025,B Kumar,Royal Challengers Bengaluru,bowl_death,112821250,0.026101012,1.13450163
+2022,HV Patel,Royal Challengers Bengaluru,bowl_death,133706183.5,0.026089712,1.343947039
+2020,EJG Morgan,Kolkata Knight Riders,bat_death,72942048.13,0.02608195,1.09247581
+2014,MC Henriques,Sunrisers Hyderabad,bowl_pp,19370183.84,0.025985279,0.511205914
+2018,MM Sharma,Punjab Kings,bowl_pp,35816307.91,0.025914604,0.942670987
+2017,NM Coulter-Nile,Kolkata Knight Riders,bowl_mid,54593007.34,0.025907429,1.422538225
+2014,Shakib Al Hasan,Kolkata Knight Riders,bat_death,54236514.74,0.025826591,0.805112441
+2025,NT Ellis,Chennai Super Kings,bowl_pp,20990000,0.025786836,0.549724701
+2015,P Kumar,Sunrisers Hyderabad,bowl_pp,38401734.2,0.025771666,1.005143545
+2016,DS Kulkarni,Gujarat Titans,bowl_mid,32727728,0.02575705,0.847841363
+2022,MJ Santner,Chennai Super Kings,bowl_pp,23631790.57,0.025714315,0.617172177
+2022,NM Coulter-Nile,Rajasthan Royals,bowl_pp,24875569.02,0.02568057,0.648802371
+2022,VG Arora,Punjab Kings,bowl_mid,24875569.02,0.025613884,0.640842167
+2014,R Bhatia,Rajasthan Royals,bat_death,32929312.52,0.025573065,0.484475351
+2016,STR Binny,Royal Challengers Bengaluru,bat_death,32727728,0.025542133,0.4809829
+2025,PWH de Silva,Rajasthan Royals,bowl_mid,55098750,0.02554014,1.415362316
+2025,A Raghuvanshi,Kolkata Knight Riders,bat_pp,31485000,0.02546027,0.652954529
+2025,KH Pandya,Royal Challengers Bengaluru,bowl_mid,60346250,0.025294878,1.535272599
+2022,RV Uthappa,Chennai Super Kings,bat_mid,24875569.02,0.025284667,0.25655468
+2025,RD Chahar,Sunrisers Hyderabad,bowl_mid,33584000,0.025246756,0.852787083
+2018,MG Johnson,Kolkata Knight Riders,bowl_mid,29846923.26,0.025220548,0.75710604
+2015,D Wiese,Royal Challengers Bengaluru,bowl_pp,48874934.44,0.025175324,1.249671916
+2025,R Shepherd,Royal Challengers Bengaluru,bowl_pp,15742500,0.025087997,0.401120113
+2022,KH Pandya,Lucknow Super Giants,bowl_death,102611722.2,0.025031167,0.990559186
+2015,A Mishra,Delhi Capitals,bowl_mid,61093668.04,0.024953778,1.533328216
+2018,CR Brathwaite,Sunrisers Hyderabad,bowl_mid,29846923.26,0.024934947,0.748532443
+2022,YS Chahal,Rajasthan Royals,bowl_mid,80845599.3,0.024879799,2.02304651
+2014,M Morkel,Kolkata Knight Riders,bowl_death,54236514.74,0.024879105,0.520469488
+2016,RR Pant,Delhi Capitals,bat_mid,31091341.6,0.024871977,0.315427422
+2019,VR Aaron,Rajasthan Royals,bowl_death,34662061.27,0.024676294,0.329983986
+2017,P Negi,Royal Challengers Bengaluru,bat_mid,15598002.1,0.024655499,0.156867315
+2018,SN Thakur,Chennai Super Kings,bowl_pp,38801000.24,0.024606662,0.969684328
+2023,AU Rashid,Sunrisers Hyderabad,bowl_pp,23661722.65,0.024596075,0.591080881
+2018,A Mishra,Delhi Capitals,bowl_mid,59693846.52,0.024594451,1.476621958
+2014,TG Southee,Rajasthan Royals,bowl_mid,23244220.6,0.024588287,0.574838531
+2014,PA Patel,Royal Challengers Bengaluru,bat_pp,27118257.37,0.02455388,0.543747802
+2014,JP Duminy,Delhi Capitals,bowl_mid,42614404.44,0.024438586,1.047454359
+2025,Washington Sundar,Gujarat Titans,bowl_mid,33584000,0.024425815,0.825057287
+2016,DR Smith,Gujarat Titans,bowl_mid,37636887.2,0.024370995,0.922549286
+2019,AR Patel,Delhi Capitals,bowl_death,72212627.65,0.024348391,0.678563164
+2025,Abdul Samad,Lucknow Super Giants,bat_death,44079000,0.024344117,0.620336063
+2014,Shakib Al Hasan,Kolkata Knight Riders,bowl_mid,54236514.74,0.024333724,1.32740351
+2018,S Kaul,Sunrisers Hyderabad,bowl_mid,56709154.19,0.024302471,1.386137183
+2018,Washington Sundar,Royal Challengers Bengaluru,bat_death,47755077.22,0.024267051,0.67015601
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_mid,29846923.26,0.024258499,0.295333818
+2025,PWH de Silva,Rajasthan Royals,bowl_death,55098750,0.024215729,0.515000067
+2025,Shahbaz Ahmed,Lucknow Super Giants,bowl_mid,25188000,0.024210216,0.613331077
+2019,GH Vihari,Delhi Capitals,bowl_mid,28885051.06,0.024196326,0.7029512
+2022,Shivam Mavi,Kolkata Knight Riders,bowl_death,90173937.68,0.024030126,0.836549658
+2023,J Little,Gujarat Titans,bowl_death,52055789.82,0.024017848,0.482684735
+2015,JD Unadkat,Delhi Capitals,bowl_mid,19200867.1,0.024005185,0.463584088
+2024,TM Head,Sunrisers Hyderabad,bat_pp,75398179,0.024003185,1.480308963
+2014,CA Lynn,Kolkata Knight Riders,bat_pp,25181238.99,0.023979879,0.493943572
+2022,R Parag,Rajasthan Royals,bat_death,47263581.13,0.023978742,0.656170125
+2022,JO Holder,Lucknow Super Giants,bowl_death,108830614.4,0.023924926,1.005323939
+2016,DR Smith,Gujarat Titans,bat_mid,37636887.2,0.023901297,0.36693137
+2017,MG Johnson,Mumbai Indians,bowl_pp,31196004.19,0.023836856,0.755236
+2025,R Sai Kishore,Gujarat Titans,bowl_pp,20990000,0.023805172,0.507479515
+2019,SL Malinga,Mumbai Indians,bowl_pp,28885051.06,0.023736025,0.696331231
+2018,SA Yadav,Mumbai Indians,bat_pp,47755077.22,0.023725192,0.927514784
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_mid,59693846.52,0.023711372,1.423602883
+2023,RR Rossouw,Delhi Capitals,bat_death,54421962.09,0.023665679,0.746688391
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_death,29846923.26,0.023607635,0.408609027
+2014,AR Patel,Punjab Kings,bat_mid,14527637.88,0.023590896,0.13979419
+2022,A Manohar,Gujarat Titans,bat_death,32338239.72,0.023566966,0.442031374
+2016,A Nehra,Sunrisers Hyderabad,bowl_death,90001251.99,0.0234734,0.81610721
+2018,BCJ Cutting,Mumbai Indians,bowl_death,32831615.59,0.023294282,0.29549706
+2018,Shivam Mavi,Kolkata Knight Riders,bowl_death,44770384.89,0.023261491,0.402398518
+2014,WP Saha,Punjab Kings,bat_mid,42614404.44,0.023240115,0.403965596
+2023,Vivrant Sharma,Sunrisers Hyderabad,bowl_mid,30760239.44,0.023152718,0.716298945
+2018,CH Gayle,Punjab Kings,bat_mid,29846923.26,0.023149284,0.281829733
+2014,Y Venugopal Rao,Sunrisers Hyderabad,bat_mid,10653601.11,0.023067136,0.100239708
+2018,F du Plessis,Chennai Super Kings,bat_pp,23877538.61,0.022883723,0.448515077
+2025,SM Curran,Chennai Super Kings,bowl_pp,25188000,0.022881498,0.585346318
+2020,CH Morris,Royal Challengers Bengaluru,bowl_death,138937234.5,0.022870751,1.228361968
+2022,SN Thakur,Delhi Capitals,bowl_death,133706183.5,0.022838797,1.180507092
+2014,UT Yadav,Kolkata Knight Riders,bowl_pp,50362477.98,0.022824495,1.167462688
+2025,KK Ahmed,Chennai Super Kings,bowl_pp,50376000,0.022780882,1.165544807
+2014,BE Hendricks,Punjab Kings,bowl_mid,34866330.91,0.022773916,0.798631762
+2018,Kuldeep Yadav,Kolkata Knight Riders,bowl_mid,86556077.45,0.022756217,1.981071972
+2022,OF Smith,Punjab Kings,bowl_death,74626707.05,0.022670703,0.654170878
+2015,A Mishra,Delhi Capitals,bowl_death,61093668.04,0.02261356,0.534228802
+2014,KV Sharma,Sunrisers Hyderabad,bowl_mid,72638189.39,0.022608175,1.651707458
+2022,AK Markram,Sunrisers Hyderabad,bowl_mid,32338239.72,0.022506441,0.732024849
+2013,MS Gony,Punjab Kings,bowl_death,61566192.31,0.022470919,0.535058665
+2022,R Ashwin,Rajasthan Royals,bowl_mid,62188922.54,0.022468658,1.405376813
+2018,R Tewatia,Delhi Capitals,bowl_mid,44770384.89,0.022344854,1.006169071
+2014,RG Sharma,Mumbai Indians,bowl_mid,36803349.29,0.022332553,0.826662685
+2016,SR Watson,Royal Challengers Bengaluru,bowl_death,155456708,0.022330668,1.342843
+2018,Shivam Mavi,Kolkata Knight Riders,bowl_mid,44770384.89,0.022322611,1.005167496
+2021,Shakib Al Hasan,Kolkata Knight Riders,bowl_mid,42435730.7,0.022318448,0.952573047
+2016,STR Binny,Royal Challengers Bengaluru,bowl_mid,32727728,0.022296913,0.733944504
+2015,GS Sandhu,Delhi Capitals,bowl_mid,29674067.34,0.022233693,0.663576972
+2024,Yash Dayal,Royal Challengers Bengaluru,bowl_pp,55439837.5,0.022223049,1.251296822
+2016,KJ Abbott,Punjab Kings,bowl_mid,34364114.4,0.022166406,0.76613105
+2022,Yash Dayal,Gujarat Titans,bowl_mid,39800910.43,0.022164438,0.887262964
+2013,SMSM Senanayake,Kolkata Knight Riders,bowl_death,76957740.39,0.022099436,0.658073754
+2014,PP Ojha,Mumbai Indians,bowl_death,62953097.47,0.022097639,0.538276035
+2021,AF Milne,Mumbai Indians,bowl_mid,42435730.7,0.022081889,0.942476476
+2016,TG Southee,Mumbai Indians,bat_death,40909660,0.022028032,0.526443294
+2014,KV Sharma,Sunrisers Hyderabad,bowl_death,72638189.39,0.022008797,0.618661205
+2014,M Morkel,Kolkata Knight Riders,bowl_pp,54236514.74,0.02200248,1.211987572
+2025,A Raghuvanshi,Kolkata Knight Riders,bat_death,31485000,0.021911356,0.403251667
+2015,P Kumar,Sunrisers Hyderabad,bowl_mid,38401734.2,0.021894855,0.845659492
+2022,SA Abbott,Sunrisers Hyderabad,bowl_pp,29850682.82,0.021877522,0.663265102
+2018,STR Binny,Rajasthan Royals,bowl_mid,7461730.815,0.021795902,0.163575043
+2018,Mandeep Singh,Royal Challengers Bengaluru,bat_mid,20892846.28,0.021769205,0.185519625
+2021,SPD Smith,Delhi Capitals,bat_mid,29174564.85,0.021745093,0.258770847
+2015,GS Sandhu,Delhi Capitals,bowl_pp,29674067.34,0.02174111,0.655229644
+2022,PWH de Silva,Royal Challengers Bengaluru,bowl_death,133706183.5,0.021726845,1.12460361
+2014,Z Khan,Mumbai Indians,bowl_pp,50362477.98,0.021643572,1.107059006
+2014,M Morkel,Kolkata Knight Riders,bowl_mid,54236514.74,0.021636418,1.180265613
+2019,VR Aaron,Rajasthan Royals,bowl_pp,34662061.27,0.021564159,0.759139609
+2015,Z Khan,Delhi Capitals,bowl_death,69821334.91,0.021556369,0.582792107
+2018,Washington Sundar,Royal Challengers Bengaluru,bowl_mid,47755077.22,0.021525205,1.033878394
+2025,Azmatullah Omarzai,Punjab Kings,bowl_pp,25188000,0.02150022,0.550010944
+2022,KL Nagarkoti,Delhi Capitals,bowl_pp,13681562.96,0.021484968,0.298541824
+2022,Q de Kock,Lucknow Super Giants,bat_death,83955045.43,0.021422577,1.053927395
+2014,R Bhatia,Rajasthan Royals,bowl_pp,32929312.52,0.021406761,0.715926403
+2022,M Prasidh Krishna,Rajasthan Royals,bowl_death,124377845.1,0.021403293,1.03101117
+2025,KK Ahmed,Chennai Super Kings,bowl_mid,50376000,0.021401086,1.084331597
+2017,AD Mathews,Delhi Capitals,bowl_mid,31196004.19,0.021386904,0.671041695
+2025,Mukesh Kumar,Delhi Capitals,bowl_death,83960000,0.021345161,0.694138392
+2018,KV Sharma,Chennai Super Kings,bowl_death,74617308.15,0.021342972,0.616836366
+2021,MC Henriques,Punjab Kings,bowl_mid,55696896.54,0.021340414,1.195463873
+2023,J Little,Gujarat Titans,bowl_mid,52055789.82,0.021286396,1.114483903
+2022,Kuldeep Yadav,Delhi Capitals,bat_death,24875569.02,0.021282377,0.310460532
+2022,M Jansen,Sunrisers Hyderabad,bowl_pp,52238694.93,0.021274522,1.128721687
+2025,JR Hazlewood,Royal Challengers Bengaluru,bowl_death,131187500,0.021247922,1.079794618
+2018,JC Buttler,Rajasthan Royals,bat_pp,65663231.17,0.021095622,1.14434516
+2025,Shahbaz Ahmed,Lucknow Super Giants,bowl_pp,25188000,0.021076105,0.539161403
+2025,Arshdeep Singh,Punjab Kings,bowl_death,188910000,0.021004705,1.537628036
+2022,MS Wade,Gujarat Titans,bat_pp,29850682.82,0.020994096,0.517923342
+2022,WP Saha,Gujarat Titans,bat_mid,23631790.57,0.020926075,0.201713089
+2022,M Jansen,Sunrisers Hyderabad,bowl_death,52238694.93,0.020903176,0.423201227
+2022,AS Joseph,Gujarat Titans,bowl_pp,29850682.82,0.020879402,0.633004893
+2018,SA Yadav,Mumbai Indians,bat_mid,47755077.22,0.020859289,0.406320493
+2019,VR Aaron,Rajasthan Royals,bowl_mid,34662061.27,0.020849411,0.726860031
+2025,MJ Santner,Mumbai Indians,bat_death,20990000,0.020795891,0.256654515
+2023,H Klaasen,Sunrisers Hyderabad,bat_death,62112021.95,0.020753178,0.758092539
+2014,JP Duminy,Delhi Capitals,bat_mid,42614404.44,0.020721163,0.360180532
+2018,JJ Roy,Delhi Capitals,bat_pp,22385192.45,0.020635992,0.382312328
+2016,CR Brathwaite,Delhi Capitals,bat_death,68728228.8,0.020626898,0.834330083
+2014,JDS Neesham,Delhi Capitals,bowl_pp,19370183.84,0.020615813,0.405572936
+2025,WG Jacks,Mumbai Indians,bowl_mid,55098750,0.020511762,1.13670386
+2020,DW Steyn,Royal Challengers Bengaluru,bowl_pp,27787446.91,0.020500747,0.578566237
+2022,Shahbaz Ahmed,Royal Challengers Bengaluru,bowl_pp,29850682.82,0.020500705,0.621523873
+2017,A Choudhary,Royal Challengers Bengaluru,bowl_mid,31196004.19,0.020485169,0.642748597
+2014,BJ Hodge,Rajasthan Royals,bat_death,46488441.21,0.020362882,0.557964122
+2024,UT Yadav,Gujarat Titans,bowl_death,64310211.5,0.020290047,0.506169877
+2018,Sandeep Sharma,Sunrisers Hyderabad,bowl_pp,44770384.89,0.02022495,0.919629789
+2013,J Botha,Delhi Capitals,bowl_mid,55409573.08,0.020142815,1.12255486
+2019,AR Patel,Delhi Capitals,bowl_mid,72212627.65,0.020079765,1.458392386
+2020,RV Uthappa,Rajasthan Royals,bat_pp,41681170.36,0.020063931,0.693775934
+2014,V Sehwag,Punjab Kings,bat_pp,61984588.28,0.020054213,1.031265848
+2017,Rashid Khan,Sunrisers Hyderabad,bowl_pp,62392008.38,0.020039673,1.269855593
+2013,DP Nannes,Chennai Super Kings,bowl_death,73879430.77,0.020036234,0.574436031
+2016,RR Pant,Delhi Capitals,bat_death,31091341.6,0.020020574,0.367628401
+2022,SA Abbott,Sunrisers Hyderabad,bowl_mid,29850682.82,0.020014338,0.600894334
+2018,SR Watson,Chennai Super Kings,bowl_death,59693846.52,0.020008583,0.463517966
+2014,KL Rahul,Sunrisers Hyderabad,bat_mid,19370183.84,0.01998284,0.157884918
+2018,S Kaul,Sunrisers Hyderabad,bowl_pp,56709154.19,0.01994994,1.149025083
+2015,JD Unadkat,Delhi Capitals,bowl_pp,19200867.1,0.019906764,0.388200646
+2014,UT Yadav,Kolkata Knight Riders,bowl_mid,50362477.98,0.01983699,1.004813551
+2020,TK Curran,Rajasthan Royals,bat_mid,13893723.45,0.019826816,0.112362477
+2018,E Lewis,Mumbai Indians,bat_pp,56709154.19,0.019814914,0.933201275
+2016,RR Pant,Delhi Capitals,bat_pp,31091341.6,0.019803565,0.511368917
+2022,R Powell,Delhi Capitals,bat_mid,34825796.62,0.019784865,0.281050152
+2023,JO Holder,Rajasthan Royals,bowl_death,68027452.61,0.019779229,0.522361078
+2013,MS Gony,Punjab Kings,bowl_mid,61566192.31,0.019774275,1.224462507
+2014,WP Saha,Punjab Kings,bat_pp,42614404.44,0.019758067,0.699421454
+2022,DJ Willey,Royal Challengers Bengaluru,bowl_mid,24875569.02,0.019676112,0.492283089
+2020,DW Steyn,Royal Challengers Bengaluru,bowl_mid,27787446.91,0.019606594,0.547965751
+2015,D Wiese,Royal Challengers Bengaluru,bat_death,48874934.44,0.019567731,0.566390516
+2018,UT Yadav,Royal Challengers Bengaluru,bowl_mid,62678538.85,0.019550915,1.232504676
+2015,D Wiese,Royal Challengers Bengaluru,bowl_mid,48874934.44,0.019529191,0.960004012
+2022,Mohammed Shami,Gujarat Titans,bowl_pp,77736153.18,0.019482491,1.538162732
+2016,CR Brathwaite,Delhi Capitals,bowl_mid,68728228.8,0.019471704,1.345989687
+2014,YK Pathan,Kolkata Knight Riders,bat_mid,62953097.47,0.019456345,0.499606471
+2024,Yash Dayal,Royal Challengers Bengaluru,bowl_mid,55439837.5,0.019455878,1.084864262
+2018,KH Pandya,Mumbai Indians,bowl_death,131326462.3,0.019402817,0.989826661
+2016,CR Brathwaite,Delhi Capitals,bowl_death,68728228.8,0.019374629,0.517286196
+2014,JD Unadkat,Delhi Capitals,bowl_mid,54236514.74,0.019367679,1.056505982
+2014,MK Tiwary,Delhi Capitals,bat_death,54236514.74,0.019340219,0.6221045
+2014,JP Duminy,Delhi Capitals,bowl_death,42614404.44,0.019304869,0.319621499
+2020,MP Stoinis,Delhi Capitals,bat_death,66689872.57,0.019302688,0.763645131
+2015,MEK Hussey,Chennai Super Kings,bat_mid,26183000.59,0.019244382,0.205528986
+2018,PJ Sangwan,Mumbai Indians,bowl_pp,22385192.45,0.019170681,0.435846055
+2022,A Manohar,Gujarat Titans,bat_mid,32338239.72,0.019160183,0.252735183
+2016,TG Southee,Mumbai Indians,bowl_pp,40909660,0.019134288,0.795010627
+2014,MA Agarwal,Delhi Capitals,bat_pp,30992294.14,0.019067942,0.49244439
+2017,CR Woakes,Kolkata Knight Riders,bowl_mid,65511608.8,0.019050207,1.255222092
+2019,P Ray Barman,Royal Challengers Bengaluru,bowl_mid,21663788.3,0.018953626,0.412980285
+2025,Washington Sundar,Gujarat Titans,bat_death,33584000,0.018951302,0.378421082
+2018,DT Christian,Delhi Capitals,bowl_pp,22385192.45,0.018941571,0.430637245
+2018,MM Sharma,Punjab Kings,bowl_mid,35816307.91,0.018789513,0.676860147
+2022,RD Chahar,Punjab Kings,bowl_mid,65298368.67,0.018771851,1.232855105
+2018,CR Woakes,Royal Challengers Bengaluru,bowl_death,110433616.1,0.018577182,0.798070308
+2025,LS Livingstone,Royal Challengers Bengaluru,bowl_death,91831250,0.018562942,0.66314492
+2023,J Little,Gujarat Titans,bowl_pp,52055789.82,0.018538714,0.980129367
+2025,Washington Sundar,Gujarat Titans,bat_mid,33584000,0.018507755,0.253533793
+2024,SN Thakur,Chennai Super Kings,bowl_mid,44351870,0.01850527,0.825486503
+2022,KK Ahmed,Delhi Capitals,bowl_mid,65298368.67,0.018471239,1.213112205
+2017,VR Aaron,Punjab Kings,bowl_pp,43674405.87,0.018334497,0.813262514
+2022,R Ashwin,Rajasthan Royals,bat_death,62188922.54,0.01820237,0.676509625
+2018,S Nadeem,Delhi Capitals,bowl_mid,47755077.22,0.018153425,0.871928239
+2025,SH Johnson,Kolkata Knight Riders,bowl_mid,29386000,0.018120929,0.535579016
+2022,AK Markram,Sunrisers Hyderabad,bowl_pp,32338239.72,0.018107423,0.594713455
+2021,AF Milne,Mumbai Indians,bowl_death,42435730.7,0.018096475,0.298999865
+2016,DW Steyn,Gujarat Titans,bowl_pp,37636887.2,0.018088831,0.691447094
+2022,SO Hetmyer,Rajasthan Royals,bat_death,105721168.3,0.018050166,1.141695622
+2025,Naman Dhir,Mumbai Indians,bat_pp,55098750,0.018037459,0.832404869
+2014,JD Unadkat,Delhi Capitals,bowl_pp,54236514.74,0.018009593,0.992042837
+2018,Mujeeb Ur Rahman,Punjab Kings,bowl_pp,59693846.52,0.017995049,1.090981404
+2020,MP Stoinis,Delhi Capitals,bat_mid,66689872.57,0.017946542,0.48819166
+2025,N Rana,Rajasthan Royals,bat_mid,44079000,0.017937682,0.322513377
+2024,G Coetzee,Mumbai Indians,bowl_mid,55439837.5,0.017918013,0.999112563
+2014,IK Pathan,Sunrisers Hyderabad,bowl_mid,46488441.21,0.0178981,0.836863332
+2018,SW Billings,Chennai Super Kings,bat_mid,14923461.63,0.017870472,0.108781558
+2022,D Brevis,Mumbai Indians,bat_pp,37313353.52,0.017823538,0.557656454
+2020,JD Unadkat,Rajasthan Royals,bowl_mid,41681170.36,0.017817525,0.746947189
+2016,JC Buttler,Mumbai Indians,bat_mid,62182683.2,0.017812244,0.45179122
+2017,NM Coulter-Nile,Kolkata Knight Riders,bowl_pp,54593007.34,0.017772938,0.985441819
+2021,AF Milne,Mumbai Indians,bowl_pp,42435730.7,0.017742285,0.764673418
+2016,STR Binny,Royal Challengers Bengaluru,bowl_pp,32727728,0.01774114,0.589701368
+2025,Abhishek Sharma,Sunrisers Hyderabad,bowl_mid,39881000,0.017715296,0.710586694
+2021,DT Christian,Royal Challengers Bengaluru,bowl_death,63653596.05,0.017707089,0.439180042
+2018,Yuvraj Singh,Punjab Kings,bowl_mid,29846923.26,0.017644093,0.529665289
+2022,Kartik Tyagi,Sunrisers Hyderabad,bowl_mid,49751138.03,0.01764208,0.882785991
+2024,SH Johnson,Gujarat Titans,bowl_death,110879675,0.017609867,0.760964499
+2021,Mujeeb Ur Rahman,Sunrisers Hyderabad,bowl_pp,19891748.76,0.017600406,0.355574328
+2018,SR Watson,Chennai Super Kings,bowl_mid,59693846.52,0.017594472,1.05635144
+2022,KK Ahmed,Delhi Capitals,bowl_pp,65298368.67,0.017591618,1.166656122
+2018,Mohammed Shami,Delhi Capitals,bowl_mid,44770384.89,0.017582308,0.791715822
+2018,Q de Kock,Royal Challengers Bengaluru,bat_pp,41785692.56,0.017573054,0.61655638
+2025,N Rana,Rajasthan Royals,bat_pp,44079000,0.017551082,0.649659887
+2025,KH Pandya,Royal Challengers Bengaluru,bowl_pp,60346250,0.017490309,1.071969728
+2018,N Rana,Kolkata Knight Riders,bowl_mid,50739769.54,0.017455793,0.890821525
+2022,R Parag,Rajasthan Royals,bowl_death,47263581.13,0.017437769,0.321310335
+2013,DJG Sammy,Sunrisers Hyderabad,bat_death,52331263.46,0.01735395,0.546178466
+2017,K Rabada,Delhi Capitals,bowl_death,77990010.48,0.017346644,0.527524488
+2013,JD Unadkat,Royal Challengers Bengaluru,bowl_pp,64644501.92,0.017346582,1.138886012
+2019,JD Unadkat,Rajasthan Royals,bowl_death,121317214.5,0.017345329,0.820529747
+2025,Q de Kock,Kolkata Knight Riders,bat_mid,37782000,0.01730873,0.266747172
+2016,KH Pandya,Mumbai Indians,bowl_pp,32727728,0.017294199,0.574845384
+2016,MR Marsh,Lucknow Super Giants,bowl_death,78546547.2,0.017232456,0.527916426
+2014,SPD Smith,Rajasthan Royals,bat_death,77480735.35,0.016944897,0.792174783
+2016,P Kumar,Gujarat Titans,bowl_pp,57273524,0.01688357,0.98209374
+2018,YK Pathan,Sunrisers Hyderabad,bat_mid,28354577.1,0.016873112,0.19514977
+2016,JD Unadkat,Kolkata Knight Riders,bowl_death,26182182.4,0.016806795,0.171781594
+2025,PWH de Silva,Rajasthan Royals,bowl_pp,55098750,0.016768964,0.938388629
+2018,RA Tripathi,Rajasthan Royals,bat_pp,50739769.54,0.016756022,0.717226297
+2014,PA Patel,Royal Challengers Bengaluru,bat_mid,27118257.37,0.016732364,0.185083954
+2018,Rashid Khan,Sunrisers Hyderabad,bowl_death,134311154.7,0.016731067,0.877392534
+2013,KW Richardson,Lucknow Super Giants,bowl_death,86192669.23,0.016721041,0.562731836
+2013,JD Unadkat,Royal Challengers Bengaluru,bowl_mid,64644501.92,0.016663467,1.083426789
+2018,N Rana,Kolkata Knight Riders,bat_death,50739769.54,0.016627175,0.510384752
+2014,I Sharma,Sunrisers Hyderabad,bowl_mid,50362477.98,0.016592043,0.84044554
+2014,V Sehwag,Punjab Kings,bat_mid,61984588.28,0.016581566,0.419236368
+2025,A Zampa,Sunrisers Hyderabad,bowl_death,25188000,0.016561728,0.162937728
+2015,Z Khan,Delhi Capitals,bowl_pp,69821334.91,0.016501767,1.170181851
+2022,PJ Cummins,Kolkata Knight Riders,bat_mid,90173937.68,0.016459534,0.605408133
+2025,Abdul Samad,Lucknow Super Giants,bat_mid,44079000,0.016453193,0.295822773
+2022,C Sakariya,Delhi Capitals,bowl_pp,52238694.93,0.016430777,0.871736371
+2018,SR Watson,Chennai Super Kings,bat_pp,59693846.52,0.016403677,0.827839778
+2025,M Prasidh Krishna,Gujarat Titans,bowl_mid,99702500,0.016397781,1.644348007
+2016,M Ashwin,Lucknow Super Giants,bowl_mid,73637388,0.016389029,1.213819826
+2021,DT Christian,Royal Challengers Bengaluru,bowl_mid,63653596.05,0.01638866,1.049225878
+2021,MM Ali,Chennai Super Kings,bowl_death,92828160.9,0.016309613,0.591692737
+2018,JC Buttler,Rajasthan Royals,bat_mid,65663231.17,0.016308518,0.436803816
+2022,D Brevis,Mumbai Indians,bat_mid,37313353.52,0.016306341,0.248182114
+2017,PJ Cummins,Delhi Capitals,bowl_mid,70191009.43,0.01629129,1.150110529
+2025,N Rana,Rajasthan Royals,bowl_mid,44079000,0.016247526,0.720313566
+2025,M Jansen,Punjab Kings,bowl_mid,73465000,0.016236933,1.199739869
+2014,RV Uthappa,Kolkata Knight Riders,bat_mid,96850919.19,0.016209859,0.640372495
+2014,DR Smith,Chennai Super Kings,bat_pp,87165827.27,0.016190202,1.19470756
+2025,SH Johnson,Kolkata Knight Riders,bowl_pp,29386000,0.016176092,0.482779513
+2016,JC Buttler,Mumbai Indians,bat_death,62182683.2,0.016169964,0.610697725
+2014,Z Khan,Mumbai Indians,bowl_mid,50362477.98,0.016137618,0.817427307
+2022,DA Warner,Delhi Capitals,bat_pp,77736153.18,0.016123517,1.061530536
+2018,Shivam Mavi,Kolkata Knight Riders,bowl_pp,44770384.89,0.016081835,0.731242075
+2014,RV Uthappa,Kolkata Knight Riders,bat_pp,96850919.19,0.016067177,1.318413872
+2022,R Sai Kishore,Gujarat Titans,bowl_pp,37313353.52,0.016061145,0.608661074
+2014,Shakib Al Hasan,Kolkata Knight Riders,bowl_pp,54236514.74,0.01603986,0.883541815
+2015,M Vijay,Punjab Kings,bat_pp,52366001.18,0.015990625,0.709807688
+2022,B Kumar,Sunrisers Hyderabad,bowl_pp,52238694.93,0.015990532,0.848379142
+2019,Mohammed Shami,Punjab Kings,bowl_mid,69324122.54,0.015904935,1.108967673
+2022,CJ Jordan,Chennai Super Kings,bowl_mid,44776024.23,0.015885214,0.715387302
+2017,CR Woakes,Kolkata Knight Riders,bowl_pp,65511608.8,0.015884185,1.056861196
+2025,Naman Dhir,Mumbai Indians,bowl_mid,55098750,0.015864449,0.879162883
+2024,UT Yadav,Gujarat Titans,bowl_pp,64310211.5,0.015863848,1.036151411
+2021,Shakib Al Hasan,Kolkata Knight Riders,bowl_pp,42435730.7,0.015861816,0.683627215
+2022,RA Tripathi,Sunrisers Hyderabad,bat_death,105721168.3,0.015778282,1.016749017
+2020,JD Unadkat,Rajasthan Royals,bowl_pp,41681170.36,0.015760687,0.667190427
+2018,A Mishra,Delhi Capitals,bowl_pp,59693846.52,0.015752466,0.955020846
+2021,TK Curran,Delhi Capitals,bowl_mid,69621120.68,0.015750913,1.102933604
+2022,NM Coulter-Nile,Rajasthan Royals,bowl_mid,24875569.02,0.015725558,0.393442894
+2022,CJ Jordan,Chennai Super Kings,bowl_pp,44776024.23,0.01568992,0.71351156
+2025,Akash Deep,Lucknow Super Giants,bowl_death,83960000,0.015614807,0.513231533
+2018,N Rana,Kolkata Knight Riders,bat_mid,50739769.54,0.015580349,0.322459625
+2025,DL Chahar,Mumbai Indians,bowl_death,97078750,0.015527023,0.590219606
+2016,KJ Abbott,Punjab Kings,bowl_pp,34364114.4,0.015439485,0.538856008
+2022,M Jansen,Sunrisers Hyderabad,bowl_mid,52238694.93,0.015425578,0.810468972
+2025,WG Jacks,Mumbai Indians,bowl_pp,55098750,0.015379039,0.860608608
+2018,AM Rahane,Rajasthan Royals,bat_pp,59693846.52,0.015368326,0.780954032
+2018,Ishan Kishan,Mumbai Indians,bat_mid,92525462.11,0.015327888,0.578486539
+2018,N Rana,Kolkata Knight Riders,bowl_pp,50739769.54,0.015323222,0.789647628
+2018,DJM Short,Rajasthan Royals,bowl_mid,59693846.52,0.015318017,0.919675757
+2022,PJ Cummins,Kolkata Knight Riders,bowl_death,90173937.68,0.015288398,0.540148786
+2016,MR Marsh,Lucknow Super Giants,bowl_pp,78546547.2,0.015274746,1.218528921
+2014,CJ Anderson,Mumbai Indians,bat_mid,87165827.27,0.015269551,0.542902962
+2014,NM Coulter-Nile,Delhi Capitals,bowl_death,82323281.31,0.015254892,0.492085574
+2022,RD Chahar,Punjab Kings,bowl_pp,65298368.67,0.01524882,1.011284396
+2025,R Ravindra,Chennai Super Kings,bat_pp,41980000,0.015198663,0.543806658
+2019,N Pooran,Punjab Kings,bat_mid,60658607.23,0.015190617,0.375852581
+2022,B Kumar,Sunrisers Hyderabad,bowl_mid,52238694.93,0.015190293,0.798106935
+2024,N Thushara,Mumbai Indians,bowl_mid,53222244,0.015176193,0.812378894
+2014,B Kumar,Sunrisers Hyderabad,bowl_pp,82323281.31,0.014972253,1.251827777
+2022,Q de Kock,Lucknow Super Giants,bat_pp,83955045.43,0.014964991,1.072666636
+2021,NM Coulter-Nile,Mumbai Indians,bowl_mid,66305829.22,0.014956309,0.997421558
+2025,Mukesh Kumar,Delhi Capitals,bowl_mid,83960000,0.014949928,1.262449917
+2025,Abhishek Sharma,Sunrisers Hyderabad,bowl_pp,39881000,0.014894437,0.60328829
+2020,CJ Jordan,Punjab Kings,bowl_pp,41681170.36,0.014888123,0.63025255
+2018,Rashid Khan,Sunrisers Hyderabad,bowl_mid,134311154.7,0.014887818,2.011156024
+2014,A Nehra,Chennai Super Kings,bowl_pp,38740367.67,0.014872254,0.585160869
+2025,TH David,Royal Challengers Bengaluru,bat_mid,31485000,0.014832972,0.190494109
+2025,MP Stoinis,Punjab Kings,bat_death,115445000,0.014815802,1.052463717
+2021,MM Ali,Chennai Super Kings,bat_mid,92828160.9,0.014804659,0.560567419
+2018,R Tewatia,Delhi Capitals,bat_death,44770384.89,0.014792647,0.407613558
+2014,KV Sharma,Sunrisers Hyderabad,bowl_pp,72638189.39,0.014768796,1.089544194
+2016,SV Samson,Delhi Capitals,bat_mid,68728228.8,0.01476819,0.414011218
+2022,TH David,Mumbai Indians,bat_death,102611722.2,0.014750449,0.931979579
+2014,BE Hendricks,Punjab Kings,bowl_pp,34866330.91,0.014749675,0.522304123
+2016,KK Nair,Delhi Capitals,bat_mid,65455456,0.0147477,0.393749342
+2018,Shakib Al Hasan,Sunrisers Hyderabad,bat_pp,29846923.26,0.014728772,0.37599596
+2025,M Theekshana,Rajasthan Royals,bowl_pp,46178000,0.014703835,0.68960516
+2018,V Shankar,Delhi Capitals,bowl_mid,47755077.22,0.014700165,0.706064486
+2014,PP Ojha,Mumbai Indians,bowl_pp,62953097.47,0.014661882,0.937435888
+2022,PWH de Silva,Royal Challengers Bengaluru,bowl_mid,133706183.5,0.014627871,1.967139786
+2014,YK Pathan,Kolkata Knight Riders,bat_death,62953097.47,0.014604185,0.566986837
+2013,CH Morris,Chennai Super Kings,bowl_mid,76957740.39,0.014597945,1.129917305
+2015,MEK Hussey,Chennai Super Kings,bat_pp,26183000.59,0.014524374,0.32577985
+2015,M Vijay,Punjab Kings,bowl_mid,52366001.18,0.014492863,0.763319245
+2017,PJ Cummins,Delhi Capitals,bowl_pp,70191009.43,0.014489917,1.032956765
+2024,JA Richardson,Delhi Capitals,bowl_mid,55439837.5,0.014454242,0.805971866
+2016,KK Nair,Delhi Capitals,bat_death,65455456,0.014441684,0.583991086
+2025,YS Chahal,Punjab Kings,bowl_death,188910000,0.014435029,1.070968531
+2013,NLTC Perera,Sunrisers Hyderabad,bowl_pp,83114359.62,0.014400851,1.215623208
+2018,YS Chahal,Royal Challengers Bengaluru,bowl_pp,89540769.78,0.01438713,1.308367509
+2017,K Rabada,Delhi Capitals,bowl_mid,77990010.48,0.014359938,1.126403975
+2018,RA Tripathi,Rajasthan Royals,bat_death,50739769.54,0.014351468,0.450317034
+2025,HV Patel,Sunrisers Hyderabad,bowl_mid,83960000,0.01427776,1.20568849
+2024,G Coetzee,Mumbai Indians,bowl_pp,55439837.5,0.014242527,0.801943487
+2014,Shakib Al Hasan,Kolkata Knight Riders,bat_mid,54236514.74,0.014241903,0.315071753
+2018,BCJ Cutting,Mumbai Indians,bowl_pp,32831615.59,0.014225969,0.474360875
+2018,KD Karthik,Kolkata Knight Riders,bat_death,110433616.1,0.014197945,0.971282144
+2020,EJG Morgan,Kolkata Knight Riders,bat_mid,72942048.13,0.014196228,0.422377327
+2023,Mukesh Kumar,Delhi Capitals,bowl_mid,65069737.28,0.014146797,0.92584818
+2020,NM Coulter-Nile,Mumbai Indians,bowl_death,111149787.6,0.014124597,0.617156276
+2025,M Jansen,Punjab Kings,bowl_pp,73465000,0.014100785,1.052103639
+2020,AJ Finch,Royal Challengers Bengaluru,bat_pp,61132383.19,0.014096743,0.740802815
+2013,MC Henriques,Royal Challengers Bengaluru,bowl_mid,36939715.39,0.014040139,0.521636012
+2013,MS Gony,Punjab Kings,bat_death,61566192.31,0.014030709,0.536128868
+2025,G Coetzee,Gujarat Titans,bowl_pp,25188000,0.014000285,0.358150285
+2025,DL Chahar,Mumbai Indians,bowl_pp,97078750,0.013982632,1.37863045
+2014,CJ Anderson,Mumbai Indians,bowl_death,87165827.27,0.013937117,0.477841262
+2014,JH Kallis,Kolkata Knight Riders,bowl_death,106536011.1,0.013935056,0.583945614
+2020,MP Stoinis,Delhi Capitals,bowl_pp,66689872.57,0.013931596,0.943616469
+2021,MM Ali,Chennai Super Kings,bowl_mid,92828160.9,0.013921684,1.299792822
+2022,DA Warner,Delhi Capitals,bat_mid,77736153.18,0.013915314,0.441230723
+2018,SR Watson,Chennai Super Kings,bat_death,59693846.52,0.013902368,0.515838765
+2014,B Kumar,Sunrisers Hyderabad,bowl_mid,82323281.31,0.013898365,1.15077124
+2021,MC Henriques,Punjab Kings,bowl_pp,55696896.54,0.013872323,0.784720375
+2014,DA Warner,Sunrisers Hyderabad,bat_death,106536011.1,0.013864734,0.91853523
+2023,RR Rossouw,Delhi Capitals,bat_mid,54421962.09,0.013848868,0.307424267
+2023,JO Holder,Rajasthan Royals,bowl_mid,68027452.61,0.013841822,0.947065622
+2014,Mohammed Shami,Delhi Capitals,bowl_mid,82323281.31,0.013841581,1.146069619
+2013,NLTC Perera,Sunrisers Hyderabad,bat_death,83114359.62,0.013806243,0.714068788
+2014,CA Pujara,Punjab Kings,bat_pp,36803349.29,0.013803565,0.437797885
+2024,RR Rossouw,Punjab Kings,bat_mid,88703740,0.013790043,0.498950226
+2024,N Thushara,Mumbai Indians,bowl_pp,53222244,0.013752421,0.743373533
+2015,DJG Sammy,Royal Challengers Bengaluru,bowl_mid,48874934.44,0.013751448,0.675985282
+2013,SMSM Senanayake,Kolkata Knight Riders,bowl_pp,76957740.39,0.013730396,1.073173935
+2022,JR Hazlewood,Royal Challengers Bengaluru,bowl_pp,96392829.94,0.013714345,1.342624399
+2022,R Ashwin,Rajasthan Royals,bowl_pp,62188922.54,0.013700244,0.865318699
+2020,MP Stoinis,Delhi Capitals,bowl_mid,66689872.57,0.013662666,0.916427159
+2018,MG Johnson,Kolkata Knight Riders,bowl_pp,29846923.26,0.013519033,0.409807545
+2016,I Sharma,Lucknow Super Giants,bowl_pp,62182683.2,0.013465362,0.850398048
+2022,K Rabada,Punjab Kings,bowl_pp,115049506.7,0.013459857,1.572750952
+2022,C Sakariya,Delhi Capitals,bowl_mid,52238694.93,0.013454643,0.706914866
+2014,PP Ojha,Mumbai Indians,bowl_mid,62953097.47,0.013436334,0.850747163
+2018,R Tewatia,Delhi Capitals,bowl_pp,44770384.89,0.013429223,0.610627655
+2022,MR Marsh,Delhi Capitals,bowl_death,80845599.3,0.013422387,0.427546683
+2014,JP Duminy,Delhi Capitals,bowl_pp,42614404.44,0.013416572,0.580674495
+2022,F du Plessis,Royal Challengers Bengaluru,bat_mid,87064491.56,0.013415734,0.476436664
+2022,Q de Kock,Lucknow Super Giants,bat_mid,83955045.43,0.013381927,0.458263366
+2014,LR Shukla,Delhi Capitals,bowl_pp,29055275.76,0.013347834,0.393886006
+2013,NLTC Perera,Sunrisers Hyderabad,bowl_mid,83114359.62,0.013314292,1.113004073
+2018,F du Plessis,Chennai Super Kings,bat_mid,23877538.61,0.013276178,0.129304105
+2013,DJG Sammy,Sunrisers Hyderabad,bat_mid,52331263.46,0.013268501,0.283225767
+2018,YS Chahal,Royal Challengers Bengaluru,bowl_death,89540769.78,0.01325305,0.467829221
+2021,SPD Smith,Delhi Capitals,bat_pp,29174564.85,0.013245213,0.334691293
+2018,JD Unadkat,Rajasthan Royals,bowl_death,171619808.7,0.013219309,0.894495306
+2014,MK Tiwary,Delhi Capitals,bowl_mid,54236514.74,0.013212648,0.720749328
+2025,Rasikh Salam,Royal Challengers Bengaluru,bowl_mid,62970000,0.013212463,0.836796937
+2017,KV Sharma,Mumbai Indians,bat_death,49913606.71,0.013209286,0.413327586
+2014,DR Smith,Chennai Super Kings,bat_mid,87165827.27,0.013200124,0.46932529
+2025,B Kumar,Royal Challengers Bengaluru,bowl_pp,112821250,0.013170678,1.509154814
+2025,F du Plessis,Delhi Capitals,bat_mid,20990000,0.013142589,0.11252345
+2022,N Rana,Kolkata Knight Riders,bat_mid,99502276.06,0.01312747,0.532799392
+2022,LH Ferguson,Gujarat Titans,bowl_death,124377845.1,0.013124308,0.643823713
+2013,NM Coulter-Nile,Mumbai Indians,bowl_pp,55409573.08,0.013119141,0.738286521
+2022,JM Bairstow,Punjab Kings,bat_pp,83955045.43,0.013114711,0.954822585
+2022,M Prasidh Krishna,Rajasthan Royals,bowl_pp,124377845.1,0.013113923,1.656572379
+2020,CV Varun,Kolkata Knight Riders,bowl_pp,55574893.81,0.013081018,0.738337518
+2025,A Nortje,Kolkata Knight Riders,bowl_mid,68217500,0.013041103,0.894772737
+2025,Arshad Khan,Gujarat Titans,bowl_death,102326250,0.01302604,0.525895894
+2019,AR Patel,Delhi Capitals,bat_death,72212627.65,0.013025119,0.59106431
+2014,DA Warner,Sunrisers Hyderabad,bat_mid,106536011.1,0.012991585,0.564557588
+2023,H Klaasen,Sunrisers Hyderabad,bat_pp,62112021.95,0.012968829,0.699527546
+2021,MM Ali,Chennai Super Kings,bat_death,92828160.9,0.012956633,0.756496402
+2025,TU Deshpande,Rajasthan Royals,bowl_mid,68217500,0.012909566,0.885747773
+2014,IK Pathan,Sunrisers Hyderabad,bat_death,46488441.21,0.012885479,0.377133443
+2019,Mohammed Shami,Punjab Kings,bowl_pp,69324122.54,0.012875241,0.906513989
+2013,J Botha,Delhi Capitals,bowl_pp,55409573.08,0.012875138,0.724555135
+2022,KH Pandya,Lucknow Super Giants,bowl_mid,102611722.2,0.012780192,1.318976273
+2014,I Sharma,Sunrisers Hyderabad,bowl_pp,50362477.98,0.0127707,0.653215609
+2016,CH Morris,Delhi Capitals,bat_death,114547048,0.01276101,0.921836118
+2025,JR Hazlewood,Royal Challengers Bengaluru,bowl_pp,131187500,0.012709401,1.693371604
+2025,R Ashwin,Chennai Super Kings,bowl_mid,102326250,0.01264744,1.301644283
+2022,JR Hazlewood,Royal Challengers Bengaluru,bowl_mid,96392829.94,0.012640744,1.225518773
+2013,SMSM Senanayake,Kolkata Knight Riders,bowl_mid,76957740.39,0.01260935,0.975995054
+2022,D Padikkal,Rajasthan Royals,bat_mid,96392829.94,0.012600914,0.49544614
+2018,K Gowtham,Rajasthan Royals,bat_death,92525462.11,0.012559571,0.734918039
+2018,V Shankar,Delhi Capitals,bat_mid,47755077.22,0.012495397,0.243399286
+2025,K Rabada,Gujarat Titans,bowl_death,112821250,0.012493362,0.557236646
+2019,MM Sharma,Chennai Super Kings,bowl_death,72212627.65,0.012491221,0.356608033
+2018,R Ashwin,Punjab Kings,bowl_death,113418308.4,0.012487425,0.559932362
+2020,SM Curran,Chennai Super Kings,bowl_pp,76415478.99,0.012483885,0.968870792
+2018,RA Tripathi,Rajasthan Royals,bat_mid,50739769.54,0.012425751,0.257170308
+2018,DJM Short,Rajasthan Royals,bat_mid,59693846.52,0.012424989,0.302534748
+2013,CH Morris,Chennai Super Kings,bowl_pp,76957740.39,0.012419284,0.970696835
+2021,NM Coulter-Nile,Mumbai Indians,bowl_pp,66305829.22,0.012409686,0.835693959
+2022,RA Tripathi,Sunrisers Hyderabad,bat_mid,105721168.3,0.012375216,0.533659714
+2018,AJ Tye,Punjab Kings,bowl_pp,107448923.7,0.01237383,1.350333275
+2014,F du Plessis,Chennai Super Kings,bat_pp,92008373.23,0.012373804,0.9946985
+2025,A Manohar,Sunrisers Hyderabad,bat_death,33584000,0.01236357,0.263329201
+2025,WG Jacks,Mumbai Indians,bat_pp,55098750,0.012362156,0.595183302
+2015,M Vijay,Punjab Kings,bowl_pp,52366001.18,0.012351019,0.656881353
+2022,R Tewatia,Gujarat Titans,bat_death,111940060.6,0.012350686,0.876961941
+2021,CH Morris,Rajasthan Royals,bowl_death,215493944.9,0.012349441,1.052686812
+2019,MM Sharma,Chennai Super Kings,bowl_pp,72212627.65,0.012287618,0.901188415
+2025,TU Deshpande,Rajasthan Royals,bowl_pp,68217500,0.01228279,0.850996135
+2018,KD Karthik,Kolkata Knight Riders,bat_mid,110433616.1,0.012269769,0.552697342
+2022,PJ Cummins,Kolkata Knight Riders,bowl_mid,90173937.68,0.012251486,1.111149283
+2018,E Lewis,Mumbai Indians,bat_mid,56709154.19,0.012249924,0.283358491
+2016,SV Samson,Delhi Capitals,bat_death,68728228.8,0.012221557,0.533814641
+2018,YS Chahal,Royal Challengers Bengaluru,bowl_mid,89540769.78,0.012194342,1.09820098
+2018,JC Buttler,Rajasthan Royals,bat_death,65663231.17,0.012182099,0.508660875
+2024,SN Thakur,Chennai Super Kings,bowl_pp,44351870,0.012179742,0.548636581
+2020,AT Carey,Delhi Capitals,bat_death,33344936.29,0.012166057,0.258028609
+2017,PJ Cummins,Delhi Capitals,bat_death,70191009.43,0.012144626,0.542367073
+2025,Q de Kock,Kolkata Knight Riders,bat_pp,37782000,0.012044699,0.399026708
+2015,AD Mathews,Delhi Capitals,bowl_death,130915003,0.012032725,0.623928548
+2018,KK Nair,Punjab Kings,bat_mid,83571385.13,0.012030744,0.410109452
+2016,A Nehra,Sunrisers Hyderabad,bowl_pp,90001251.99,0.011990243,1.096001856
+2018,N Rana,Kolkata Knight Riders,bat_pp,50739769.54,0.011961754,0.532684749
+2021,TK Curran,Delhi Capitals,bowl_death,69621120.68,0.011951263,0.329675165
+2022,Anuj Rawat,Royal Challengers Bengaluru,bat_pp,42288467.33,0.011917906,0.442553181
+2022,R Tewatia,Gujarat Titans,bowl_death,111940060.6,0.011893499,0.527635654
+2018,K Gowtham,Rajasthan Royals,bowl_pp,92525462.11,0.01187318,1.115740129
+2023,SM Curran,Punjab Kings,bowl_death,218870934.5,0.011805595,1.02442593
+2017,K Rabada,Delhi Capitals,bowl_pp,77990010.48,0.011788073,0.93371976
+2018,Mohammed Shami,Delhi Capitals,bowl_pp,44770384.89,0.011755974,0.534544927
+2019,SM Curran,Punjab Kings,bat_death,103986183.8,0.011738317,0.781523898
+2021,TK Curran,Delhi Capitals,bowl_pp,69621120.68,0.011722415,0.828882243
+2013,DP Nannes,Chennai Super Kings,bowl_pp,73879430.77,0.011705321,0.878297466
+2022,LS Livingstone,Punjab Kings,bat_mid,143034521.8,0.011671423,0.680948658
+2018,KV Sharma,Chennai Super Kings,bowl_mid,74617308.15,0.011656165,0.87477807
+2025,LS Livingstone,Royal Challengers Bengaluru,bat_death,91831250,0.011655037,0.686193264
+2014,Mohammed Shami,Delhi Capitals,bowl_death,82323281.31,0.011635155,0.380038406
+2017,AD Mathews,Delhi Capitals,bowl_pp,31196004.19,0.011627036,0.368385663
+2018,SR Watson,Chennai Super Kings,bowl_pp,59693846.52,0.01161569,0.704221557
+2018,KK Nair,Punjab Kings,bat_death,83571385.13,0.011581724,0.621285571
+2020,SM Curran,Chennai Super Kings,bowl_mid,76415478.99,0.011534798,0.886531067
+2020,MP Stoinis,Delhi Capitals,bat_pp,66689872.57,0.011477363,0.675628403
+2014,A Mishra,Sunrisers Hyderabad,bowl_death,92008373.23,0.011446064,0.418206976
+2014,DR Smith,Chennai Super Kings,bowl_mid,87165827.27,0.011370221,0.996822399
+2016,A Nehra,Sunrisers Hyderabad,bowl_mid,90001251.99,0.011364173,1.028700617
+2016,MR Marsh,Lucknow Super Giants,bowl_mid,78546547.2,0.01133543,0.895504355
+2014,NM Coulter-Nile,Delhi Capitals,bowl_pp,82323281.31,0.011302373,0.944989656
+2018,KK Ahmed,Sunrisers Hyderabad,bowl_pp,44770384.89,0.011294566,0.513564666
+2014,DJG Sammy,Sunrisers Hyderabad,bowl_mid,67795643.43,0.011270658,0.768517354
+2022,R Powell,Delhi Capitals,bowl_mid,34825796.62,0.011232541,0.393442894
+2014,A Mishra,Sunrisers Hyderabad,bowl_mid,92008373.23,0.011229267,1.039157487
+2014,VR Aaron,Royal Challengers Bengaluru,bat_death,38740367.67,0.011219274,0.280698816
+2025,Mukesh Kumar,Delhi Capitals,bowl_pp,83960000,0.011159742,0.951615087
+2018,AJ Tye,Punjab Kings,bowl_mid,107448923.7,0.011158661,1.20591519
+2020,SS Cottrell,Punjab Kings,bowl_death,118096649.4,0.011155391,0.52387886
+2014,F du Plessis,Chennai Super Kings,bat_death,92008373.23,0.011136199,0.662683408
+2023,Mukesh Kumar,Delhi Capitals,bowl_pp,65069737.28,0.011122293,0.735035206
+2022,R Parag,Rajasthan Royals,bowl_pp,47263581.13,0.011115377,0.533562829
+2015,KC Cariappa,Kolkata Knight Riders,bowl_mid,41892800.94,0.011050546,0.465613685
+2022,MR Marsh,Delhi Capitals,bat_pp,80845599.3,0.01103035,0.791622878
+2019,CV Varun,Punjab Kings,bowl_mid,121317214.5,0.010976841,1.339375707
+2025,Arshad Khan,Gujarat Titans,bowl_pp,102326250,0.01097074,1.140138791
+2022,JO Holder,Lucknow Super Giants,bowl_mid,108830614.4,0.010967965,1.200548577
+2015,DJG Sammy,Royal Challengers Bengaluru,bowl_pp,48874934.44,0.010967506,0.544413408
+2018,KK Ahmed,Sunrisers Hyderabad,bowl_mid,44770384.89,0.010963618,0.493682067
+2022,HV Patel,Royal Challengers Bengaluru,bowl_mid,133706183.5,0.010941293,1.471372862
+2018,Q de Kock,Royal Challengers Bengaluru,bat_mid,41785692.56,0.010940776,0.186477054
+2025,HV Patel,Sunrisers Hyderabad,bowl_pp,83960000,0.010882231,0.927951205
+2014,M Vijay,Delhi Capitals,bat_mid,96850919.19,0.010882078,0.42989783
+2014,YK Pathan,Kolkata Knight Riders,bowl_mid,62953097.47,0.010845784,0.686721569
+2022,MR Marsh,Delhi Capitals,bowl_mid,80845599.3,0.010835204,0.881040939
+2014,R Dhawan,Punjab Kings,bat_death,58110551.51,0.010806863,0.408581222
+2018,S Nadeem,Delhi Capitals,bowl_pp,47755077.22,0.010710911,0.519494219
+2024,HV Patel,Punjab Kings,bowl_mid,130283618.1,0.010697542,1.401768981
+2022,R Ashwin,Rajasthan Royals,bat_pp,62188922.54,0.010685746,0.592683097
+2015,KC Cariappa,Kolkata Knight Riders,bowl_pp,41892800.94,0.010683085,0.454538648
+2013,NLTC Perera,Sunrisers Hyderabad,bat_mid,83114359.62,0.010647525,0.360972749
+2018,R Ashwin,Punjab Kings,bowl_mid,113418308.4,0.01063843,1.213565781
+2020,SM Curran,Chennai Super Kings,bat_death,76415478.99,0.010560363,0.527486188
+2025,PD Salt,Royal Challengers Bengaluru,bat_pp,120692500,0.010529509,1.135938459
+2015,Z Khan,Delhi Capitals,bowl_mid,69821334.91,0.010506534,0.737819679
+2018,AM Rahane,Rajasthan Royals,bat_mid,59693846.52,0.010499761,0.255657563
+2016,KW Richardson,Royal Challengers Bengaluru,bowl_mid,32727728,0.010490143,0.345302614
+2022,MR Marsh,Delhi Capitals,bowl_pp,80845599.3,0.010417526,0.855373408
+2018,UT Yadav,Royal Challengers Bengaluru,bowl_death,62678538.85,0.01041046,0.260486702
+2013,AM Nayar,Lucknow Super Giants,bowl_mid,83114359.62,0.010405311,0.869828701
+2025,M Prasidh Krishna,Gujarat Titans,bowl_pp,99702500,0.010388952,1.051992288
+2016,I Sharma,Lucknow Super Giants,bowl_death,62182683.2,0.010382221,0.257765715
+2024,JA Richardson,Delhi Capitals,bowl_pp,55439837.5,0.01033467,0.58190664
+2014,A Nehra,Chennai Super Kings,bowl_mid,38740367.67,0.010323489,0.402247041
+2022,OF Smith,Punjab Kings,bowl_mid,74626707.05,0.01032205,0.77475228
+2017,BA Stokes,Lucknow Super Giants,bowl_death,226171030.4,0.010237088,0.925203576
+2020,NM Coulter-Nile,Mumbai Indians,bowl_mid,111149787.6,0.010175695,1.137562675
+2016,KK Nair,Delhi Capitals,bat_pp,65455456,0.010160049,0.597710454
+2025,LS Livingstone,Royal Challengers Bengaluru,bowl_mid,91831250,0.010135337,0.936119535
+2019,MM Sharma,Chennai Super Kings,bowl_mid,72212627.65,0.010122418,0.735190767
+2022,F du Plessis,Royal Challengers Bengaluru,bat_pp,87064491.56,0.010110078,0.791734179
+2024,UT Yadav,Gujarat Titans,bowl_mid,64310211.5,0.010073729,0.65158758
+2016,KP Pietersen,Lucknow Super Giants,bat_pp,57273524,0.010010699,0.516507615
+2013,JP Faulkner,Rajasthan Royals,bat_death,49252953.85,0.009997629,0.325568566
+2013,DJG Sammy,Sunrisers Hyderabad,bowl_pp,52331263.46,0.009997202,0.531342381
+2018,K Gowtham,Rajasthan Royals,bowl_mid,92525462.11,0.009980807,0.928815641
+2025,JC Buttler,Gujarat Titans,bat_mid,165296250,0.009920563,0.668881209
+2025,DP Conway,Chennai Super Kings,bat_mid,65593750,0.009916965,0.265332782
+2020,RV Uthappa,Rajasthan Royals,bat_mid,41681170.36,0.009880138,0.167978076
+2025,A Zampa,Sunrisers Hyderabad,bowl_pp,25188000,0.0098726,0.252557334
+2020,PK Garg,Sunrisers Hyderabad,bat_mid,26398074.56,0.009871433,0.106292382
+2013,MC Henriques,Royal Challengers Bengaluru,bat_mid,36939715.39,0.009852397,0.148451686
+2022,R Parag,Rajasthan Royals,bat_mid,47263581.13,0.009836151,0.18962757
+2018,KH Pandya,Mumbai Indians,bowl_mid,131326462.3,0.009803199,1.294859579
+2025,Ishan Kishan,Sunrisers Hyderabad,bat_death,118068750,0.009773961,0.766712414
+2016,CR Brathwaite,Delhi Capitals,bowl_pp,68728228.8,0.009765582,0.681660378
+2014,DJG Sammy,Sunrisers Hyderabad,bat_death,67795643.43,0.009742143,0.439127777
+2018,Kuldeep Yadav,Kolkata Knight Riders,bowl_death,86556077.45,0.00969721,0.336506233
+2014,Mohammed Shami,Delhi Capitals,bowl_pp,82323281.31,0.009684419,0.809712743
+2022,K Rabada,Punjab Kings,bowl_mid,115049506.7,0.009644361,1.115991362
+2018,RV Uthappa,Kolkata Knight Riders,bat_mid,95510154.43,0.009609894,0.374384456
+2018,SV Samson,Rajasthan Royals,bat_mid,119387693,0.009609013,0.46793768
+2015,A Mishra,Delhi Capitals,bowl_pp,61093668.04,0.009606807,0.596087489
+2025,KL Rahul,Delhi Capitals,bat_mid,146930000,0.009518682,0.570475468
+2022,R Shepherd,Sunrisers Hyderabad,bowl_pp,96392829.94,0.009500123,0.93005516
+2022,OF Smith,Punjab Kings,bowl_pp,74626707.05,0.009482979,0.718743305
+2022,Shivam Mavi,Kolkata Knight Riders,bowl_mid,90173937.68,0.00942049,0.854391955
+2025,WG Jacks,Mumbai Indians,bat_mid,55098750,0.00938958,0.211026794
+2014,AJ Finch,Sunrisers Hyderabad,bat_death,77480735.35,0.009383313,0.487397291
+2016,CH Morris,Delhi Capitals,bowl_mid,114547048,0.009261756,1.067037936
+2016,I Sharma,Lucknow Super Giants,bowl_mid,62182683.2,0.00923422,0.577527028
+2022,R Parag,Rajasthan Royals,bowl_mid,47263581.13,0.00921974,0.438276251
+2022,LH Ferguson,Gujarat Titans,bowl_pp,124377845.1,0.009208818,1.163273012
+2022,MS Wade,Gujarat Titans,bat_mid,29850682.82,0.009200122,0.112020507
+2024,R Powell,Rajasthan Royals,bat_death,82050959.5,0.00919841,0.508254284
+2018,SV Samson,Rajasthan Royals,bat_death,119387693,0.009182755,0.738559658
+2014,MK Tiwary,Delhi Capitals,bat_mid,54236514.74,0.009172804,0.202928741
+2017,MJ Henry,Punjab Kings,bowl_mid,7799001.048,0.009137283,0.071673512
+2025,JM Sharma,Royal Challengers Bengaluru,bat_death,115445000,0.009129166,0.710950978
+2014,DJG Sammy,Sunrisers Hyderabad,bowl_pp,67795643.43,0.009095979,0.626305144
+2022,Washington Sundar,Sunrisers Hyderabad,bowl_mid,108830614.4,0.009083752,0.994303528
+2017,TS Mills,Royal Challengers Bengaluru,bowl_death,187176025.2,0.009083506,0.684496218
+2024,TM Head,Sunrisers Hyderabad,bat_mid,75398179,0.009037447,0.277943355
+2022,F du Plessis,Royal Challengers Bengaluru,bat_death,87064491.56,0.009034014,0.531864229
+2025,JR Hazlewood,Royal Challengers Bengaluru,bowl_mid,131187500,0.009030585,1.191546349
+2016,DR Smith,Gujarat Titans,bowl_death,37636887.2,0.009027266,0.136840894
+2015,AD Mathews,Delhi Capitals,bat_death,130915003,0.009002747,0.797611171
+2022,Mohammed Shami,Gujarat Titans,bowl_mid,77736153.18,0.008994351,0.703226935
+2022,KD Karthik,Royal Challengers Bengaluru,bat_mid,68407814.79,0.008959541,0.250000662
+2022,RA Tripathi,Sunrisers Hyderabad,bat_pp,105721168.3,0.008926471,0.866463813
+2022,Washington Sundar,Sunrisers Hyderabad,bat_death,108830614.4,0.008909328,0.657771214
+2023,JO Holder,Rajasthan Royals,bowl_pp,68027452.61,0.008888976,0.61414467
+2014,Q de Kock,Delhi Capitals,bat_pp,67795643.43,0.00887516,0.552996884
+2022,LH Ferguson,Gujarat Titans,bowl_mid,124377845.1,0.008865019,1.108984043
+2013,AM Nayar,Lucknow Super Giants,bowl_pp,83114359.62,0.008859175,0.747832063
+2025,DA Miller,Lucknow Super Giants,bat_death,78712500,0.008854603,0.473496832
+2016,MM Sharma,Punjab Kings,bowl_pp,106365116,0.008826773,0.9535334
+2018,KL Rahul,Punjab Kings,bat_death,164158077.9,0.008826334,0.985082545
+2013,DP Nannes,Chennai Super Kings,bowl_mid,73879430.77,0.00880787,0.654481026
+2019,AR Patel,Delhi Capitals,bowl_pp,72212627.65,0.008798518,0.645293699
+2014,R Dhawan,Punjab Kings,bowl_pp,58110551.51,0.008796675,0.519168477
+2025,Akash Deep,Lucknow Super Giants,bowl_mid,83960000,0.008792479,0.742482809
+2019,CR Brathwaite,Kolkata Knight Riders,bowl_mid,72212627.65,0.008766004,0.636674453
+2014,F du Plessis,Chennai Super Kings,bat_mid,92008373.23,0.008760871,0.328794326
+2021,RP Meredith,Punjab Kings,bowl_mid,106089326.7,0.008754527,0.934129262
+2020,SO Hetmyer,Delhi Capitals,bat_death,107676356.8,0.008749625,0.641849315
+2025,Mohammed Shami,Sunrisers Hyderabad,bowl_pp,104950000,0.008732001,0.930745553
+2013,NM Coulter-Nile,Mumbai Indians,bowl_mid,55409573.08,0.008722789,0.486119219
+2018,MP Stoinis,Punjab Kings,bowl_mid,92525462.11,0.008715166,0.811034929
+2025,JM Sharma,Royal Challengers Bengaluru,bat_mid,115445000,0.008670279,0.408279787
+2014,AJ Finch,Sunrisers Hyderabad,bat_pp,77480735.35,0.008602989,0.615998695
+2016,SR Watson,Royal Challengers Bengaluru,bowl_mid,155456708,0.008601357,1.344866169
+2013,KW Richardson,Lucknow Super Giants,bowl_pp,86192669.23,0.008597916,0.752659028
+2016,CH Morris,Delhi Capitals,bowl_pp,114547048,0.008563864,0.996296092
+2025,A Nortje,Kolkata Knight Riders,bowl_death,68217500,0.008562766,0.236111763
+2018,G Gambhir,Delhi Capitals,bat_pp,41785692.56,0.008525151,0.329743318
+2016,P Kumar,Gujarat Titans,bowl_mid,57273524,0.008492369,0.489198768
+2025,Akash Deep,Lucknow Super Giants,bowl_pp,83960000,0.008490806,0.72402923
+2014,MK Tiwary,Delhi Capitals,bowl_death,54236514.74,0.008489086,0.186218725
+2025,Ishan Kishan,Sunrisers Hyderabad,bat_mid,118068750,0.008484198,0.408597236
+2014,A Mishra,Sunrisers Hyderabad,bowl_pp,92008373.23,0.008402367,0.785170084
+2014,JH Kallis,Kolkata Knight Riders,bowl_mid,106536011.1,0.008400576,0.900135954
+2022,N Pooran,Sunrisers Hyderabad,bat_mid,133706183.5,0.008376417,0.456835096
+2022,R Shepherd,Sunrisers Hyderabad,bowl_death,96392829.94,0.008354897,0.326096951
+2018,KA Pollard,Mumbai Indians,bat_mid,80586692.8,0.008327466,0.27373219
+2019,SM Curran,Punjab Kings,bowl_mid,103986183.8,0.008315744,0.869719794
+2014,AJ Finch,Sunrisers Hyderabad,bat_mid,77480735.35,0.008288962,0.261965169
+2024,PJ Cummins,Sunrisers Hyderabad,bowl_death,227303333.8,0.008266297,0.761394636
+2025,DL Chahar,Mumbai Indians,bowl_mid,97078750,0.008259111,0.80641781
+2016,Yuvraj Singh,Sunrisers Hyderabad,bat_mid,114547048,0.008243698,0.385172849
+2015,AD Mathews,Delhi Capitals,bowl_pp,130915003,0.00821194,1.091867463
+2014,MG Johnson,Punjab Kings,bowl_pp,125906194.9,0.00820573,1.049298562
+2022,Washington Sundar,Sunrisers Hyderabad,bowl_pp,108830614.4,0.008179173,0.904055813
+2018,CR Woakes,Royal Challengers Bengaluru,bowl_mid,110433616.1,0.008177831,0.908326622
+2014,CJ Anderson,Mumbai Indians,bowl_pp,87165827.27,0.008165442,0.722870862
+2018,DA Miller,Punjab Kings,bat_mid,44770384.89,0.008146105,0.148761492
+2022,YS Chahal,Rajasthan Royals,bowl_pp,80845599.3,0.008096196,0.664771117
+2018,RV Uthappa,Kolkata Knight Riders,bat_pp,95510154.43,0.008066961,0.720500484
+2013,KW Richardson,Lucknow Super Giants,bowl_mid,86192669.23,0.008060622,0.698781651
+2018,WP Saha,Sunrisers Hyderabad,bat_pp,74617308.15,0.008037809,0.561240855
+2022,M Prasidh Krishna,Rajasthan Royals,bowl_mid,124377845.1,0.007991003,0.999647666
+2018,BA Stokes,Rajasthan Royals,bowl_death,186543270.4,0.007986525,0.605237417
+2018,AJ Finch,Punjab Kings,bat_mid,92525462.11,0.007952585,0.300136799
+2014,KV Sharma,Sunrisers Hyderabad,bat_death,72638189.39,0.007928351,0.401956457
+2022,N Pooran,Sunrisers Hyderabad,bat_death,133706183.5,0.007920548,0.739344438
+2022,MR Marsh,Delhi Capitals,bat_death,80845599.3,0.007907972,0.446516583
+2022,TH David,Mumbai Indians,bat_mid,102611722.2,0.007889685,0.330222251
+2021,MM Ali,Chennai Super Kings,bowl_pp,92828160.9,0.007887861,0.743658857
+2014,RV Uthappa,Kolkata Knight Riders,bat_death,96850919.19,0.007886896,0.533853352
+2023,MA Agarwal,Sunrisers Hyderabad,bat_mid,97604605.91,0.00787951,0.313703373
+2014,MG Johnson,Punjab Kings,bowl_mid,125906194.9,0.007842511,0.993127154
+2025,Rasikh Salam,Royal Challengers Bengaluru,bowl_pp,62970000,0.007770086,0.496928888
+2014,IK Pathan,Sunrisers Hyderabad,bowl_pp,46488441.21,0.007737996,0.365349281
+2022,RD Chahar,Punjab Kings,bat_death,65298368.67,0.007728745,0.354559888
+2013,MS Gony,Punjab Kings,bowl_pp,61566192.31,0.007702551,0.481627899
+2018,Washington Sundar,Royal Challengers Bengaluru,bowl_pp,47755077.22,0.007702129,0.373564047
+2014,CJ Anderson,Mumbai Indians,bowl_mid,87165827.27,0.007677239,0.673060229
+2022,R Ashwin,Rajasthan Royals,bat_mid,62188922.54,0.007674737,0.19468219
+2022,N Rana,Kolkata Knight Riders,bat_death,99502276.06,0.007648923,0.536150025
+2014,JH Kallis,Kolkata Knight Riders,bowl_pp,106536011.1,0.007647965,0.827517249
+2020,CH Morris,Royal Challengers Bengaluru,bowl_mid,138937234.5,0.007634547,1.066852912
+2022,LS Livingstone,Punjab Kings,bowl_mid,143034521.8,0.007605708,1.094165841
+2014,DA Warner,Sunrisers Hyderabad,bat_pp,106536011.1,0.007603802,0.766243696
+2022,KH Pandya,Lucknow Super Giants,bat_pp,102611722.2,0.007592198,0.737115606
+2020,SS Cottrell,Punjab Kings,bowl_mid,118096649.4,0.007535323,0.895039198
+2020,SM Curran,Chennai Super Kings,bat_pp,76415478.99,0.007527468,0.545181385
+2022,R Shepherd,Sunrisers Hyderabad,bat_death,96392829.94,0.00751466,0.512662792
+2020,SO Hetmyer,Delhi Capitals,bat_mid,107676356.8,0.007497433,0.329293087
+2022,DA Warner,Delhi Capitals,bat_death,77736153.18,0.007464018,0.411389833
+2018,KL Rahul,Punjab Kings,bat_pp,164158077.9,0.007462649,1.163103272
+2020,PJ Cummins,Kolkata Knight Riders,bowl_death,215352713.5,0.007397889,0.651044448
+2018,JP Duminy,Mumbai Indians,bowl_pp,14923461.63,0.007373909,0.11176404
+2025,B Kumar,Royal Challengers Bengaluru,bowl_mid,112821250,0.007365425,0.835778765
+2023,RR Rossouw,Delhi Capitals,bat_pp,54421962.09,0.007313902,0.379452849
+2016,JD Unadkat,Kolkata Knight Riders,bowl_pp,26182182.4,0.007311215,0.19441516
+2025,R Ravindra,Chennai Super Kings,bat_mid,41980000,0.007310175,0.125175659
+2022,R Shepherd,Sunrisers Hyderabad,bowl_mid,96392829.94,0.007278412,0.705641294
+2022,Kartik Tyagi,Sunrisers Hyderabad,bowl_pp,49751138.03,0.007260372,0.366856875
+2018,CR Woakes,Royal Challengers Bengaluru,bowl_pp,110433616.1,0.007246503,0.812764087
+2018,KV Sharma,Chennai Super Kings,bowl_pp,74617308.15,0.00720873,0.546302393
+2013,RT Ponting,Mumbai Indians,bat_pp,49252953.85,0.007157051,0.337551731
+2025,Mohammed Shami,Sunrisers Hyderabad,bowl_mid,104950000,0.007124081,0.751993169
+2025,YS Chahal,Punjab Kings,bowl_mid,188910000,0.007120454,1.352898541
+2024,SH Johnson,Gujarat Titans,bowl_mid,110879675,0.007092392,0.790946797
+2016,MM Sharma,Punjab Kings,bowl_mid,106365116,0.007082059,0.757637374
+2014,MEK Hussey,Mumbai Indians,bat_pp,96850919.19,0.00708184,0.658235167
+2022,SN Thakur,Delhi Capitals,bowl_mid,133706183.5,0.007059472,0.949349978
+2014,RG Sharma,Mumbai Indians,bat_pp,36803349.29,0.007052219,0.249302335
+2018,KH Pandya,Mumbai Indians,bat_death,131326462.3,0.007032889,0.665543323
+2020,NM Coulter-Nile,Mumbai Indians,bowl_pp,111149787.6,0.007031163,0.793725858
+2018,Kuldeep Yadav,Kolkata Knight Riders,bowl_pp,86556077.45,0.007023453,0.617423291
+2025,A Nortje,Kolkata Knight Riders,bowl_pp,68217500,0.007020954,0.486437099
+2022,LS Livingstone,Punjab Kings,bowl_death,143034521.8,0.007010102,0.411559188
+2016,SR Watson,Royal Challengers Bengaluru,bowl_pp,155456708,0.006982482,1.10243767
+2020,SS Cottrell,Punjab Kings,bowl_pp,118096649.4,0.006960322,0.834836937
+2025,KH Pandya,Royal Challengers Bengaluru,bat_mid,60346250,0.00694476,0.170945322
+2018,MP Stoinis,Punjab Kings,bowl_pp,92525462.11,0.0069413,0.652284192
+2025,PD Salt,Royal Challengers Bengaluru,bat_mid,120692500,0.006937445,0.341530536
+2020,SM Curran,Chennai Super Kings,bat_mid,76415478.99,0.006919314,0.215672159
+2024,RR Rossouw,Punjab Kings,bat_pp,88703740,0.006901492,0.590727857
+2022,SN Thakur,Delhi Capitals,bowl_pp,133706183.5,0.006865584,0.932317326
+2019,JD Unadkat,Rajasthan Royals,bowl_pp,121317214.5,0.006865402,0.845908041
+2019,JD Unadkat,Rajasthan Royals,bowl_mid,121317214.5,0.006860516,0.837108617
+2016,Yuvraj Singh,Sunrisers Hyderabad,bowl_mid,114547048,0.006805695,0.784077515
+2022,Shivam Mavi,Kolkata Knight Riders,bowl_pp,90173937.68,0.006779481,0.620886547
+2024,Sameer Rizvi,Chennai Super Kings,bat_death,93138927,0.006765304,0.459049553
+2015,AD Mathews,Delhi Capitals,bowl_mid,130915003,0.006737543,0.887142919
+2014,JH Kallis,Kolkata Knight Riders,bat_mid,106536011.1,0.006732118,0.29254846
+2022,LS Livingstone,Punjab Kings,bat_death,143034521.8,0.006732021,0.70249122
+2014,DR Smith,Chennai Super Kings,bowl_pp,87165827.27,0.006677309,0.591129306
+2023,N Pooran,Lucknow Super Giants,bat_mid,189293781.2,0.006640131,0.512699257
+2017,BA Stokes,Lucknow Super Giants,bat_mid,226171030.4,0.006613992,0.610169266
+2018,MP Stoinis,Punjab Kings,bat_death,92525462.11,0.006574294,0.446832237
+2025,JC Buttler,Gujarat Titans,bat_death,165296250,0.006527298,0.794222338
+2024,SH Johnson,Gujarat Titans,bowl_pp,110879675,0.006504152,0.732449009
+2019,CA Ingram,Delhi Capitals,bat_death,92432163.39,0.006489424,0.442300772
+2024,AS Joseph,Royal Challengers Bengaluru,bowl_death,127511626.3,0.006478776,0.341419634
+2016,CH Morris,Delhi Capitals,bat_mid,114547048,0.00647161,0.302375023
+2025,DP Conway,Chennai Super Kings,bat_pp,65593750,0.006449891,0.414353533
+2023,MA Agarwal,Sunrisers Hyderabad,bat_pp,97604605.91,0.006446663,0.616326043
+2018,CA Lynn,Kolkata Knight Riders,bat_pp,143265231.6,0.006435858,0.903476551
+2021,RP Meredith,Punjab Kings,bowl_pp,106089326.7,0.006389939,0.688498801
+2022,KH Pandya,Lucknow Super Giants,bat_death,102611722.2,0.006385794,0.485479709
+2025,MP Stoinis,Punjab Kings,bowl_mid,115445000,0.006370535,0.739696667
+2018,Yuvraj Singh,Punjab Kings,bat_mid,29846923.26,0.00636165,0.077449574
+2025,R Ashwin,Chennai Super Kings,bowl_death,102326250,0.006356027,0.269261467
+2018,CA Lynn,Kolkata Knight Riders,bat_mid,143265231.6,0.006345077,0.370789487
+2025,Arshad Khan,Gujarat Titans,bowl_mid,102326250,0.006294585,0.647823579
+2022,AK Markram,Sunrisers Hyderabad,bat_pp,32338239.72,0.006264784,0.199738453
+2018,R Ashwin,Punjab Kings,bowl_pp,113418308.4,0.00621283,0.715661104
+2022,PJ Cummins,Kolkata Knight Riders,bowl_pp,90173937.68,0.00619881,0.567706821
+2022,LS Livingstone,Punjab Kings,bat_pp,143034521.8,0.006192972,0.875666404
+2022,JO Holder,Lucknow Super Giants,bat_death,108830614.4,0.006169987,0.502684928
+2024,AS Joseph,Royal Challengers Bengaluru,bowl_mid,127511626.3,0.006168131,0.791053753
+2024,PJ Cummins,Sunrisers Hyderabad,bowl_mid,227303333.8,0.006161821,1.408696802
+2025,M Jansen,Punjab Kings,bat_death,73465000,0.006155671,0.338785227
+2025,R Ashwin,Chennai Super Kings,bowl_pp,102326250,0.0061226,0.636293803
+2025,Arshdeep Singh,Punjab Kings,bowl_pp,188910000,0.006114274,1.173098897
+2020,CH Morris,Royal Challengers Bengaluru,bowl_pp,138937234.5,0.006113646,0.862687904
+2022,KH Pandya,Lucknow Super Giants,bowl_pp,102611722.2,0.006106209,0.636360738
+2018,Rashid Khan,Sunrisers Hyderabad,bat_death,134311154.7,0.006104106,0.615775579
+2021,RP Meredith,Punjab Kings,bowl_death,106089326.7,0.006081703,0.26822066
+2016,P Negi,Delhi Capitals,bowl_mid,139092844,0.006059097,0.847647598
+2016,KP Pietersen,Lucknow Super Giants,bat_mid,57273524,0.006044559,0.141210904
+2022,N Rana,Kolkata Knight Riders,bowl_mid,99502276.06,0.006025441,0.60300991
+2025,KL Rahul,Delhi Capitals,bat_death,146930000,0.006002722,0.665879961
+2019,SO Hetmyer,Royal Challengers Bengaluru,bat_pp,60658607.23,0.005999509,0.362453306
+2018,KH Pandya,Mumbai Indians,bowl_pp,131326462.3,0.005996122,0.799755887
+2018,JD Unadkat,Rajasthan Royals,bowl_mid,171619808.7,0.005985264,1.033126033
+2019,SM Curran,Punjab Kings,bowl_pp,103986183.8,0.005981307,0.63169357
+2020,PJ Cummins,Kolkata Knight Riders,bowl_pp,215352713.5,0.005938807,1.298925742
+2022,PWH de Silva,Royal Challengers Bengaluru,bowl_pp,133706183.5,0.005888794,0.799673281
+2016,Yuvraj Singh,Sunrisers Hyderabad,bat_death,114547048,0.00583532,0.509146691
+2019,CA Ingram,Delhi Capitals,bat_mid,92432163.39,0.005824139,0.219585939
+2024,DJ Mitchell,Chennai Super Kings,bat_mid,155231545,0.005795457,0.366958836
+2014,KP Pietersen,Delhi Capitals,bat_pp,174331654.5,0.005772967,1.011723156
+2024,TM Head,Sunrisers Hyderabad,bowl_mid,75398179,0.005768571,0.437453334
+2018,R Ashwin,Punjab Kings,bat_death,113418308.4,0.005755324,0.499409786
+2021,KA Jamieson,Royal Challengers Bengaluru,bowl_death,198917487.6,0.005750804,0.478164058
+2018,Rashid Khan,Sunrisers Hyderabad,bowl_pp,134311154.7,0.005729041,0.781499668
+2023,N Pooran,Lucknow Super Giants,bat_death,189293781.2,0.005709466,0.828993108
+2022,DJ Mitchell,Rajasthan Royals,bowl_pp,9328338.381,0.005672215,0.053739269
+2014,M Vijay,Delhi Capitals,bowl_mid,96850919.19,0.005672145,0.552527249
+2025,DA Miller,Lucknow Super Giants,bat_mid,78712500,0.005663219,0.181826315
+2022,SN Khan,Delhi Capitals,bat_pp,111940060.6,0.005528168,0.628849125
+2022,HV Patel,Royal Challengers Bengaluru,bowl_pp,133706183.5,0.005516012,0.749051038
+2018,BA Stokes,Rajasthan Royals,bowl_mid,186543270.4,0.005515827,1.034886737
+2022,JO Holder,Lucknow Super Giants,bowl_pp,108830614.4,0.005515645,0.609652231
+2024,HV Patel,Punjab Kings,bowl_pp,130283618.1,0.005507251,0.72871789
+2025,K Rabada,Gujarat Titans,bowl_pp,112821250,0.005498377,0.630028439
+2022,D Padikkal,Rajasthan Royals,bat_pp,96392829.94,0.005472311,0.537424394
+2025,K Rabada,Gujarat Titans,bowl_mid,112821250,0.005443966,0.617744549
+2024,PJ Cummins,Sunrisers Hyderabad,bowl_pp,227303333.8,0.005415229,1.250136261
+2022,MR Marsh,Delhi Capitals,bat_mid,80845599.3,0.005304152,0.174912978
+2021,KA Jamieson,Royal Challengers Bengaluru,bowl_pp,198917487.6,0.005300814,1.07090333
+2018,KL Rahul,Punjab Kings,bat_mid,164158077.9,0.005290202,0.35422906
+2022,JM Bairstow,Punjab Kings,bat_mid,83955045.43,0.005267049,0.180369808
+2018,KH Pandya,Mumbai Indians,bat_mid,131326462.3,0.005224777,0.279878607
+2018,SV Samson,Rajasthan Royals,bat_pp,119387693,0.005217575,0.642557562
+2017,TS Mills,Royal Challengers Bengaluru,bowl_pp,187176025.2,0.005172555,0.983309141
+2025,MP Stoinis,Punjab Kings,bowl_pp,115445000,0.005171571,0.606362494
+2014,Yuvraj Singh,Royal Challengers Bengaluru,bowl_death,271182573.7,0.005170257,0.592680017
+2025,Arshdeep Singh,Punjab Kings,bowl_mid,188910000,0.005168645,0.982051601
+2021,DT Christian,Royal Challengers Bengaluru,bowl_pp,63653596.05,0.005128243,0.331532612
+2022,Washington Sundar,Sunrisers Hyderabad,bowl_death,108830614.4,0.005087946,0.234485232
+2017,BA Stokes,Lucknow Super Giants,bowl_pp,226171030.4,0.005079476,1.166784498
+2025,KH Pandya,Royal Challengers Bengaluru,bat_death,60346250,0.005069807,0.244199813
+2021,KA Jamieson,Royal Challengers Bengaluru,bowl_mid,198917487.6,0.005027245,1.005786196
+2025,LS Livingstone,Royal Challengers Bengaluru,bowl_pp,91831250,0.004980134,0.464479224
+2022,Ishan Kishan,Mumbai Indians,bat_death,189676213.7,0.004953994,0.756124828
+2022,KH Pandya,Lucknow Super Giants,bat_mid,102611722.2,0.004943324,0.206902506
+2025,RA Tripathi,Chennai Super Kings,bat_pp,35683000,0.00494057,0.184551317
+2014,KD Karthik,Delhi Capitals,bat_mid,242127298,0.004909616,0.484887522
+2025,Washington Sundar,Gujarat Titans,bowl_pp,33584000,0.004905369,0.167316522
+2022,R Tewatia,Gujarat Titans,bowl_pp,111940060.6,0.004828457,0.548944735
+2020,AJ Finch,Royal Challengers Bengaluru,bat_mid,61132383.19,0.004827471,0.120376216
+2022,OF Smith,Punjab Kings,bat_death,74626707.05,0.004813241,0.292027516
+2022,K Rabada,Punjab Kings,bat_death,115049506.7,0.004791503,0.448908062
+2018,BA Stokes,Rajasthan Royals,bowl_pp,186543270.4,0.004790121,0.907529595
+2018,DJM Short,Rajasthan Royals,bat_pp,59693846.52,0.004763285,0.300706347
+2021,CH Morris,Rajasthan Royals,bowl_mid,215493944.9,0.004763004,1.032330138
+2021,JA Richardson,Punjab Kings,bowl_death,185656321.8,0.004700607,0.372973292
+2017,BA Stokes,Lucknow Super Giants,bowl_mid,226171030.4,0.004681606,1.064962822
+2014,MEK Hussey,Mumbai Indians,bat_mid,96850919.19,0.004675337,0.184699787
+2016,M Ashwin,Lucknow Super Giants,bowl_pp,73637388,0.004663852,0.348801124
+2025,MP Stoinis,Punjab Kings,bowl_death,115445000,0.004649302,0.229695537
+2024,DJ Mitchell,Chennai Super Kings,bowl_mid,155231545,0.004630273,0.722918209
+2024,AS Joseph,Royal Challengers Bengaluru,bowl_pp,127511626.3,0.004604226,0.596267577
+2013,AM Nayar,Lucknow Super Giants,bat_mid,83114359.62,0.004521948,0.153303215
+2018,BA Stokes,Rajasthan Royals,bat_mid,186543270.4,0.004493329,0.341898703
+2014,SPD Smith,Rajasthan Royals,bat_mid,77480735.35,0.004492288,0.141974706
+2022,R Tewatia,Gujarat Titans,bowl_mid,111940060.6,0.004478047,0.504169714
+2016,SR Watson,Royal Challengers Bengaluru,bat_mid,155456708,0.004465538,0.283160699
+2018,JD Unadkat,Rajasthan Royals,bowl_pp,171619808.7,0.004435886,0.773183476
+2017,CR Woakes,Kolkata Knight Riders,bat_death,65511608.8,0.004384512,0.241747591
+2021,JA Richardson,Punjab Kings,bowl_mid,185656321.8,0.004317168,0.8061416
+2020,NM Coulter-Nile,Mumbai Indians,bat_death,111149787.6,0.004303956,0.405501495
+2022,Ishan Kishan,Mumbai Indians,bat_mid,189676213.7,0.004284587,0.331490803
+2015,M Vijay,Punjab Kings,bat_mid,52366001.18,0.004264395,0.091087015
+2016,SR Watson,Royal Challengers Bengaluru,bat_death,155456708,0.004258999,0.563508245
+2014,Yuvraj Singh,Royal Challengers Bengaluru,bowl_mid,271182573.7,0.004217274,1.150260406
+2016,SV Samson,Delhi Capitals,bat_pp,68728228.8,0.004196144,0.316646939
+2022,SO Hetmyer,Rajasthan Royals,bat_mid,105721168.3,0.004186545,0.180537489
+2014,Yuvraj Singh,Royal Challengers Bengaluru,bat_mid,271182573.7,0.004166763,0.460903718
+2025,YS Chahal,Punjab Kings,bowl_pp,188910000,0.004151943,0.796601378
+2022,N Rana,Kolkata Knight Riders,bat_pp,99502276.06,0.004112848,0.452142572
+2025,VR Iyer,Kolkata Knight Riders,bat_death,249256250,0.004096417,0.882436915
+2021,MM Ali,Chennai Super Kings,bat_pp,92828160.9,0.004036477,0.416436996
+2023,SM Curran,Punjab Kings,bowl_mid,218870934.5,0.004029934,0.887132785
+2022,SN Thakur,Delhi Capitals,bat_death,133706183.5,0.003991309,0.466046574
+2023,SM Curran,Punjab Kings,bat_death,218870934.5,0.003967496,0.760185721
+2015,Yuvraj Singh,Delhi Capitals,bowl_death,279285339.6,0.003940028,0.481197035
+2018,KK Nair,Punjab Kings,bat_pp,83571385.13,0.003934676,0.368456078
+2022,Ishan Kishan,Mumbai Indians,bat_pp,189676213.7,0.003892289,0.830160108
+2020,PJ Cummins,Kolkata Knight Riders,bowl_mid,215352713.5,0.003877216,0.83979442
+2024,DJ Mitchell,Chennai Super Kings,bat_pp,155231545,0.003867473,0.67648301
+2025,KL Rahul,Delhi Capitals,bat_pp,146930000,0.003855744,0.638998411
+2017,TS Mills,Royal Challengers Bengaluru,bowl_mid,187176025.2,0.003841147,0.723125711
+2021,CH Morris,Rajasthan Royals,bowl_pp,215493944.9,0.003838784,0.840162945
+2025,DL Chahar,Mumbai Indians,bat_death,97078750,0.003788559,0.328138804
+2016,KD Karthik,Gujarat Titans,bat_pp,37636887.2,0.003769003,0.161206159
+2025,LS Livingstone,Royal Challengers Bengaluru,bat_mid,91831250,0.00371997,0.139341241
+2020,PJ Cummins,Kolkata Knight Riders,bat_death,215352713.5,0.003702927,0.718327053
+2014,Yuvraj Singh,Royal Challengers Bengaluru,bat_death,271182573.7,0.003489772,0.874482191
+2023,HC Brook,Sunrisers Hyderabad,bat_mid,156758912.5,0.003410027,0.218041778
+2016,P Negi,Delhi Capitals,bowl_pp,139092844,0.003374446,0.476696563
+2020,EJG Morgan,Kolkata Knight Riders,bat_pp,72942048.13,0.003368395,0.290257358
+2025,Ishan Kishan,Sunrisers Hyderabad,bat_pp,118068750,0.003308607,0.464474314
+2020,CH Morris,Royal Challengers Bengaluru,bat_death,138937234.5,0.003278795,0.432782152
+2022,SN Thakur,Delhi Capitals,bat_mid,133706183.5,0.003238805,0.176638736
+2015,Yuvraj Singh,Delhi Capitals,bat_mid,279285339.6,0.003079921,0.350862805
+2022,R Tewatia,Gujarat Titans,bat_mid,111940060.6,0.00305635,0.139552714
+2014,KP Pietersen,Delhi Capitals,bat_mid,174331654.5,0.002960937,0.210549914
+2015,Yuvraj Singh,Delhi Capitals,bowl_mid,279285339.6,0.002957888,0.830868978
+2021,JA Richardson,Punjab Kings,bowl_pp,185656321.8,0.002955945,0.55736655
+2023,HC Brook,Sunrisers Hyderabad,bat_death,156758912.5,0.002887513,0.456387836
+2019,SO Hetmyer,Royal Challengers Bengaluru,bat_mid,60658607.23,0.002864853,0.070883391
+2015,KD Karthik,Royal Challengers Bengaluru,bat_mid,183281004.1,0.002820302,0.210844718
+2025,MP Stoinis,Punjab Kings,bat_mid,115445000,0.00277667,0.13075221
+2014,CJ Anderson,Mumbai Indians,bat_pp,87165827.27,0.002752857,0.306155026
+2023,SM Curran,Punjab Kings,bat_mid,218870934.5,0.002726973,0.243454944
+2019,CV Varun,Punjab Kings,bowl_pp,121317214.5,0.002710971,0.334027405
+2014,M Vijay,Delhi Capitals,bat_pp,96850919.19,0.002673478,0.33434004
+2023,SM Curran,Punjab Kings,bowl_pp,218870934.5,0.002672945,0.59417283
+2015,Yuvraj Singh,Delhi Capitals,bowl_pp,279285339.6,0.002472529,0.701332906
+2021,CH Morris,Rajasthan Royals,bat_death,215493944.9,0.002328319,0.564702498
+2021,KA Jamieson,Royal Challengers Bengaluru,bat_death,198917487.6,0.002303582,0.518704122
+2022,NM Coulter-Nile,Rajasthan Royals,bowl_death,24875569.02,0.002225649,0.026824126
+2025,JC Buttler,Gujarat Titans,bat_pp,165296250,0.002089171,0.497350682
+2024,PJ Cummins,Sunrisers Hyderabad,bat_mid,227303333.8,0.002011933,0.186538751
+2014,Yuvraj Singh,Royal Challengers Bengaluru,bowl_pp,271182573.7,0.001947954,0.536506776
+2025,VR Iyer,Kolkata Knight Riders,bat_mid,249256250,0.00192033,0.195241212
+2017,K Rabada,Delhi Capitals,bat_mid,77990010.48,0.001851096,0.058886757
+2024,DJ Mitchell,Chennai Super Kings,bat_death,155231545,0.001634363,0.350745965
+2025,RR Pant,Lucknow Super Giants,bat_mid,283365000,0.001567015,0.181121154
+2016,P Negi,Delhi Capitals,bat_death,139092844,0.001558898,0.308820132
+2018,Ishan Kishan,Mumbai Indians,bat_pp,92525462.11,0.001548251,0.24042669
+2014,KD Karthik,Delhi Capitals,bat_pp,242127298,0.001400116,0.601956155
+2014,DJG Sammy,Sunrisers Hyderabad,bat_mid,67795643.43,0.001385136,0.03830397
+2014,GJ Bailey,Punjab Kings,bat_mid,62953097.47,0.001354593,0.034783685
+2023,BA Stokes,Chennai Super Kings,bowl_pp,192251496.5,0.001339394,0.261524779
+2017,BA Stokes,Lucknow Super Giants,bat_death,226171030.4,0.001225493,0.462927929
+2014,MG Johnson,Punjab Kings,bat_death,125906194.9,0.001075082,0.247853875
+2023,HC Brook,Sunrisers Hyderabad,bat_pp,156758912.5,0.000867818,0.326419624
+2024,PJ Cummins,Sunrisers Hyderabad,bat_death,227303333.8,0.000816334,0.416864588
+2025,RR Pant,Lucknow Super Giants,bat_death,283365000,0.000734182,0.50756937
+2022,HV Patel,Royal Challengers Bengaluru,bat_death,133706183.5,0.000589978,0.229467228
+2018,BA Stokes,Rajasthan Royals,bat_pp,186543270.4,0.000536549,0.341559997
+2025,Mohammed Shami,Sunrisers Hyderabad,bowl_death,104950000,0.000527193,0.046145797
+2014,JH Kallis,Kolkata Knight Riders,bat_pp,106536011.1,0.000419904,0.185639816
+2015,AD Mathews,Delhi Capitals,bat_mid,130915003,0.000394867,0.021085793
+2017,BA Stokes,Lucknow Super Giants,bat_pp,226171030.4,0.000179584,0.352871181
+2015,Yuvraj Singh,Delhi Capitals,bat_pp,279285339.6,6.75E-05,0.41198587
+2020,PJ Cummins,Kolkata Knight Riders,bat_mid,215352713.5,4.34E-05,0.003816066
+2025,Karim Janat,Gujarat Titans,bowl_mid,7871250,0,0
+2014,P Suyal,Mumbai Indians,bowl_pp,1937018.384,0,0
+2018,MP Stoinis,Punjab Kings,bowl_death,92525462.11,0,0.022341414
+2017,CJ Anderson,Delhi Capitals,bat_mid,15598002.1,0,0
+2015,Yuvraj Singh,Delhi Capitals,bat_death,279285339.6,0,0.393595296
+2025,RR Pant,Lucknow Super Giants,bat_pp,283365000,0,0.403500534
